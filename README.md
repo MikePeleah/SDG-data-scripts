@@ -1,5 +1,6 @@
-# Open SDG - Site starter
+# SDG data scripts
 
-This is a starter repository to help in implementing the [Open SDG](https://github.com/open-sdg/open-sdg) platform. [See here for documentation](https://open-sdg.readthedocs.io).
+This repository includes collection of scripts to access and process SDG data
 
 
+In case of any questions please email to [Mike Peleah](mailto:mike.peleah@gmail.com)
