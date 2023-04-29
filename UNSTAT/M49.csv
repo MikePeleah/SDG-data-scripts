@@ -1,0 +1,250 @@
+﻿M49_code,ISO3_code,name_en,name_ru,name_fr,name_es,name_cn,name_ar
+12,DZA,Algeria,Алжир,Algérie,Argelia,阿尔及利亚,الجزائر
+818,EGY,Egypt,Египет,Égypte,Egipto,埃及,مصر
+434,LBY,Libya,Ливия,Libye,Libia,利比亚,ليبيا
+504,MAR,Morocco,Марокко,Maroc,Marruecos,摩洛哥,المغرب
+729,SDN,Sudan,Судан,Soudan,Sudán,苏丹,السودان
+788,TUN,Tunisia,Тунис,Tunisie,Túnez,突尼斯,تونس
+732,ESH,Western Sahara,Западная Сахара,Sahara occidental,Sáhara Occidental,西撒哈拉,الصحراء الغربية
+86,IOT,British Indian Ocean Territory,Британская территория в Индийском океане,Territoire britannique de l'océan Indien,Territorio Británico del Océano Índico,英属印度洋领土,المحيط الهندي الإقليم البريطاني في
+108,BDI,Burundi,Бурунди,Burundi,Burundi,布隆迪,بوروندي
+174,COM,Comoros,Коморские Острова,Comores,Comoras,科摩罗,جزر القمر
+262,DJI,Djibouti,Джибути,Djibouti,Djibouti,吉布提,جيبوتي
+232,ERI,Eritrea,Эритрея,Érythrée,Eritrea,厄立特里亚,إريتريا
+231,ETH,Ethiopia,Эфиопия,Éthiopie,Etiopía,埃塞俄比亚,إثيوبيا
+260,ATF,French Southern Territories,Южные земли (французская заморская территория),Terres australes françaises,Territorio de las Tierras Australes Francesas,法属南方领地,الأراضي الفرنسية الجنوبية الجنوبية
+404,KEN,Kenya,Кения,Kenya,Kenya,肯尼亚,كينيا
+450,MDG,Madagascar,Мадагаскар,Madagascar,Madagascar,马达加斯加,مدغشقر
+454,MWI,Malawi,Малави,Malawi,Malawi,马拉维,ملاوي
+480,MUS,Mauritius,Маврикий,Maurice,Mauricio,毛里求斯,موريشيوس
+175,MYT,Mayotte,Остров Майотта,Mayotte,Mayotte,马约特,مايوت
+508,MOZ,Mozambique,Мозамбик,Mozambique,Mozambique,莫桑比克,موزامبيق
+638,REU,Réunion,Реюньон,Réunion,Reunión,留尼汪,ريونيون
+646,RWA,Rwanda,Руанда,Rwanda,Rwanda,卢旺达,رواندا
+690,SYC,Seychelles,Сейшельские Острова,Seychelles,Seychelles,塞舌尔,سيشيل
+706,SOM,Somalia,Сомали,Somalie,Somalia,索马里,الصومال
+728,SSD,South Sudan,Южный Судан,Soudan du Sud,Sudán del Sur,南苏丹,جنوب السودان
+800,UGA,Uganda,Уганда,Ouganda,Uganda,乌干达,أوغندا
+834,TZA,United Republic of Tanzania,Объединенная Республика Танзания,République-Unie de Tanzanie,República Unida de Tanzanía,坦桑尼亚联合共和国,جمهورية تنزانيا المتحدة
+894,ZMB,Zambia,Замбия,Zambie,Zambia,赞比亚,زامبيا
+716,ZWE,Zimbabwe,Зимбабве,Zimbabwe,Zimbabwe,津巴布韦,زمبابوي
+24,AGO,Angola,Ангола,Angola,Angola,安哥拉,أنغولا
+120,CMR,Cameroon,Камерун,Cameroun,Camerún,喀麦隆,الكاميرون
+140,CAF,Central African Republic,Центральноафриканская Республика,République centrafricaine,República Centroafricana,中非共和国,جمهورية أفريقيا الوسطى
+148,TCD,Chad,Чад,Tchad,Chad,乍得,تشاد
+178,COG,Congo,Конго,Congo,Congo,刚果,الكونغو
+180,COD,Democratic Republic of the Congo,Демократическая Республика Конго,République démocratique du Congo,República Democrática del Congo,刚果民主共和国,جمهورية الكونغو الديمقراطية
+226,GNQ,Equatorial Guinea,Экваториальная Гвинея,Guinée équatoriale,Guinea Ecuatorial,赤道几内亚,غينيا الاستوائية
+266,GAB,Gabon,Габон,Gabon,Gabón,加蓬,غابون
+678,STP,Sao Tome and Principe,Сан-Томе и Принсипи,Sao Tomé-et-Principe,Santo Tomé y Príncipe,圣多美和普林西比,سان تومي وبرينسيبي
+72,BWA,Botswana,Ботсвана,Botswana,Botswana,博茨瓦纳,بوتسوانا
+748,SWZ,Eswatini,Эсватини,Eswatini,Eswatini,斯威士兰,إسواتيني
+426,LSO,Lesotho,Лесото,Lesotho,Lesotho,莱索托,ليسوتو
+516,NAM,Namibia,Намибия,Namibie,Namibia,纳米比亚,ناميبيا
+710,ZAF,South Africa,Южная Африка,Afrique du Sud,Sudáfrica,南非,جنوب أفريقيا
+204,BEN,Benin,Бенин,Bénin,Benin,贝宁,بنن
+854,BFA,Burkina Faso,Буркина-Фасо,Burkina Faso,Burkina Faso,布基纳法索,بوركينا فاسو
+132,CPV,Cabo Verde,Кабо-Верде,Cabo Verde,Cabo Verde,佛得角,كابو فيردي
+384,CIV,Côte d’Ivoire,Кот-д'Ивуар,Côte d’Ivoire,Côte d’Ivoire,科特迪瓦,كوت ديفوار
+270,GMB,Gambia,Гамбия,Gambie,Gambia,冈比亚,غامبيا
+288,GHA,Ghana,Гана,Ghana,Ghana,加纳,غانا
+324,GIN,Guinea,Гвинея,Guinée,Guinea,几内亚,غينيا
+624,GNB,Guinea-Bissau,Гвинея-Бисау,Guinée-Bissau,Guinea-Bissau,几内亚比绍,غينيا - بيساو
+430,LBR,Liberia,Либерия,Libéria,Liberia,利比里亚,ليبريا
+466,MLI,Mali,Мали,Mali,Malí,马里,مالي
+478,MRT,Mauritania,Мавритания,Mauritanie,Mauritania,毛里塔尼亚,موريتانيا
+562,NER,Niger,Нигер,Niger,Níger,尼日尔,النيجر
+566,NGA,Nigeria,Нигерия,Nigéria,Nigeria,尼日利亚,نيجيريا
+654,SHN,Saint Helena,Остров Святой Елены,Sainte-Hélène,Santa Elena,圣赫勒拿,سانت هيلانة
+686,SEN,Senegal,Сенегал,Sénégal,Senegal,塞内加尔,السنغال
+694,SLE,Sierra Leone,Сьерра-Леоне,Sierra Leone,Sierra Leona,塞拉利昂,سيراليون
+768,TGO,Togo,Того,Togo,Togo,多哥,توغو
+660,AIA,Anguilla,Ангилья,Anguilla,Anguila,安圭拉,أنغويلا
+28,ATG,Antigua and Barbuda,Антигуа и Барбуда,Antigua-et-Barbuda,Antigua y Barbuda,安提瓜和巴布达,أنتيغوا وبربودا
+533,ABW,Aruba,Аруба,Aruba,Aruba,阿鲁巴,أروبا
+44,BHS,Bahamas,Багамские Острова,Bahamas,Bahamas,巴哈马,جزر البهاما
+52,BRB,Barbados,Барбадос,Barbade,Barbados,巴巴多斯,بربادوس
+535,BES,"Bonaire, Sint Eustatius and Saba","Бонайре, Синт-Эстатиус и Саба","Bonaire, Saint-Eustache et Saba","Bonaire, San Eustaquio y Saba",博纳尔，圣俄斯塔休斯和萨巴,بونير وسانت يوستاشيوس وسابا
+92,VGB,British Virgin Islands,Британские Виргинские острова,Îles Vierges britanniques,Islas Vírgenes Británicas,英属维尔京群岛,جزر فرجن البريطانية
+136,CYM,Cayman Islands,Кайман острова,Îles Caïmanes,Islas Caimán,开曼群岛,جزر كايمان
+192,CUB,Cuba,Куба,Cuba,Cuba,古巴,كوبا
+531,CUW,Curaçao,Кюрасао,Curaçao,Curazao,库拉索,كوراساو
+212,DMA,Dominica,Доминика,Dominique,Dominica,多米尼克,دومينيكا
+214,DOM,Dominican Republic,Доминиканская Республика,République dominicaine,República Dominicana,多米尼加,الجمهورية الدومينيكية
+308,GRD,Grenada,Гренада,Grenade,Granada,格林纳达,غرينادا
+312,GLP,Guadeloupe,Гваделупа,Guadeloupe,Guadalupe,瓜德罗普,غوادلوب
+332,HTI,Haiti,Гаити,Haïti,Haití,海地,هايتي
+388,JAM,Jamaica,Ямайка,Jamaïque,Jamaica,牙买加,جامايكا
+474,MTQ,Martinique,Мартиника,Martinique,Martinica,马提尼克,مارتينيك
+500,MSR,Montserrat,Монтсеррат,Montserrat,Montserrat,蒙特塞拉特,مونتسيرات
+630,PRI,Puerto Rico,Пуэрто-Рико,Porto Rico,Puerto Rico,波多黎各,بورتوريكو
+652,BLM,Saint Barthélemy,Сен-Бартелеми,Saint-Barthélemy,San Barthélemy,圣巴泰勒米,سان بارتليمي
+659,KNA,Saint Kitts and Nevis,Сент-Китс и Невис,Saint-Kitts-et-Nevis,Saint Kitts y Nevis,圣基茨和尼维斯,سانت كيتس ونيفس
+662,LCA,Saint Lucia,Сент-Люсия,Sainte-Lucie,Santa Lucía,圣卢西亚,سانت لوسيا
+663,MAF,Saint Martin (French Part),Сен-Мартен (французская часть),Saint-Martin (partie française),San Martín (parte francesa),圣马丁（法属）,سانت مارتن (الجزء الفرنسي)
+670,VCT,Saint Vincent and the Grenadines,Сент-Винсент и Гренадины,Saint-Vincent-et-les Grenadines,San Vicente y las Granadinas,圣文森特和格林纳丁斯,سانت فنسنت وجزر غرينادين
+534,SXM,Sint Maarten (Dutch part),Синт-Мартен (нидерландская часть),Saint-Martin (partie néerlandaise),San Martín (parte Holandesa),圣马丁（荷属）,سانت مارتن (الجزء الهولندي)
+780,TTO,Trinidad and Tobago,Тринидад и Тобаго,Trinité-et-Tobago,Trinidad y Tabago,特立尼达和多巴哥,ترينيداد وتوباغو
+796,TCA,Turks and Caicos Islands,Острова Теркс и Кайкос,Îles Turques-et-Caïques,Islas Turcas y Caicos,特克斯和凯科斯群岛,جزر تركس وكايكوس
+850,VIR,United States Virgin Islands,Виргинские острова Соединенных Штатов,Îles Vierges américaines,Islas Vírgenes de los Estados Unidos,美属维尔京群岛,جزر فرجن التابعة للولايات المتحدة
+84,BLZ,Belize,Белиз,Belize,Belice,伯利兹,بليز
+188,CRI,Costa Rica,Коста-Рика,Costa Rica,Costa Rica,哥斯达黎加,كوستاريكا
+222,SLV,El Salvador,Сальвадор,El Salvador,El Salvador,萨尔瓦多,السلفادور
+320,GTM,Guatemala,Гватемала,Guatemala,Guatemala,危地马拉,غواتيمالا
+340,HND,Honduras,Гондурас,Honduras,Honduras,洪都拉斯,هندوراس
+484,MEX,Mexico,Мексика,Mexique,México,墨西哥,المكسيك
+558,NIC,Nicaragua,Никарагуа,Nicaragua,Nicaragua,尼加拉瓜,نيكاراغوا
+591,PAN,Panama,Панама,Panama,Panamá,巴拿马,بنما
+32,ARG,Argentina,Аргентина,Argentine,Argentina,阿根廷,الأرجنتين
+68,BOL,Bolivia (Plurinational State of),Боливия (Многонациональное Государство),Bolivie (État plurinational de),Bolivia (Estado Plurinacional de),多民族玻利维亚国,بوليفيا (دولة - المتعددة القوميات)
+74,BVT,Bouvet Island,Остров Буве,Île Bouvet,Isla Bouvet,布维岛,جزيرة بوفيت
+76,BRA,Brazil,Бразилия,Brésil,Brasil,巴西,البرازيل
+152,CHL,Chile,Чили,Chili,Chile,智利,شيلي
+170,COL,Colombia,Колумбия,Colombie,Colombia,哥伦比亚,كولومبيا
+218,ECU,Ecuador,Эквадор,Équateur,Ecuador,厄瓜多尔,إكوادور
+238,FLK,Falkland Islands (Malvinas),Фолклендские (Мальвинские) острова,Îles Falkland (Malvinas),Islas Malvinas (Falkland),福克兰群岛（马尔维纳斯）,جزر فوكلاند (مالفيناس)
+254,GUF,French Guiana,Французская Гвиана,Guyane française,Guayana Francesa,法属圭亚那,غيانا الفرنسية
+328,GUY,Guyana,Гайана,Guyana,Guyana,圭亚那,غيانا
+600,PRY,Paraguay,Парагвай,Paraguay,Paraguay,巴拉圭,باراغواي
+604,PER,Peru,Перу,Pérou,Perú,秘鲁,بيرو
+239,SGS,South Georgia and the South Sandwich Islands,Южная Джорджия и Южные Сандвичевы острова,Géorgie du Sud-et-les Îles Sandwich du Sud,Georgia del Sur y las Islas Sandwich del Sur,南乔治亚岛和南桑德韦奇岛,جورجيا الجنوبية وجزر ساندويتش الجنوبية
+740,SUR,Suriname,Суринам,Suriname,Suriname,苏里南,سورينام
+858,URY,Uruguay,Уругвай,Uruguay,Uruguay,乌拉圭,أوروغواي
+862,VEN,Venezuela (Bolivarian Republic of),Венесуэла (Боливарианская Республика),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de),委内瑞拉玻利瓦尔共和国,فنزويلا (جمهورية - البوليفارية)
+60,BMU,Bermuda,Бермудские острова,Bermudes,Bermuda,百慕大,برمودا
+124,CAN,Canada,Канада,Canada,Canadá,加拿大,كندا
+304,GRL,Greenland,Гренландия,Groenland,Groenlandia,格陵兰,غرينلند
+666,SPM,Saint Pierre and Miquelon,Сен-Пьер и Микелон,Saint-Pierre-et-Miquelon,San Pedro y Miquelón,圣皮埃尔和密克隆,سان بيير وميكلون
+840,USA,United States of America,Соединенные Штаты Америки,États-Unis d’Amérique,Estados Unidos de América,美利坚合众国,الولايات المتحدة الأمريكية
+10,ATA,Antarctica,Антарктике,Antarctique,Antártida,南极洲,أنتاركتيكا
+398,KAZ,Kazakhstan,Казахстан,Kazakhstan,Kazajstán,哈萨克斯坦,كازاخستان
+417,KGZ,Kyrgyzstan,Кыргызстан,Kirghizistan,Kirguistán,吉尔吉斯斯坦,قيرغيزستان
+762,TJK,Tajikistan,Таджикистан,Tadjikistan,Tayikistán,塔吉克斯坦,طاجيكستان
+795,TKM,Turkmenistan,Туркменистан,Turkménistan,Turkmenistán,土库曼斯坦,تركمانستان
+860,UZB,Uzbekistan,Узбекистан,Ouzbékistan,Uzbekistán,乌兹别克斯坦,أوزبكستان
+156,CHN,China,Китай,Chine,China,中国,الصين
+344,HKG,"China, Hong Kong Special Administrative Region","Китай, Специальный административный район Гонконг","Chine, région administrative spéciale de Hong Kong","China, región administrativa especial de Hong Kong",中国香港特别行政区,"الصين، منطقة هونغ كونغ الإدارية الخاصة"
+446,MAC,"China, Macao Special Administrative Region","Китай, Специальный административный район Макао","Chine, région administrative spéciale de Macao","China, región administrativa especial de Macao",中国澳门特别行政区,"الصين، منطقة ماكاو الإدارية الخاصة"
+408,PRK,Democratic People's Republic of Korea,Корейская Народно-Демократическая Республика,République populaire démocratique de Corée,República Popular Democrática de Corea,朝鲜民主主义人民共和国,جمهورية كوريا الشعبية الديمقراطية
+392,JPN,Japan,Япония,Japon,Japón,日本,اليابان
+496,MNG,Mongolia,Монголия,Mongolie,Mongolia,蒙古,منغوليا
+410,KOR,Republic of Korea,Республика Корея,République de Corée,República de Corea,大韩民国,جمهورية كوريا
+96,BRN,Brunei Darussalam,Бруней-Даруссалам,Brunéi Darussalam,Brunei Darussalam,文莱达鲁萨兰国,بروني دار السلام
+116,KHM,Cambodia,Камбоджа,Cambodge,Camboya,柬埔寨,كمبوديا
+360,IDN,Indonesia,Индонезия,Indonésie,Indonesia,印度尼西亚,إندونيسيا
+418,LAO,Lao People's Democratic Republic,Лаосская Народно-Демократическая Республика,République démocratique populaire lao,República Democrática Popular Lao,老挝人民民主共和国,جمهورية لاو الديمقراطية الشعبية
+458,MYS,Malaysia,Малайзия,Malaisie,Malasia,马来西亚,ماليزيا
+104,MMR,Myanmar,Мьянма,Myanmar,Myanmar,缅甸,ميانمار
+608,PHL,Philippines,Филиппины,Philippines,Filipinas,菲律宾,الفلبين
+702,SGP,Singapore,Сингапур,Singapour,Singapur,新加坡,سنغافورة
+764,THA,Thailand,Таиланд,Thaïlande,Tailandia,泰国,تايلند
+626,TLS,Timor-Leste,Тимор-Лешти,Timor-Leste,Timor-Leste,东帝汶,تيمور - ليشتي
+704,VNM,Viet Nam,Вьетнам,Viet Nam,Viet Nam,越南,فييت نام
+4,AFG,Afghanistan,Афганистан,Afghanistan,Afganistán,阿富汗,أفغانستان
+50,BGD,Bangladesh,Бангладеш,Bangladesh,Bangladesh,孟加拉国,بنغلاديش
+64,BTN,Bhutan,Бутан,Bhoutan,Bhután,不丹,بوتان
+356,IND,India,Индия,Inde,India,印度,الهند
+364,IRN,Iran (Islamic Republic of),Иран (Исламская Республика),Iran (République islamique d’),Irán (República Islámica del),伊朗伊斯兰共和国,إيران (جمهورية - الإسلامية)
+462,MDV,Maldives,Мальдивские Острова,Maldives,Maldivas,马尔代夫,ملديف
+524,NPL,Nepal,Непал,Népal,Nepal,尼泊尔,نيبال
+586,PAK,Pakistan,Пакистан,Pakistan,Pakistán,巴基斯坦,باكستان
+144,LKA,Sri Lanka,Шри-Ланка,Sri Lanka,Sri Lanka,斯里兰卡,سري لانكا
+51,ARM,Armenia,Армения,Arménie,Armenia,亚美尼亚,أرمينيا
+31,AZE,Azerbaijan,Азербайджан,Azerbaïdjan,Azerbaiyán,阿塞拜疆,أذربيجان
+48,BHR,Bahrain,Бахрейн,Bahreïn,Bahrein,巴林,البحرين
+196,CYP,Cyprus,Кипр,Chypre,Chipre,塞浦路斯,قبرص
+268,GEO,Georgia,Грузия,Géorgie,Georgia,格鲁吉亚,جورجيا
+368,IRQ,Iraq,Ирак,Iraq,Iraq,伊拉克,العراق
+376,ISR,Israel,Израиль,Israël,Israel,以色列,إسرائيل
+400,JOR,Jordan,Иордания,Jordanie,Jordania,约旦,الأردن
+414,KWT,Kuwait,Кувейт,Koweït,Kuwait,科威特,الكويت
+422,LBN,Lebanon,Ливан,Liban,Líbano,黎巴嫩,لبنان
+512,OMN,Oman,Оман,Oman,Omán,阿曼,عمان
+634,QAT,Qatar,Катар,Qatar,Qatar,卡塔尔,قطر
+682,SAU,Saudi Arabia,Саудовская Аравия,Arabie saoudite,Arabia Saudita,沙特阿拉伯,المملكة العربية السعودية
+275,PSE,State of Palestine,Государство Палестина,État de Palestine,Estado de Palestina,巴勒斯坦国,دولة فلسطين
+760,SYR,Syrian Arab Republic,Сирийская Арабская Республика,République arabe syrienne,República Árabe Siria,阿拉伯叙利亚共和国,الجمهورية العربية السورية
+792,TUR,Türkiye,Турция,Türkiye,Türkiye,土耳其,تركيا
+784,ARE,United Arab Emirates,Объединенные Арабские Эмираты,Émirats arabes unis,Emiratos Árabes Unidos,阿拉伯联合酋长国,الإمارات العربية المتحدة
+887,YEM,Yemen,Йемен,Yémen,Yemen,也门,اليمن
+112,BLR,Belarus,Беларусь,Bélarus,Belarús,白俄罗斯,بيلاروس
+100,BGR,Bulgaria,Болгария,Bulgarie,Bulgaria,保加利亚,بلغاريا
+203,CZE,Czechia,Чехия,Tchéquie,Chequia,捷克,تشيكيا
+348,HUN,Hungary,Венгрия,Hongrie,Hungría,匈牙利,هنغاريا
+616,POL,Poland,Польша,Pologne,Polonia,波兰,بولندا
+498,MDA,Republic of Moldova,Республика Молдова,République de Moldova,República de Moldova,摩尔多瓦共和国,جمهورية مولدوفا
+642,ROU,Romania,Румыния,Roumanie,Rumania,罗马尼亚,رومانيا
+643,RUS,Russian Federation,Российская Федерация,Fédération de Russie,Federación de Rusia,俄罗斯联邦,الاتحاد الروسي
+703,SVK,Slovakia,Словакия,Slovaquie,Eslovaquia,斯洛伐克,سلوفاكيا
+804,UKR,Ukraine,Украина,Ukraine,Ucrania,乌克兰,أوكرانيا
+248,ALA,Åland Islands,Аландских островов,Îles d’Åland,Islas Åland,奥兰群岛,جزر ألاند
+831,GGY,Guernsey,Гернси,Guernesey,Guernsey,格恩西,غيرنسي
+832,JEY,Jersey,Джерси,Jersey,Jersey,泽西,جيرسي
+680,,Sark,Сарк,Sercq,Sark,萨克,سارك
+208,DNK,Denmark,Дания,Danemark,Dinamarca,丹麦,الدانمرك
+233,EST,Estonia,Эстония,Estonie,Estonia,爱沙尼亚,إستونيا
+234,FRO,Faroe Islands,Фарерские острова,Îles Féroé,Islas Feroe,法罗群岛,جزر فايرو
+246,FIN,Finland,Финляндия,Finlande,Finlandia,芬兰,فنلندا
+352,ISL,Iceland,Исландия,Islande,Islandia,冰岛,آيسلندا
+372,IRL,Ireland,Ирландия,Irlande,Irlanda,爱尔兰,آيرلندا
+833,IMN,Isle of Man,Остров Мэн,Île de Man,Isla de Man,马恩岛,جزيرة مان
+428,LVA,Latvia,Латвия,Lettonie,Letonia,拉脱维亚,لاتفيا
+440,LTU,Lithuania,Литва,Lituanie,Lituania,立陶宛,ليتوانيا
+578,NOR,Norway,Норвегия,Norvège,Noruega,挪威,النرويج
+744,SJM,Svalbard and Jan Mayen Islands,Острова Свальбард и Ян-Майен,Îles Svalbard-et-Jan Mayen,Islas Svalbard y Jan Mayen,斯瓦尔巴群岛和扬马延岛,جزيرتي سفالبارد وجان مايِن
+752,SWE,Sweden,Швеция,Suède,Suecia,瑞典,السويد
+826,GBR,United Kingdom of Great Britain and Northern Ireland,Соединенное Королевство Великобритании и Северной Ирландии,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte,大不列颠及北爱尔兰联合王国,المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية
+8,ALB,Albania,Албания,Albanie,Albania,阿尔巴尼亚,ألبانيا
+20,AND,Andorra,Андорра,Andorre,Andorra,安道尔,أندورا
+70,BIH,Bosnia and Herzegovina,Босния и Герцеговина,Bosnie-Herzégovine,Bosnia y Herzegovina,波斯尼亚和黑塞哥维那,البوسنة والهرسك
+191,HRV,Croatia,Хорватия,Croatie,Croacia,克罗地亚,كرواتيا
+292,GIB,Gibraltar,Гибралтар,Gibraltar,Gibraltar,直布罗陀,جبل طارق
+300,GRC,Greece,Греция,Grèce,Grecia,希腊,اليونان
+336,VAT,Holy See,Святой Престол,Saint-Siège,Santa Sede,教廷,الكرسي الرسولي
+380,ITA,Italy,Италия,Italie,Italia,意大利,إيطاليا
+470,MLT,Malta,Мальта,Malte,Malta,马耳他,مالطة
+499,MNE,Montenegro,Черногория,Monténégro,Montenegro,黑山,الجبل الأسود
+807,MKD,North Macedonia,Северная Македония,Macédoine du Nord,Macedonia del Norte,北马其顿,مقدونيا الشمالية
+620,PRT,Portugal,Португалия,Portugal,Portugal,葡萄牙,البرتغال
+674,SMR,San Marino,Сан-Марино,Saint-Marin,San Marino,圣马力诺,سان مارينو
+688,SRB,Serbia,Сербия,Serbie,Serbia,塞尔维亚,صربيا
+705,SVN,Slovenia,Словения,Slovénie,Eslovenia,斯洛文尼亚,سلوفينيا
+724,ESP,Spain,Испания,Espagne,España,西班牙,إسبانيا
+40,AUT,Austria,Австрия,Autriche,Austria,奥地利,النمسا
+56,BEL,Belgium,Бельгия,Belgique,Bélgica,比利时,بلجيكا
+250,FRA,France,Франция,France,Francia,法国,فرنسا
+276,DEU,Germany,Германия,Allemagne,Alemania,德国,ألمانيا
+438,LIE,Liechtenstein,Лихтенштейн,Liechtenstein,Liechtenstein,列支敦士登,ليختنشتاين
+442,LUX,Luxembourg,Люксембург,Luxembourg,Luxemburgo,卢森堡,لكسمبرغ
+492,MCO,Monaco,Монако,Monaco,Mónaco,摩纳哥,موناكو
+528,NLD,Netherlands,Нидерланды,Pays-Bas,Países Bajos,荷兰,هولندا
+756,CHE,Switzerland,Швейцария,Suisse,Suiza,瑞士,سويسرا
+36,AUS,Australia,Австралия,Australie,Australia,澳大利亚,أستراليا
+162,CXR,Christmas Island,остров Рождества,Île Christmas,Isla Christmas,圣诞岛,جزيرة عيد الميلاد
+166,CCK,Cocos (Keeling) Islands,Кокосовых (Килинг) островов,Îles des Cocos (Keeling),Islas Cocos (Keeling),科科斯（基林）群岛,جزر كوكس (كيلينغ)
+334,HMD,Heard Island and McDonald Islands,Остров Херд и острова Макдональд,Île Heard-et-Îles MacDonald,Islas Heard y McDonald,赫德岛和麦克唐纳岛,جزيرة هيرد وجزر ماكدونالد
+554,NZL,New Zealand,Новая Зеландия,Nouvelle-Zélande,Nueva Zelandia,新西兰,نيوزيلندا
+574,NFK,Norfolk Island,Остров Норфолк,Île Norfolk,Isla Norfolk,诺福克岛,جزيرة نورفولك
+242,FJI,Fiji,Фиджи,Fidji,Fiji,斐济,فيجي
+540,NCL,New Caledonia,Новая Каледония,Nouvelle-Calédonie,Nueva Caledonia,新喀里多尼亚,كاليدونيا الجديدة
+598,PNG,Papua New Guinea,Папуа-Новая Гвинея,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,巴布亚新几内亚,بابوا غينيا الجديدة
+90,SLB,Solomon Islands,Соломоновы Острова,Îles Salomon,Islas Salomón,所罗门群岛,جزر سليمان
+548,VUT,Vanuatu,Вануату,Vanuatu,Vanuatu,瓦努阿图,فانواتو
+316,GUM,Guam,Гуам,Guam,Guam,关岛,غوام
+296,KIR,Kiribati,Кирибати,Kiribati,Kiribati,基里巴斯,كيريباس
+584,MHL,Marshall Islands,Маршалловы Острова,Îles Marshall,Islas Marshall,马绍尔群岛,جزر مارشال
+583,FSM,Micronesia (Federated States of),Микронезия (Федеративные Штаты),Micronésie (États fédérés de),Micronesia (Estados Federados de),密克罗尼西亚联邦,ميكرونيزيا (ولايات - الموحدة)
+520,NRU,Nauru,Науру,Nauru,Nauru,瑙鲁,ناورو
+580,MNP,Northern Mariana Islands,Северные Марианские острова,Îles Mariannes du Nord,Islas Marianas Septentrionales,北马里亚纳群岛,جزر ماريانا الشمالية
+585,PLW,Palau,Палау,Palaos,Palau,帕劳,بالاو
+581,UMI,United States Minor Outlying Islands,Внешние малые острова Соединенных Штатов,Îles mineures éloignées des États-Unis,Islas menores alejadas de Estados Unidos,美国本土外小岛屿,نائية التابعة للولايات المتحدة
+16,ASM,American Samoa,Американское Самоа,Samoa américaines,Samoa Americana,美属萨摩亚,ساموا الأمريكية
+184,COK,Cook Islands,Острова Кука,Îles Cook,Islas Cook,库克群岛,جزر كوك
+258,PYF,French Polynesia,Французская Полинезия,Polynésie française,Polinesia Francesa,法属波利尼西亚,بولينيزيا الفرنسية
+570,NIU,Niue,Ниуэ,Nioué,Niue,纽埃,نيوي
+612,PCN,Pitcairn,Питкэрн,Pitcairn,Pitcairn,皮特凯恩,بيتكرن
+882,WSM,Samoa,Самоа,Samoa,Samoa,萨摩亚,ساموا
+772,TKL,Tokelau,Токелау,Tokélaou,Tokelau,托克劳,توكيلاو
+776,TON,Tonga,Тонга,Tonga,Tonga,汤加,تونغا
+798,TUV,Tuvalu,Тувалу,Tuvalu,Tuvalu,图瓦卢,توفالو
+876,WLF,Wallis and Futuna Islands,Острова Уоллис и Футуна,Îles Wallis-et-Futuna,Islas Wallis y Futuna,瓦利斯群岛和富图纳群岛,جزر واليس وفوتونا
