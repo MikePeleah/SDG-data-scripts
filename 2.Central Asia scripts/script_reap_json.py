@@ -55,13 +55,6 @@ data = json.load(f)
 
 #retrieve metadata
 
-# code to prevent server from Connection reset 10054 error
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-    "Accept-Encoding": "*",
-    "Connection": "keep-alive"
-}
-
 for country in countries:
     #send request to grab number of pages for the data
     for indicator in indicator_series:
