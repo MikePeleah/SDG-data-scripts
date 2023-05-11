@@ -48,6 +48,8 @@ json_files=os.listdir(path)
 f = open(os.path.join(path,'Data_KG_SI.POV.DDAY_page_2.json'))
 # loading json
 data = json.load(f)
+#closing file
+f.close()
 
 #retrieve metadata
 
