@@ -1,0 +1,81 @@
+page: 1
+pages: 1
+per_page: '5000'
+source:
+- concept:
+  - id: Country
+    variable:
+    - id: TJK
+      metatype:
+      - id: 2-alphacode
+        value: TJ
+      - id: BalanceofPaymentsManualinuse
+        value: BPM6
+      - id: CurrencyUnit
+        value: Tajik somoni
+      - id: ExternaldebtReportingstatus
+        value: Estimate
+      - id: IMFdatadisseminationstandard
+        value: Enhanced General Data Dissemination System (e-GDDS)
+      - id: IncomeGroup
+        value: Lower middle income
+      - id: Latestagriculturalcensus
+        value: '2013'
+      - id: Latesthouseholdsurvey
+        value: Demographic and Health Survey, 2017
+      - id: Latestpopulationcensus
+        value: 2020 (expected)
+      - id: Lendingcategory
+        value: IDA
+      - id: LongName
+        value: Republic of Tajikistan
+      - id: Nationalaccountsbaseyear
+        value: Original chained constant price data are rescaled.
+      - id: Nationalaccountsreferenceyear
+        value: '2000'
+      - id: PPPsurveyyear
+        value: 2017, 2014, 2011
+      - id: Region
+        value: Europe & Central Asia
+      - id: ShortName
+        value: Tajikistan
+      - id: SNApricevaluation
+        value: Value added at basic prices (VAB)
+      - id: SourceofmostrecentIncomeandexpendituredata
+        value: Expenditure survey/budget survey (ES/BS), 2015
+      - id: SystemofNationalAccounts
+        value: Country uses the 1993 System of National Accounts methodology
+      - id: TableName
+        value: Tajikistan
+      - id: WB-2code
+        value: TJ
+  - id: Series
+    variable:
+    - id: SI.POV.MDIM.XQ
+      metatype:
+      - id: Derivationmethod
+        value: The Multidimensional poverty index is calculated by multiplying multidimensional  poverty
+          headcount and average number of deprivations (intensity).
+      - id: IndicatorName
+        value: Multidimensional poverty index (scale 0-1)
+      - id: License_Type
+        value: CC BY-4.0
+      - id: License_URL
+        value: https://datacatalog.worldbank.org/public-licenses#cc-by
+      - id: Limitationsandexceptions
+        value: The MPI here is a national MPI reported by each country and differs
+          from the global MPI collected by the UNDP. Unlike the global MPI which uses
+          the same dimensions and indicators, the national MPI is calculated using
+          different dimensions and indicators by each country, therefore, it is not
+          comparable across countries.
+      - id: Shortdefinition
+        value: Proportion of the population that is multidimensionally poor adjusted
+          by the intensity of the deprivations
+      - id: Source
+        value: Government statistical agencies. Data for EU countires are from the
+          EUROSTAT
+      - id: Topic
+        value: Poverty:Multidimensional poverty
+  id: '2'
+  name: World Development Indicators
+total: 29
