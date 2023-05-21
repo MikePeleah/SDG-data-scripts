@@ -1,3 +1,0 @@
-Python scripts for collecting data from WB API
-Indicator_series=['SI.POV.DDAY', 'SI.POV.LMIC.GP', 'SI.POV.UMIC', 'SI.POV.MDIM', 'SI.POV.MDIM.XQ', 'SI.POV.NAHC']
-Country_codes=['KAZ','KGZ','TJK','TKM','UZB']
