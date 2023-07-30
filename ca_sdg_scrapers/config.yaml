@@ -1,0 +1,29 @@
+---
+common:
+  output_folder:
+  raw_data_folder: data_raw
+  processed_data_folder: data_processed
+  consolidated_data_folder: data_consolidated
+  meta_folder: metadata
+  create_folders: true
+country_specific:
+  KAZ:
+    M49_country_code: KAZ
+    scraper: OpenSDGScraper
+    folder_name: kaz
+    base_url: "https://kazstat.github.io"
+    goal_page_base_url: "https://kazstat.github.io/sdg-site-kazstat/en/{}/"
+    indicator_link_element: div
+    indicator_link_class: goal-indicator
+  KGZ:
+    M49_country_code: KGZ
+    scraper: OpenSDGScraper
+    folder_name: kgz
+    base_url: "https://sustainabledevelopment-kyrgyzstan.github.io"
+    goal_page_base_url: "https://sustainabledevelopment-kyrgyzstan.github.io/en/{}/"
+    indicator_link_element: span
+    indicator_link_class: indicator-name
+  UZB:
+    M49_country_code: UZB
+    scraper: UZBScraper
+    folder_name: uzb
