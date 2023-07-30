@@ -1,0 +1,67 @@
+Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value,M49_country_code,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2010.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),418.0,KAZ,,,,,
+2010.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),16154.0,KAZ,,,,,
+2010.0,Percent,Onager (latin Equus hemionus),2477.0,KAZ,,,,,
+2010.0,Percent,Argali (latin: Ovis ammon),13246.0,KAZ,,,,,
+2011.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),421.0,KAZ,,,,,
+2011.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),1210.0,KAZ,,,,,
+2011.0,Percent,Onager (latin Equus hemionus),2500.0,KAZ,,,,,
+2011.0,Percent,Argali (latin: Ovis ammon),13597.0,KAZ,,,,,
+2012.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),451.0,KAZ,,,,,
+2012.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),1263.0,KAZ,,,,,
+2012.0,Percent,Onager (latin Equus hemionus),2920.0,KAZ,,,,,
+2012.0,Percent,Argali (latin: Ovis ammon),13872.0,KAZ,,,,,
+2013.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),465.0,KAZ,,,,,
+2013.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),12888.0,KAZ,,,,,
+2013.0,Percent,Onager (latin Equus hemionus),3222.0,KAZ,,,,,
+2013.0,Percent,Argali (latin: Ovis ammon),14525.0,KAZ,,,,,
+2014.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),481.0,KAZ,,,,,
+2014.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),12994.0,KAZ,,,,,
+2014.0,Percent,Onager (latin Equus hemionus),3420.0,KAZ,,,,,
+2014.0,Percent,Argali (latin: Ovis ammon),14737.0,KAZ,,,,,
+2015.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),503.0,KAZ,,,,,
+2015.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),13197.0,KAZ,,,,,
+2015.0,Percent,Onager (latin Equus hemionus),3595.0,KAZ,,,,,
+2015.0,Percent,Argali (latin: Ovis ammon),15710.0,KAZ,,,,,
+2016.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),716.0,KAZ,,,,,
+2016.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),13218.0,KAZ,,,,,
+2016.0,Percent,Onager (latin Equus hemionus),3807.0,KAZ,,,,,
+2016.0,Percent,Argali (latin: Ovis ammon),15979.0,KAZ,,,,,
+2017.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),825.0,KAZ,,,,,
+2017.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),13727.0,KAZ,,,,,
+2017.0,Percent,Onager (latin Equus hemionus),3984.0,KAZ,,,,,
+2017.0,Percent,Argali (latin: Ovis ammon),16802.0,KAZ,,,,,
+2018.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),856.0,KAZ,,,,,
+2018.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),14055.0,KAZ,,,,,
+2018.0,Percent,Onager (latin Equus hemionus),4103.0,KAZ,,,,,
+2018.0,Percent,Argali (latin: Ovis ammon),16980.0,KAZ,,,,,
+2019.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),878.0,KAZ,,,,,
+2019.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),14391.0,KAZ,,,,,
+2019.0,Percent,Onager (latin Equus hemionus),4197.0,KAZ,,,,,
+2019.0,Percent,Argali (latin: Ovis ammon),17954.0,KAZ,,,,,
+2020.0,Percent,The Bactrian deer (latin: Cervus elaphus bactrianus),914.0,KAZ,,,,,
+2020.0,Percent,Goitered gazelle (latin: Gazella subgutturosa),14831.0,KAZ,,,,,
+2020.0,Percent,Onager (latin Equus hemionus),4255.0,KAZ,,,,,
+2020.0,Percent,Argali (latin: Ovis ammon),18465.0,KAZ,,,,,
+,,,,UZB,01_101_,Total,True,2000.0,0.0
+,,,,UZB,01_101_,Total,True,2001.0,0.0
+,,,,UZB,01_101_,Total,True,2002.0,0.0
+,,,,UZB,01_101_,Total,True,2003.0,0.0
+,,,,UZB,01_101_,Total,True,2004.0,0.0
+,,,,UZB,01_101_,Total,True,2005.0,0.0
+,,,,UZB,01_101_,Total,True,2006.0,0.0
+,,,,UZB,01_101_,Total,True,2007.0,0.0
+,,,,UZB,01_101_,Total,True,2008.0,0.0
+,,,,UZB,01_101_,Total,True,2009.0,0.0
+,,,,UZB,01_101_,Total,True,2010.0,0.0
+,,,,UZB,01_101_,Total,True,2011.0,0.0
+,,,,UZB,01_101_,Total,True,2012.0,0.0
+,,,,UZB,01_101_,Total,True,2013.0,0.0
+,,,,UZB,01_101_,Total,True,2014.0,0.0
+,,,,UZB,01_101_,Total,True,2015.0,1.2
+,,,,UZB,01_101_,Total,True,2016.0,2.0
+,,,,UZB,01_101_,Total,True,2017.0,0.3
+,,,,UZB,01_101_,Total,True,2018.0,0.9
+,,,,UZB,01_101_,Total,True,2019.0,2.2
+,,,,UZB,01_101_,Total,True,2020.0,3.1
+,,,,UZB,01_101_,Total,True,2021.0,2.0

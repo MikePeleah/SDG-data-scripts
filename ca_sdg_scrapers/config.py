@@ -1,6 +1,15 @@
+from abc import ABC
 from typing import Union
 from pathlib import Path
 import yaml
+
+class Configurable(ABC):
+    def __init__(self, country_id: str, path_to_config: Union[str, Path, None] = None):
+        self.config = Config(path_to_config, country_id=country_id)
+        self.country_id = country_id
+        self.common_params: dict = self.config.get_common_params()
+        self.country_params: dict = self.config.get_country_params(country_id)
+        self.country_code = self.country_params['M49_country_code']    
 
 class Config(object):
     def __init__(self, path_to_config: Union[str, Path, None], country_id: Union[str, None] = None) -> None:
@@ -76,12 +85,17 @@ class Config(object):
     
     def get_consolidated_data_path(self) -> Path:
         """Get path to save consolidated data to."""
-        if self.country_id is None:
-            raise ValueError('Country ID must be specified.')
-
         path = self.get_output_path() / self.common['consolidated_data_folder']
 
         if self.common['create_folders']:
             path.mkdir(parents=True, exist_ok=True)
 
         return path
+    
+    def get_raw_file_list(self) -> list[Path]:
+        """Get list of raw files from the source."""
+        return [f for f in self.get_raw_data_path().iterdir() if f.is_file()]
+
+    def get_processed_file_list(self) -> list[Path]:
+        """Get list of processed files from the source."""
+        return [f for f in self.get_processed_data_path().iterdir() if f.is_file()]

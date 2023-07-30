@@ -1,0 +1,285 @@
+Year,Reference area,Sex,GeoCode,Value,M49_country_code
+2007,,,,1.5,KGZ
+2008,,,,1.9,KGZ
+2009,,,,1.3,KGZ
+2010,,,,0.9,KGZ
+2011,,,,1.0,KGZ
+2012,,,,1.1,KGZ
+2013,,,,0.8,KGZ
+2014,,,,0.8,KGZ
+2015,,,,0.7,KGZ
+2016,,,,0.8,KGZ
+2017,,,,0.8,KGZ
+2018,,,,0.8,KGZ
+2019,,,,0.9,KGZ
+2020,,,,0.8,KGZ
+2007,,Female,,0.9,KGZ
+2008,,Female,,1.4,KGZ
+2009,,Female,,0.8,KGZ
+2010,,Female,,0.6,KGZ
+2011,,Female,,0.4,KGZ
+2012,,Female,,0.7,KGZ
+2013,,Female,,0.5,KGZ
+2014,,Female,,0.3,KGZ
+2015,,Female,,0.3,KGZ
+2016,,Female,,0.4,KGZ
+2017,,Female,,0.4,KGZ
+2018,,Female,,0.5,KGZ
+2019,,Female,,0.5,KGZ
+2020,,Female,,0.6,KGZ
+2007,,Male,,2.2,KGZ
+2008,,Male,,2.4,KGZ
+2009,,Male,,1.8,KGZ
+2010,,Male,,1.2,KGZ
+2011,,Male,,1.6,KGZ
+2012,,Male,,1.6,KGZ
+2013,,Male,,1.2,KGZ
+2014,,Male,,1.3,KGZ
+2015,,Male,,1.2,KGZ
+2016,,Male,,1.1,KGZ
+2017,,Male,,1.2,KGZ
+2018,,Male,,1.1,KGZ
+2019,,Male,,1.3,KGZ
+2020,,Male,,1.0,KGZ
+2007,Batken,,KG05,0.9,KGZ
+2008,Batken,,KG05,0.2,KGZ
+2009,Batken,,KG05,1.6,KGZ
+2011,Batken,,KG05,0.4,KGZ
+2013,Batken,,KG05,0.6,KGZ
+2014,Batken,,KG05,0.2,KGZ
+2015,Batken,,KG05,1.6,KGZ
+2016,Batken,,KG05,0.2,KGZ
+2017,Batken,,KG05,1.6,KGZ
+2018,Batken,,KG05,0.8,KGZ
+2019,Batken,,KG05,3.2,KGZ
+2020,Batken,,KG05,2.4,KGZ
+2009,Batken,Female,KG05,0.9,KGZ
+2013,Batken,Female,KG05,0.9,KGZ
+2017,Batken,Female,KG05,0.4,KGZ
+2018,Batken,Female,KG05,0.8,KGZ
+2019,Batken,Female,KG05,1.9,KGZ
+2020,Batken,Female,KG05,1.1,KGZ
+2007,Batken,Male,KG05,1.9,KGZ
+2008,Batken,Male,KG05,0.5,KGZ
+2009,Batken,Male,KG05,2.3,KGZ
+2011,Batken,Male,KG05,0.9,KGZ
+2013,Batken,Male,KG05,0.4,KGZ
+2014,Batken,Male,KG05,0.4,KGZ
+2015,Batken,Male,KG05,3.2,KGZ
+2016,Batken,Male,KG05,0.4,KGZ
+2017,Batken,Male,KG05,2.7,KGZ
+2018,Batken,Male,KG05,0.8,KGZ
+2019,Batken,Male,KG05,4.4,KGZ
+2020,Batken,Male,KG05,3.6,KGZ
+2007,Jalal-Abad,,KG03,0.2,KGZ
+2008,Jalal-Abad,,KG03,0.2,KGZ
+2009,Jalal-Abad,,KG03,0.9,KGZ
+2010,Jalal-Abad,,KG03,0.6,KGZ
+2011,Jalal-Abad,,KG03,0.3,KGZ
+2012,Jalal-Abad,,KG03,0.5,KGZ
+2015,Jalal-Abad,,KG03,0.1,KGZ
+2016,Jalal-Abad,,KG03,0.1,KGZ
+2017,Jalal-Abad,,KG03,0.5,KGZ
+2019,Jalal-Abad,,KG03,0.4,KGZ
+2020,Jalal-Abad,,KG03,0.5,KGZ
+2009,Jalal-Abad,Female,KG03,0.8,KGZ
+2010,Jalal-Abad,Female,KG03,0.6,KGZ
+2012,Jalal-Abad,Female,KG03,0.2,KGZ
+2019,Jalal-Abad,Female,KG03,0.3,KGZ
+2020,Jalal-Abad,Female,KG03,0.5,KGZ
+2007,Jalal-Abad,Male,KG03,0.4,KGZ
+2008,Jalal-Abad,Male,KG03,0.4,KGZ
+2009,Jalal-Abad,Male,KG03,1.0,KGZ
+2010,Jalal-Abad,Male,KG03,0.6,KGZ
+2011,Jalal-Abad,Male,KG03,0.6,KGZ
+2012,Jalal-Abad,Male,KG03,0.7,KGZ
+2015,Jalal-Abad,Male,KG03,0.2,KGZ
+2016,Jalal-Abad,Male,KG03,0.2,KGZ
+2017,Jalal-Abad,Male,KG03,1.0,KGZ
+2019,Jalal-Abad,Male,KG03,0.5,KGZ
+2020,Jalal-Abad,Male,KG03,0.5,KGZ
+2007,Issyk-Kul,,KG02,2.8,KGZ
+2008,Issyk-Kul,,KG02,3.7,KGZ
+2009,Issyk-Kul,,KG02,2.5,KGZ
+2010,Issyk-Kul,,KG02,1.4,KGZ
+2011,Issyk-Kul,,KG02,1.8,KGZ
+2012,Issyk-Kul,,KG02,0.7,KGZ
+2013,Issyk-Kul,,KG02,1.5,KGZ
+2014,Issyk-Kul,,KG02,2.4,KGZ
+2015,Issyk-Kul,,KG02,0.2,KGZ
+2016,Issyk-Kul,,KG02,1.3,KGZ
+2017,Issyk-Kul,,KG02,1.0,KGZ
+2018,Issyk-Kul,,KG02,0.8,KGZ
+2019,Issyk-Kul,,KG02,0.6,KGZ
+2020,Issyk-Kul,,KG02,1.0,KGZ
+2007,Issyk-Kul,Female,KG02,1.4,KGZ
+2008,Issyk-Kul,Female,KG02,3.2,KGZ
+2009,Issyk-Kul,Female,KG02,0.9,KGZ
+2010,Issyk-Kul,Female,KG02,0.9,KGZ
+2011,Issyk-Kul,Female,KG02,1.3,KGZ
+2012,Issyk-Kul,Female,KG02,0.4,KGZ
+2013,Issyk-Kul,Female,KG02,0.9,KGZ
+2014,Issyk-Kul,Female,KG02,0.4,KGZ
+2016,Issyk-Kul,Female,KG02,1.3,KGZ
+2017,Issyk-Kul,Female,KG02,0.4,KGZ
+2019,Issyk-Kul,Female,KG02,0.4,KGZ
+2020,Issyk-Kul,Female,KG02,0.8,KGZ
+2007,Issyk-Kul,Male,KG02,4.2,KGZ
+2008,Issyk-Kul,Male,KG02,4.2,KGZ
+2009,Issyk-Kul,Male,KG02,4.1,KGZ
+2010,Issyk-Kul,Male,KG02,1.8,KGZ
+2011,Issyk-Kul,Male,KG02,2.3,KGZ
+2012,Issyk-Kul,Male,KG02,0.9,KGZ
+2013,Issyk-Kul,Male,KG02,2.2,KGZ
+2014,Issyk-Kul,Male,KG02,4.4,KGZ
+2015,Issyk-Kul,Male,KG02,0.4,KGZ
+2016,Issyk-Kul,Male,KG02,1.3,KGZ
+2017,Issyk-Kul,Male,KG02,1.7,KGZ
+2018,Issyk-Kul,Male,KG02,1.7,KGZ
+2019,Issyk-Kul,Male,KG02,0.8,KGZ
+2020,Issyk-Kul,Male,KG02,1.2,KGZ
+2007,Naryn,,KG04,1.2,KGZ
+2010,Naryn,,KG04,0.4,KGZ
+2013,Naryn,,KG04,0.4,KGZ
+2018,Naryn,,KG04,1.1,KGZ
+2007,Naryn,Female,KG04,0.8,KGZ
+2018,Naryn,Female,KG04,0.7,KGZ
+2007,Naryn,Male,KG04,1.5,KGZ
+2010,Naryn,Male,KG04,0.8,KGZ
+2013,Naryn,Male,KG04,0.7,KGZ
+2018,Naryn,Male,KG04,1.4,KGZ
+2008,Osh,,KG06,0.2,KGZ
+2009,Osh,,KG06,0.3,KGZ
+2011,Osh,,KG06,0.1,KGZ
+2012,Osh,,KG06,0.3,KGZ
+2015,Osh,,KG06,0.3,KGZ
+2016,Osh,,KG06,0.2,KGZ
+2017,Osh,,KG06,0.2,KGZ
+2018,Osh,,KG06,0.2,KGZ
+2019,Osh,,KG06,0.4,KGZ
+2020,Osh,,KG06,0.4,KGZ
+2008,Osh,Female,KG06,0.2,KGZ
+2012,Osh,Female,KG06,0.3,KGZ
+2015,Osh,Female,KG06,0.2,KGZ
+2017,Osh,Female,KG06,0.3,KGZ
+2019,Osh,Female,KG06,0.3,KGZ
+2020,Osh,Female,KG06,0.4,KGZ
+2008,Osh,Male,KG06,0.2,KGZ
+2009,Osh,Male,KG06,0.5,KGZ
+2011,Osh,Male,KG06,0.2,KGZ
+2012,Osh,Male,KG06,0.3,KGZ
+2015,Osh,Male,KG06,0.5,KGZ
+2016,Osh,Male,KG06,0.5,KGZ
+2018,Osh,Male,KG06,0.3,KGZ
+2019,Osh,Male,KG06,0.6,KGZ
+2020,Osh,Male,KG06,0.3,KGZ
+2008,Talas,,KG07,0.9,KGZ
+2009,Talas,,KG07,0.4,KGZ
+2013,Talas,,KG07,0.4,KGZ
+2014,Talas,,KG07,0.4,KGZ
+2015,Talas,,KG07,0.4,KGZ
+2016,Talas,,KG07,0.4,KGZ
+2019,Talas,,KG07,0.4,KGZ
+2008,Talas,Male,KG07,1.8,KGZ
+2009,Talas,Male,KG07,0.9,KGZ
+2013,Talas,Male,KG07,0.8,KGZ
+2014,Talas,Male,KG07,0.8,KGZ
+2015,Talas,Male,KG07,0.8,KGZ
+2016,Talas,Male,KG07,0.8,KGZ
+2019,Talas,Male,KG07,0.7,KGZ
+2007,Chui,,KG08,4.2,KGZ
+2008,Chui,,KG08,6.1,KGZ
+2009,Chui,,KG08,3.0,KGZ
+2010,Chui,,KG08,3.2,KGZ
+2011,Chui,,KG08,2.3,KGZ
+2012,Chui,,KG08,3.1,KGZ
+2013,Chui,,KG08,2.2,KGZ
+2014,Chui,,KG08,1.9,KGZ
+2015,Chui,,KG08,2.0,KGZ
+2016,Chui,,KG08,2.2,KGZ
+2017,Chui,,KG08,2.2,KGZ
+2018,Chui,,KG08,2.6,KGZ
+2019,Chui,,KG08,2.0,KGZ
+2020,Chui,,KG08,1.7,KGZ
+2007,Chui,Female,KG08,2.5,KGZ
+2008,Chui,Female,KG08,4.4,KGZ
+2009,Chui,Female,KG08,2.4,KGZ
+2010,Chui,Female,KG08,2.2,KGZ
+2011,Chui,Female,KG08,0.5,KGZ
+2012,Chui,Female,KG08,1.7,KGZ
+2013,Chui,Female,KG08,0.7,KGZ
+2014,Chui,Female,KG08,0.7,KGZ
+2015,Chui,Female,KG08,1.6,KGZ
+2016,Chui,Female,KG08,0.4,KGZ
+2017,Chui,Female,KG08,1.3,KGZ
+2018,Chui,Female,KG08,1.7,KGZ
+2019,Chui,Female,KG08,0.8,KGZ
+2020,Chui,Female,KG08,1.2,KGZ
+2007,Chui,Male,KG08,5.9,KGZ
+2008,Chui,Male,KG08,7.9,KGZ
+2009,Chui,Male,KG08,3.5,KGZ
+2010,Chui,Male,KG08,4.3,KGZ
+2011,Chui,Male,KG08,4.2,KGZ
+2012,Chui,Male,KG08,4.6,KGZ
+2013,Chui,Male,KG08,3.8,KGZ
+2014,Chui,Male,KG08,3.1,KGZ
+2015,Chui,Male,KG08,2.5,KGZ
+2016,Chui,Male,KG08,4.1,KGZ
+2017,Chui,Male,KG08,3.1,KGZ
+2018,Chui,Male,KG08,3.5,KGZ
+2019,Chui,Male,KG08,3.2,KGZ
+2020,Chui,Male,KG08,2.1,KGZ
+2007,Bishkek (city),,KG11,3.2,KGZ
+2008,Bishkek (city),,KG11,3.4,KGZ
+2009,Bishkek (city),,KG11,1.8,KGZ
+2010,Bishkek (city),,KG11,0.9,KGZ
+2011,Bishkek (city),,KG11,2.3,KGZ
+2012,Bishkek (city),,KG11,2.6,KGZ
+2013,Bishkek (city),,KG11,1.9,KGZ
+2014,Bishkek (city),,KG11,1.9,KGZ
+2015,Bishkek (city),,KG11,1.1,KGZ
+2016,Bishkek (city),,KG11,1.5,KGZ
+2017,Bishkek (city),,KG11,0.9,KGZ
+2018,Bishkek (city),,KG11,1.3,KGZ
+2019,Bishkek (city),,KG11,0.4,KGZ
+2020,Bishkek (city),,KG11,0.6,KGZ
+2007,Bishkek (city),Female,KG11,2.3,KGZ
+2008,Bishkek (city),Female,KG11,2.7,KGZ
+2009,Bishkek (city),Female,KG11,1.1,KGZ
+2010,Bishkek (city),Female,KG11,0.4,KGZ
+2011,Bishkek (city),Female,KG11,1.1,KGZ
+2012,Bishkek (city),Female,KG11,1.5,KGZ
+2013,Bishkek (city),Female,KG11,1.4,KGZ
+2014,Bishkek (city),Female,KG11,1.2,KGZ
+2015,Bishkek (city),Female,KG11,0.4,KGZ
+2016,Bishkek (city),Female,KG11,1.5,KGZ
+2017,Bishkek (city),Female,KG11,0.4,KGZ
+2018,Bishkek (city),Female,KG11,0.7,KGZ
+2019,Bishkek (city),Female,KG11,0.2,KGZ
+2007,Bishkek (city),Male,KG11,4.2,KGZ
+2008,Bishkek (city),Male,KG11,4.2,KGZ
+2009,Bishkek (city),Male,KG11,2.6,KGZ
+2010,Bishkek (city),Male,KG11,1.5,KGZ
+2011,Bishkek (city),Male,KG11,3.7,KGZ
+2012,Bishkek (city),Male,KG11,3.9,KGZ
+2013,Bishkek (city),Male,KG11,2.4,KGZ
+2014,Bishkek (city),Male,KG11,2.8,KGZ
+2015,Bishkek (city),Male,KG11,1.8,KGZ
+2016,Bishkek (city),Male,KG11,1.5,KGZ
+2017,Bishkek (city),Male,KG11,1.5,KGZ
+2018,Bishkek (city),Male,KG11,1.9,KGZ
+2019,Bishkek (city),Male,KG11,0.6,KGZ
+2020,Bishkek (city),Male,KG11,1.2,KGZ
+2007,Osh (city),,KG21,0.4,KGZ
+2011,Osh (city),,KG21,0.4,KGZ
+2012,Osh (city),,KG21,1.2,KGZ
+2015,Osh (city),,KG21,0.4,KGZ
+2019,Osh (city),,KG21,1.0,KGZ
+2020,Osh (city),,KG21,0.6,KGZ
+2007,Osh (city),Female,KG21,0.7,KGZ
+2012,Osh (city),Female,KG21,1.5,KGZ
+2020,Osh (city),Female,KG21,1.2,KGZ
+2011,Osh (city),Male,KG21,0.8,KGZ
+2012,Osh (city),Male,KG21,0.8,KGZ
+2015,Osh (city),Male,KG21,0.8,KGZ
+2019,Osh (city),Male,KG21,2.0,KGZ

@@ -1,0 +1,72 @@
+Year,Reference area,GeoCode,Value,M49_country_code,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2007.0,,,0.018437,KGZ,,,,,
+2008.0,,,0.003428,KGZ,,,,,
+2009.0,,,0.000743,KGZ,,,,,
+2010.0,,,0.000367,KGZ,,,,,
+2011.0,,,0.007979,KGZ,,,,,
+2012.0,,,0.000535,KGZ,,,,,
+2013.0,,,0.000699,KGZ,,,,,
+2015.0,,,0.000168,KGZ,,,,,
+2016.0,,,0.000987,KGZ,,,,,
+2017.0,,,0.000323,KGZ,,,,,
+2018.0,,,0.000158,KGZ,,,,,
+2019.0,,,0.0,KGZ,,,,,
+2021.0,,,0.0,KGZ,,,,,
+2007.0,Batken,KG05,0.051816,KGZ,,,,,
+2008.0,Batken,KG05,0.004667,KGZ,,,,,
+2009.0,Batken,KG05,0.006969,KGZ,,,,,
+2007.0,Jalal-Abad,KG03,0.006141,KGZ,,,,,
+2008.0,Jalal-Abad,KG03,0.001013,KGZ,,,,,
+2009.0,Jalal-Abad,KG03,0.000985,KGZ,,,,,
+2010.0,Jalal-Abad,KG03,0.001942,KGZ,,,,,
+2007.0,Issyk-Kul,KG02,0.0,KGZ,,,,,
+2008.0,Issyk-Kul,KG02,0.0,KGZ,,,,,
+2012.0,Issyk-Kul,KG02,0.002219,KGZ,,,,,
+2007.0,Naryn,KG04,0.003714,KGZ,,,,,
+2008.0,Naryn,KG04,0.003695,KGZ,,,,,
+2008.0,Osh,KG06,0.0,KGZ,,,,,
+2011.0,Osh,KG06,0.000878,KGZ,,,,,
+2007.0,Talas,KG07,0.0,KGZ,,,,,
+2008.0,Talas,KG07,0.0,KGZ,,,,,
+2007.0,Chui,KG08,0.031648,KGZ,,,,,
+2008.0,Chui,KG08,0.005255,KGZ,,,,,
+2012.0,Chui,KG08,0.001204,KGZ,,,,,
+2016.0,Chui,KG08,0.001116,KGZ,,,,,
+2017.0,Chui,KG08,0.0,KGZ,,,,,
+2018.0,Chui,KG08,0.001074,KGZ,,,,,
+2019.0,Chui,KG08,1.0,KGZ,,,,,
+2007.0,Bishkek (city),KG11,0.051835,KGZ,,,,,
+2008.0,Bishkek (city),KG11,0.01221,KGZ,,,,,
+2011.0,Bishkek (city),KG11,0.047285,KGZ,,,,,
+2012.0,Bishkek (city),KG11,0.001131,KGZ,,,,,
+2013.0,Bishkek (city),KG11,0.004419,KGZ,,,,,
+2015.0,Bishkek (city),KG11,0.001055,KGZ,,,,,
+2016.0,Bishkek (city),KG11,0.003095,KGZ,,,,,
+2017.0,Bishkek (city),KG11,0.002018,KGZ,,,,,
+2021.0,Bishkek (city),KG11,0.0,KGZ,,,,,
+2007.0,Osh (city),KG21,0.004004,KGZ,,,,,
+2008.0,Osh (city),KG21,0.0,KGZ,,,,,
+2016.0,Osh (city),KG21,0.007173,KGZ,,,,,
+2017.0,Osh (city),KG21,0.0,KGZ,,,,,
+,,,,UZB,01_101_,Total,True,2000.0,0.5
+,,,,UZB,01_101_,Total,True,2001.0,0.3
+,,,,UZB,01_101_,Total,True,2002.0,0.3
+,,,,UZB,01_101_,Total,True,2003.0,0.3
+,,,,UZB,01_101_,Total,True,2004.0,0.2
+,,,,UZB,01_101_,Total,True,2005.0,0.4
+,,,,UZB,01_101_,Total,True,2006.0,0.3
+,,,,UZB,01_101_,Total,True,2007.0,0.3
+,,,,UZB,01_101_,Total,True,2008.0,0.1
+,,,,UZB,01_101_,Total,True,2009.0,0.0
+,,,,UZB,01_101_,Total,True,2010.0,0.0
+,,,,UZB,01_101_,Total,True,2011.0,0.0
+,,,,UZB,01_101_,Total,True,2012.0,0.0
+,,,,UZB,01_101_,Total,True,2013.0,0.0
+,,,,UZB,01_101_,Total,True,2014.0,0.0
+,,,,UZB,01_101_,Total,True,2015.0,0.0
+,,,,UZB,01_101_,Total,True,2016.0,0.0
+,,,,UZB,01_101_,Total,True,2017.0,0.0
+,,,,UZB,01_101_,Total,True,2018.0,0.0
+,,,,UZB,01_101_,Total,True,2019.0,0.0
+,,,,UZB,01_101_,Total,True,2020.0,0.0
+,,,,UZB,01_101_,Total,True,2021.0,0.0

@@ -1,0 +1,45 @@
+Year,UNIT_MEASURE,SERIES,Value,M49_country_code
+2012,Percent,GSM standard (percentage of coverage by cellular network),42.1,KAZ
+2013,Percent,GSM standard (percentage of coverage by cellular network),85.9,KAZ
+2014,Percent,GSM standard (percentage of coverage by cellular network),91.6,KAZ
+2014,Percent,UMTS standard (percentage of coverage by 3G mobile network),85.0,KAZ
+2015,Percent,GSM standard (percentage of coverage by cellular network),96.6,KAZ
+2015,Percent,UMTS standard (percentage of coverage by 3G mobile network),72.7,KAZ
+2016,Percent,GSM standard (percentage of coverage by cellular network),96.1,KAZ
+2016,Percent,UMTS standard (percentage of coverage by 3G mobile network),86.8,KAZ
+2017,Percent,GSM standard (percentage of coverage by cellular network),96.6,KAZ
+2017,Percent,UMTS standard (percentage of coverage by 3G mobile network),87.5,KAZ
+2018,Percent,GSM standard (percentage of coverage by cellular network),96.6,KAZ
+2018,Percent,UMTS standard (percentage of coverage by 3G mobile network),87.9,KAZ
+2019,Percent,GSM standard (percentage of coverage by cellular network),98.0,KAZ
+2019,Percent,UMTS standard (percentage of coverage by 3G mobile network),88.8,KAZ
+2020,Percent,GSM standard (percentage of coverage by cellular network),98.0,KAZ
+2020,Percent,UMTS standard (percentage of coverage by 3G mobile network),93.4,KAZ
+2012,,Proportion of population covered by at least a 2G mobile network,97.5,KGZ
+2013,,Proportion of population covered by at least a 2G mobile network,97.6,KGZ
+2014,,Proportion of population covered by at least a 2G mobile network,97.7,KGZ
+2015,,Proportion of population covered by at least a 2G mobile network,97.8,KGZ
+2016,,Proportion of population covered by at least a 2G mobile network,99.0,KGZ
+2017,,Proportion of population covered by at least a 2G mobile network,99.1,KGZ
+2018,,Proportion of population covered by at least a 2G mobile network,99.2,KGZ
+2019,,Proportion of population covered by at least a 2G mobile network,99.3,KGZ
+2020,,Proportion of population covered by at least a 2G mobile network,99.0,KGZ
+2021,,Proportion of population covered by at least a 2G mobile network,98.0,KGZ
+2012,,Proportion of population covered by at least a 3G mobile network,46.3,KGZ
+2013,,Proportion of population covered by at least a 3G mobile network,51.0,KGZ
+2014,,Proportion of population covered by at least a 3G mobile network,57.0,KGZ
+2015,,Proportion of population covered by at least a 3G mobile network,59.0,KGZ
+2016,,Proportion of population covered by at least a 3G mobile network,60.0,KGZ
+2017,,Proportion of population covered by at least a 3G mobile network,75.0,KGZ
+2018,,Proportion of population covered by at least a 3G mobile network,88.0,KGZ
+2019,,Proportion of population covered by at least a 3G mobile network,91.0,KGZ
+2020,,Proportion of population covered by at least a 3G mobile network,89.3,KGZ
+2021,,Proportion of population covered by at least a 3G mobile network,97.0,KGZ
+2014,,Proportion of population covered by at least a 4G mobile network,0.5,KGZ
+2015,,Proportion of population covered by at least a 4G mobile network,1.6,KGZ
+2016,,Proportion of population covered by at least a 4G mobile network,40.0,KGZ
+2017,,Proportion of population covered by at least a 4G mobile network,50.0,KGZ
+2018,,Proportion of population covered by at least a 4G mobile network,70.0,KGZ
+2019,,Proportion of population covered by at least a 4G mobile network,85.0,KGZ
+2020,,Proportion of population covered by at least a 4G mobile network,81.9,KGZ
+2021,,Proportion of population covered by at least a 4G mobile network,96.0,KGZ

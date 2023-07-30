@@ -1,4 +1,4 @@
-from scrapers import Scraper
+from sdg_scrapers import Scraper
 import argparse
 
 if __name__ == '__main__':

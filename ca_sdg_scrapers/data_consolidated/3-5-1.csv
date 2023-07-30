@@ -1,0 +1,100 @@
+Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value,M49_country_code,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2010.0,per 100000 population,_L_HLTH_IMBD_SUBS,350.7,KAZ,,,,,
+2010.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,301.3,KAZ,,,,,
+2010.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,44.3,KAZ,,,,,
+2011.0,per 100000 population,_L_HLTH_IMBD_SUBS,330.9,KAZ,,,,,
+2011.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,287.3,KAZ,,,,,
+2011.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,37.1,KAZ,,,,,
+2012.0,per 100000 population,_L_HLTH_IMBD_SUBS,311.4,KAZ,,,,,
+2012.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,276.5,KAZ,,,,,
+2012.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,28.4,KAZ,,,,,
+2013.0,per 100000 population,_L_HLTH_IMBD_SUBS,278.2,KAZ,,,,,
+2013.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,241.1,KAZ,,,,,
+2013.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,33.0,KAZ,,,,,
+2014.0,per 100000 population,_L_HLTH_IMBD_SUBS,241.5,KAZ,,,,,
+2014.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,210.0,KAZ,,,,,
+2014.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,29.7,KAZ,,,,,
+2015.0,per 100000 population,_L_HLTH_IMBD_SUBS,216.4,KAZ,,,,,
+2015.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,184.8,KAZ,,,,,
+2015.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,30.7,KAZ,,,,,
+2016.0,per 100000 population,_L_HLTH_IMBD_SUBS,156.6,KAZ,,,,,
+2016.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,130.6,KAZ,,,,,
+2016.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,25.1,KAZ,,,,,
+2017.0,per 100000 population,_L_HLTH_IMBD_SUBS,109.2,KAZ,,,,,
+2017.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,86.6,KAZ,,,,,
+2017.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,21.8,KAZ,,,,,
+2018.0,per 100000 population,_L_HLTH_IMBD_SUBS,99.8,KAZ,,,,,
+2018.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,79.4,KAZ,,,,,
+2018.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,20.1,KAZ,,,,,
+2019.0,per 100000 population,_L_HLTH_IMBD_SUBS,85.6,KAZ,,,,,
+2019.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,69.0,KAZ,,,,,
+2019.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,16.2,KAZ,,,,,
+2020.0,per 100000 population,_L_HLTH_IMBD_SUBS,75.7,KAZ,,,,,
+2020.0,per 100000 population,Incidence of mental and behavioral disorders as a result of alcohol use,62.3,KAZ,,,,,
+2020.0,per 100000 population,Incidence of mental and behavioral disorders as a result of drug use,13.4,KAZ,,,,,
+,,,,UZB,15_145_,narcotic drug abuse,True,2000.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2001.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2002.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2003.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2004.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2005.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2006.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2007.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2008.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2009.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2010.0,7.6
+,,,,UZB,15_145_,narcotic drug abuse,True,2011.0,5.9
+,,,,UZB,15_145_,narcotic drug abuse,True,2012.0,4.6
+,,,,UZB,15_145_,narcotic drug abuse,True,2013.0,4.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2014.0,3.8
+,,,,UZB,15_145_,narcotic drug abuse,True,2015.0,3.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2016.0,3.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2017.0,2.5
+,,,,UZB,15_145_,narcotic drug abuse,True,2018.0,2.6
+,,,,UZB,15_145_,narcotic drug abuse,True,2019.0,2.7
+,,,,UZB,15_145_,narcotic drug abuse,True,2020.0,0.0
+,,,,UZB,15_145_,narcotic drug abuse,True,2021.0,3.0
+,,,,UZB,15_146_,alcoholism,True,2000.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2001.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2002.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2003.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2004.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2005.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2006.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2007.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2008.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2009.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2010.0,18.9
+,,,,UZB,15_146_,alcoholism,True,2011.0,19.4
+,,,,UZB,15_146_,alcoholism,True,2012.0,16.1
+,,,,UZB,15_146_,alcoholism,True,2013.0,18.1
+,,,,UZB,15_146_,alcoholism,True,2014.0,17.1
+,,,,UZB,15_146_,alcoholism,True,2015.0,16.3
+,,,,UZB,15_146_,alcoholism,True,2016.0,18.0
+,,,,UZB,15_146_,alcoholism,True,2017.0,21.0
+,,,,UZB,15_146_,alcoholism,True,2018.0,19.3
+,,,,UZB,15_146_,alcoholism,True,2019.0,24.1
+,,,,UZB,15_146_,alcoholism,True,2020.0,0.0
+,,,,UZB,15_146_,alcoholism,True,2021.0,21.7
+,,,,UZB,15_147_,substance abuse,True,2000.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2001.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2002.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2003.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2004.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2005.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2006.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2007.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2008.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2009.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2010.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2011.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2012.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2013.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2014.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2015.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2016.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2017.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2018.0,0.1
+,,,,UZB,15_147_,substance abuse,True,2019.0,0.2
+,,,,UZB,15_147_,substance abuse,True,2020.0,0.0
+,,,,UZB,15_147_,substance abuse,True,2021.0,0.2

@@ -10,6 +10,7 @@ country_specific:
   KAZ:
     M49_country_code: KAZ
     scraper: OpenSDGScraper
+    transformer: KAZTransformer
     folder_name: kaz
     base_url: "https://kazstat.github.io"
     goal_page_base_url: "https://kazstat.github.io/sdg-site-kazstat/en/{}/"
@@ -18,6 +19,7 @@ country_specific:
   KGZ:
     M49_country_code: KGZ
     scraper: OpenSDGScraper
+    transformer: KGZTransformer
     folder_name: kgz
     base_url: "https://sustainabledevelopment-kyrgyzstan.github.io"
     goal_page_base_url: "https://sustainabledevelopment-kyrgyzstan.github.io/en/{}/"
@@ -26,4 +28,5 @@ country_specific:
   UZB:
     M49_country_code: UZB
     scraper: UZBScraper
+    transformer: UZBTransformer
     folder_name: uzb

@@ -1,0 +1,639 @@
+Year,Regions,Value,M49_country_code,Reference area,GeoCode,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2010.0,,22.7,KAZ,,,,,,,
+2010.0,Aktobe,34.5,KAZ,,,,,,,
+2010.0,Almaty,16.1,KAZ,,,,,,,
+2010.0,Atyrau,20.4,KAZ,,,,,,,
+2010.0,Batys Kazakhstan,8.3,KAZ,,,,,,,
+2010.0,Zhambyl,29.4,KAZ,,,,,,,
+2010.0,Karagandy,4.2,KAZ,,,,,,,
+2010.0,Kostanay,15.4,KAZ,,,,,,,
+2010.0,Kyzylorda,35.0,KAZ,,,,,,,
+2010.0,Mangistau,6.5,KAZ,,,,,,,
+2010.0,Ontustik Kazakhstan,26.7,KAZ,,,,,,,
+2010.0,Pavlodar,16.3,KAZ,,,,,,,
+2010.0,Soltustik Kazakhstan,24.0,KAZ,,,,,,,
+2010.0,Shygys Kazakhstan,21.5,KAZ,,,,,,,
+2010.0,Nur-Sultan city,27.6,KAZ,,,,,,,
+2010.0,Almaty city,6.0,KAZ,,,,,,,
+2011.0,,17.4,KAZ,,,,,,,
+2011.0,Akmola,23.3,KAZ,,,,,,,
+2011.0,Aktobe,16.9,KAZ,,,,,,,
+2011.0,Almaty,18.9,KAZ,,,,,,,
+2011.0,Atyrau,6.6,KAZ,,,,,,,
+2011.0,Zhambyl,22.5,KAZ,,,,,,,
+2011.0,Karagandy,8.2,KAZ,,,,,,,
+2011.0,Kostanay,15.7,KAZ,,,,,,,
+2011.0,Kyzylorda,10.4,KAZ,,,,,,,
+2011.0,Mangistau,24.7,KAZ,,,,,,,
+2011.0,Ontustik Kazakhstan,16.8,KAZ,,,,,,,
+2011.0,Pavlodar,7.8,KAZ,,,,,,,
+2011.0,Shygys Kazakhstan,22.4,KAZ,,,,,,,
+2011.0,Nur-Sultan city,10.4,KAZ,,,,,,,
+2011.0,Almaty city,15.5,KAZ,,,,,,,
+2012.0,,13.5,KAZ,,,,,,,
+2012.0,Akmola,8.2,KAZ,,,,,,,
+2012.0,Almaty,7.9,KAZ,,,,,,,
+2012.0,Atyrau,6.4,KAZ,,,,,,,
+2012.0,Zhambyl,18.7,KAZ,,,,,,,
+2012.0,Karagandy,16.2,KAZ,,,,,,,
+2012.0,Kyzylorda,15.0,KAZ,,,,,,,
+2012.0,Mangistau,5.9,KAZ,,,,,,,
+2012.0,Ontustik Kazakhstan,20.6,KAZ,,,,,,,
+2012.0,Pavlodar,15.5,KAZ,,,,,,,
+2012.0,Soltustik Kazakhstan,12.2,KAZ,,,,,,,
+2012.0,Shygys Kazakhstan,13.2,KAZ,,,,,,,
+2012.0,Almaty city,13.0,KAZ,,,,,,,
+2013.0,,13.1,KAZ,,,,,,,
+2013.0,Akmola,25.4,KAZ,,,,,,,
+2013.0,Aktobe,21.3,KAZ,,,,,,,
+2013.0,Almaty,5.1,KAZ,,,,,,,
+2013.0,Atyrau,25.3,KAZ,,,,,,,
+2013.0,Batys Kazakhstan,7.9,KAZ,,,,,,,
+2013.0,Zhambyl,14.8,KAZ,,,,,,,
+2013.0,Karagandy,4.1,KAZ,,,,,,,
+2013.0,Kostanay,15.3,KAZ,,,,,,,
+2013.0,Kyzylorda,10.6,KAZ,,,,,,,
+2013.0,Mangistau,11.0,KAZ,,,,,,,
+2013.0,Ontustik Kazakhstan,10.2,KAZ,,,,,,,
+2013.0,Pavlodar,15.4,KAZ,,,,,,,
+2013.0,Soltustik Kazakhstan,12.5,KAZ,,,,,,,
+2013.0,Shygys Kazakhstan,8.9,KAZ,,,,,,,
+2013.0,Nur-Sultan city,17.7,KAZ,,,,,,,
+2013.0,Almaty city,10.2,KAZ,,,,,,,
+2014.0,,15.2093150821552,KAZ,,,,,,,
+2014.0,Akmola,16.93910392140256,KAZ,,,,,,,
+2014.0,Aktobe,10.105603557172453,KAZ,,,,,,,
+2014.0,Almaty,14.492753623188406,KAZ,,,,,,,
+2014.0,Atyrau,12.295585884667403,KAZ,,,,,,,
+2014.0,Batys Kazakhstan,23.09646624066518,KAZ,,,,,,,
+2014.0,Zhambyl,18.11331691059267,KAZ,,,,,,,
+2014.0,Karagandy,16.0655474335288,KAZ,,,,,,,
+2014.0,Kostanay,15.730690577316343,KAZ,,,,,,,
+2014.0,Kyzylorda,10.012014417300762,KAZ,,,,,,,
+2014.0,Mangistau,26.55478251633119,KAZ,,,,,,,
+2014.0,Ontustik Kazakhstan,15.487068297971192,KAZ,,,,,,,
+2014.0,Pavlodar,0.0,KAZ,,,,,,,
+2014.0,Soltustik Kazakhstan,17.691734169057156,KAZ,,,,,,,
+2014.0,Shygys Kazakhstan,25.83200585525466,KAZ,,,,,,,
+2014.0,Nur-Sultan city,16.335198268468982,KAZ,,,,,,,
+2014.0,Almaty city,4.805035677389904,KAZ,,,,,,,
+2015.0,,16.549690445562803,KAZ,,,,,,,
+2015.0,Akmola,25.89331952356292,KAZ,,,,,,,
+2015.0,Aktobe,15.02178158329578,KAZ,,,,,,,
+2015.0,Almaty,17.17749257686928,KAZ,,,,,,,
+2015.0,Atyrau,36.76245328104896,KAZ,,,,,,,
+2015.0,Batys Kazakhstan,38.58024691358025,KAZ,,,,,,,
+2015.0,Zhambyl,3.781147200060498,KAZ,,,,,,,
+2015.0,Karagandy,32.725190215168126,KAZ,,,,,,,
+2015.0,Kostanay,0.0,KAZ,,,,,,,
+2015.0,Kyzylorda,48.761987321883296,KAZ,,,,,,,
+2015.0,Mangistau,5.236424569304079,KAZ,,,,,,,
+2015.0,Ontustik Kazakhstan,15.648227838197323,KAZ,,,,,,,
+2015.0,Pavlodar,13.059945148230378,KAZ,,,,,,,
+2015.0,Soltustik Kazakhstan,15.165876777251183,KAZ,,,,,,,
+2015.0,Shygys Kazakhstan,22.251891410769915,KAZ,,,,,,,
+2015.0,Nur-Sultan city,7.659900421294523,KAZ,,,,,,,
+2015.0,Almaty city,2.3766517729822225,KAZ,,,,,,,
+2016.0,,15.416634548678024,KAZ,,,,,,,
+2016.0,Akmola,0.0,KAZ,,,,,,,
+2016.0,Aktobe,20.193861066235865,KAZ,,,,,,,
+2016.0,Almaty,14.472129091391496,KAZ,,,,,,,
+2016.0,Atyrau,30.14045451805413,KAZ,,,,,,,
+2016.0,Batys Kazakhstan,22.77904328018224,KAZ,,,,,,,
+2016.0,Zhambyl,11.533138551437798,KAZ,,,,,,,
+2016.0,Karagandy,29.37350509840124,KAZ,,,,,,,
+2016.0,Kostanay,32.725190215168126,KAZ,,,,,,,
+2016.0,Kyzylorda,5.335325188070213,KAZ,,,,,,,
+2016.0,Mangistau,5.052801778586226,KAZ,,,,,,,
+2016.0,Ontustik Kazakhstan,15.989766549408378,KAZ,,,,,,,
+2016.0,Pavlodar,0.0,KAZ,,,,,,,
+2016.0,Soltustik Kazakhstan,18.94058968369216,KAZ,,,,,,,
+2016.0,Shygys Kazakhstan,17.755681818181817,KAZ,,,,,,,
+2016.0,Nur-Sultan city,11.020093303456637,KAZ,,,,,,,
+2016.0,Almaty city,7.939343416299472,KAZ,,,,,,,
+2017.0,,14.812204234758116,KAZ,,,,,,,
+2017.0,Akmola,17.809439002671414,KAZ,,,,,,,
+2017.0,Aktobe,5.2521008403361344,KAZ,,,,,,,
+2017.0,Almaty,25.085919273511777,KAZ,,,,,,,
+2017.0,Atyrau,18.404907975460123,KAZ,,,,,,,
+2017.0,Batys Kazakhstan,7.764577995185961,KAZ,,,,,,,
+2017.0,Zhambyl,12.22593528404923,KAZ,,,,,,,
+2017.0,Karagandy,13.226346882990915,KAZ,,,,,,,
+2017.0,Kostanay,17.08233686368295,KAZ,,,,,,,
+2017.0,Kyzylorda,0.0,KAZ,,,,,,,
+2017.0,Mangistau,10.298130889243602,KAZ,,,,,,,
+2017.0,Ontustik Kazakhstan,16.798252981689906,KAZ,,,,,,,
+2017.0,Pavlodar,28.49814762040468,KAZ,,,,,,,
+2017.0,Soltustik Kazakhstan,18.33588726048747,KAZ,,,,,,,
+2017.0,Shygys Kazakhstan,18.3688464364438,KAZ,,,,,,,
+2017.0,Nur-Sultan city,6.503219093451259,KAZ,,,,,,,
+2017.0,Almaty city,14.729709824716451,KAZ,,,,,,,
+2018.0,,14.0,KAZ,,,,,,,
+2018.0,Akmola,35.9,KAZ,,,,,,,
+2018.0,Aktobe,5.1,KAZ,,,,,,,
+2018.0,Almaty,14.8,KAZ,,,,,,,
+2018.0,Atyrau,5.9,KAZ,,,,,,,
+2018.0,Batys Kazakhstan,7.6,KAZ,,,,,,,
+2018.0,Zhambyl,8.0,KAZ,,,,,,,
+2018.0,Karagandy,26.2,KAZ,,,,,,,
+2018.0,Kostanay,8.7,KAZ,,,,,,,
+2018.0,Kyzylorda,10.7,KAZ,,,,,,,
+2018.0,Mangistau,25.1,KAZ,,,,,,,
+2018.0,Pavlodar,8.5,KAZ,,,,,,,
+2018.0,Soltustik Kazakhstan,14.8,KAZ,,,,,,,
+2018.0,Turkistan,10.3,KAZ,,,,,,,
+2018.0,Shygys Kazakhstan,14.0,KAZ,,,,,,,
+2018.0,Nur-Sultan city,29.0,KAZ,,,,,,,
+2018.0,Almaty city,8.9,KAZ,,,,,,,
+2018.0,Shymkent city,19.6,KAZ,,,,,,,
+2019.0,,13.7,KAZ,,,,,,,
+2019.0,Akmola,17.2,KAZ,,,,,,,
+2019.0,Aktobe,4.9,KAZ,,,,,,,
+2019.0,Almaty,25.4,KAZ,,,,,,,
+2019.0,Atyrau,17.8,KAZ,,,,,,,
+2019.0,Batys Kazakhstan,7.6,KAZ,,,,,,,
+2019.0,Zhambyl,11.8,KAZ,,,,,,,
+2019.0,Karagandy,39.5,KAZ,,,,,,,
+2019.0,Kostanay,26.6,KAZ,,,,,,,
+2019.0,Kyzylorda,5.3,KAZ,,,,,,,
+2019.0,Mangistau,4.9,KAZ,,,,,,,
+2019.0,Pavlodar,0.0,KAZ,,,,,,,
+2019.0,Soltustik Kazakhstan,0.0,KAZ,,,,,,,
+2019.0,Turkistan,9.3,KAZ,,,,,,,
+2019.0,Shygys Kazakhstan,23.4,KAZ,,,,,,,
+2019.0,Nur-Sultan city,3.3,KAZ,,,,,,,
+2019.0,Almaty city,15.4,KAZ,,,,,,,
+2019.0,Shymkent city,7.1,KAZ,,,,,,,
+2007.0,,51.9,KGZ,,,,,,,
+2008.0,,55.0,KGZ,,,,,,,
+2009.0,,63.5,KGZ,,,,,,,
+2010.0,,51.3,KGZ,,,,,,,
+2011.0,,54.8,KGZ,,,,,,,
+2012.0,,49.1,KGZ,,,,,,,
+2013.0,,36.0,KGZ,,,,,,,
+2014.0,,50.1,KGZ,,,,,,,
+2015.0,,38.5,KGZ,,,,,,,
+2016.0,,30.3,KGZ,,,,,,,
+2017.0,,31.9,KGZ,,,,,,,
+2018.0,,28.6,KGZ,,,,,,,
+2019.0,,24.8,KGZ,,,,,,,
+2020.0,,38.6,KGZ,,,,,,,
+2021.0,,33.3,KGZ,,,,,,,
+2007.0,,74.8,KGZ,Batken,KG05,,,,,
+2008.0,,66.6,KGZ,Batken,KG05,,,,,
+2009.0,,41.7,KGZ,Batken,KG05,,,,,
+2010.0,,59.7,KGZ,Batken,KG05,,,,,
+2011.0,,66.9,KGZ,Batken,KG05,,,,,
+2012.0,,43.5,KGZ,Batken,KG05,,,,,
+2013.0,,42.0,KGZ,Batken,KG05,,,,,
+2014.0,,108.7,KGZ,Batken,KG05,,,,,
+2015.0,,26.1,KGZ,Batken,KG05,,,,,
+2016.0,,41.9,KGZ,Batken,KG05,,,,,
+2017.0,,51.9,KGZ,Batken,KG05,,,,,
+2018.0,,33.6,KGZ,Batken,KG05,,,,,
+2019.0,,25.8,KGZ,Batken,KG05,,,,,
+2020.0,,42.4,KGZ,Batken,KG05,,,,,
+2021.0,,38.3,KGZ,Batken,KG05,,,,,
+2007.0,,32.8,KGZ,Jalal-Abad,KG03,,,,,
+2008.0,,66.6,KGZ,Jalal-Abad,KG03,,,,,
+2009.0,,40.3,KGZ,Jalal-Abad,KG03,,,,,
+2010.0,,31.1,KGZ,Jalal-Abad,KG03,,,,,
+2011.0,,36.5,KGZ,Jalal-Abad,KG03,,,,,
+2012.0,,55.9,KGZ,Jalal-Abad,KG03,,,,,
+2013.0,,33.0,KGZ,Jalal-Abad,KG03,,,,,
+2014.0,,53.7,KGZ,Jalal-Abad,KG03,,,,,
+2015.0,,53.3,KGZ,Jalal-Abad,KG03,,,,,
+2016.0,,33.5,KGZ,Jalal-Abad,KG03,,,,,
+2017.0,,53.6,KGZ,Jalal-Abad,KG03,,,,,
+2018.0,,38.2,KGZ,Jalal-Abad,KG03,,,,,
+2019.0,,37.2,KGZ,Jalal-Abad,KG03,,,,,
+2020.0,,53.2,KGZ,Jalal-Abad,KG03,,,,,
+2021.0,,31.7,KGZ,Jalal-Abad,KG03,,,,,
+2007.0,,89.7,KGZ,Issyk-Kul,KG02,,,,,
+2008.0,,122.9,KGZ,Issyk-Kul,KG02,,,,,
+2009.0,,72.0,KGZ,Issyk-Kul,KG02,,,,,
+2010.0,,70.4,KGZ,Issyk-Kul,KG02,,,,,
+2011.0,,62.6,KGZ,Issyk-Kul,KG02,,,,,
+2012.0,,97.2,KGZ,Issyk-Kul,KG02,,,,,
+2013.0,,37.2,KGZ,Issyk-Kul,KG02,,,,,
+2014.0,,55.3,KGZ,Issyk-Kul,KG02,,,,,
+2015.0,,26.7,KGZ,Issyk-Kul,KG02,,,,,
+2016.0,,34.7,KGZ,Issyk-Kul,KG02,,,,,
+2017.0,,37.0,KGZ,Issyk-Kul,KG02,,,,,
+2018.0,,71.2,KGZ,Issyk-Kul,KG02,,,,,
+2019.0,,28.4,KGZ,Issyk-Kul,KG02,,,,,
+2020.0,,90.6,KGZ,Issyk-Kul,KG02,,,,,
+2021.0,,98.7,KGZ,Issyk-Kul,KG02,,,,,
+2007.0,,62.3,KGZ,Naryn,KG04,,,,,
+2008.0,,46.2,KGZ,Naryn,KG04,,,,,
+2009.0,,105.5,KGZ,Naryn,KG04,,,,,
+2010.0,,69.6,KGZ,Naryn,KG04,,,,,
+2011.0,,83.3,KGZ,Naryn,KG04,,,,,
+2012.0,,56.2,KGZ,Naryn,KG04,,,,,
+2013.0,,29.0,KGZ,Naryn,KG04,,,,,
+2014.0,,135.7,KGZ,Naryn,KG04,,,,,
+2015.0,,30.6,KGZ,Naryn,KG04,,,,,
+2016.0,,43.7,KGZ,Naryn,KG04,,,,,
+2018.0,,105.7,KGZ,Naryn,KG04,,,,,
+2019.0,,16.6,KGZ,Naryn,KG04,,,,,
+2020.0,,52.6,KGZ,Naryn,KG04,,,,,
+2021.0,,157.2,KGZ,Naryn,KG04,,,,,
+2007.0,,26.0,KGZ,Osh,KG06,,,,,
+2008.0,,54.4,KGZ,Osh,KG06,,,,,
+2009.0,,93.2,KGZ,Osh,KG06,,,,,
+2010.0,,78.6,KGZ,Osh,KG06,,,,,
+2011.0,,62.5,KGZ,Osh,KG06,,,,,
+2012.0,,58.1,KGZ,Osh,KG06,,,,,
+2013.0,,42.8,KGZ,Osh,KG06,,,,,
+2014.0,,43.4,KGZ,Osh,KG06,,,,,
+2015.0,,43.4,KGZ,Osh,KG06,,,,,
+2016.0,,24.9,KGZ,Osh,KG06,,,,,
+2017.0,,25.6,KGZ,Osh,KG06,,,,,
+2018.0,,19.5,KGZ,Osh,KG06,,,,,
+2019.0,,25.5,KGZ,Osh,KG06,,,,,
+2020.0,,24.5,KGZ,Osh,KG06,,,,,
+2021.0,,24.9,KGZ,Osh,KG06,,,,,
+2007.0,,120.3,KGZ,Talas,KG07,,,,,
+2008.0,,51.1,KGZ,Talas,KG07,,,,,
+2009.0,,61.3,KGZ,Talas,KG07,,,,,
+2010.0,,87.0,KGZ,Talas,KG07,,,,,
+2011.0,,40.9,KGZ,Talas,KG07,,,,,
+2012.0,,14.1,KGZ,Talas,KG07,,,,,
+2013.0,,14.8,KGZ,Talas,KG07,,,,,
+2014.0,,44.6,KGZ,Talas,KG07,,,,,
+2015.0,,15.1,KGZ,Talas,KG07,,,,,
+2019.0,,16.6,KGZ,Talas,KG07,,,,,
+2020.0,,69.1,KGZ,Talas,KG07,,,,,
+2021.0,,38.4,KGZ,Talas,KG07,,,,,
+2007.0,,78.3,KGZ,Chui,KG08,,,,,
+2008.0,,34.4,KGZ,Chui,KG08,,,,,
+2009.0,,61.1,KGZ,Chui,KG08,,,,,
+2010.0,,49.5,KGZ,Chui,KG08,,,,,
+2011.0,,69.0,KGZ,Chui,KG08,,,,,
+2012.0,,41.2,KGZ,Chui,KG08,,,,,
+2013.0,,50.4,KGZ,Chui,KG08,,,,,
+2014.0,,44.4,KGZ,Chui,KG08,,,,,
+2015.0,,40.3,KGZ,Chui,KG08,,,,,
+2016.0,,47.9,KGZ,Chui,KG08,,,,,
+2017.0,,22.9,KGZ,Chui,KG08,,,,,
+2018.0,,16.1,KGZ,Chui,KG08,,,,,
+2019.0,,32.5,KGZ,Chui,KG08,,,,,
+2020.0,,32.2,KGZ,Chui,KG08,,,,,
+2021.0,,15.1,KGZ,Chui,KG08,,,,,
+2007.0,,17.3,KGZ,Bishkek (city),KG11,,,,,
+2008.0,,22.0,KGZ,Bishkek (city),KG11,,,,,
+2009.0,,20.4,KGZ,Bishkek (city),KG11,,,,,
+2010.0,,19.4,KGZ,Bishkek (city),KG11,,,,,
+2011.0,,43.3,KGZ,Bishkek (city),KG11,,,,,
+2012.0,,18.0,KGZ,Bishkek (city),KG11,,,,,
+2013.0,,26.1,KGZ,Bishkek (city),KG11,,,,,
+2014.0,,16.4,KGZ,Bishkek (city),KG11,,,,,
+2015.0,,30.5,KGZ,Bishkek (city),KG11,,,,,
+2016.0,,17.6,KGZ,Bishkek (city),KG11,,,,,
+2017.0,,13.4,KGZ,Bishkek (city),KG11,,,,,
+2018.0,,18.0,KGZ,Bishkek (city),KG11,,,,,
+2019.0,,16.9,KGZ,Bishkek (city),KG11,,,,,
+2020.0,,19.1,KGZ,Bishkek (city),KG11,,,,,
+2021.0,,14.6,KGZ,Bishkek (city),KG11,,,,,
+2007.0,,100.6,KGZ,Osh (city),KG21,,,,,
+2008.0,,38.6,KGZ,Osh (city),KG21,,,,,
+2009.0,,168.4,KGZ,Osh (city),KG21,,,,,
+2011.0,,35.7,KGZ,Osh (city),KG21,,,,,
+2012.0,,60.3,KGZ,Osh (city),KG21,,,,,
+2013.0,,15.0,KGZ,Osh (city),KG21,,,,,
+2015.0,,40.9,KGZ,Osh (city),KG21,,,,,
+2016.0,,13.5,KGZ,Osh (city),KG21,,,,,
+2017.0,,64.9,KGZ,Osh (city),KG21,,,,,
+2018.0,,8.3,KGZ,Osh (city),KG21,,,,,
+2020.0,,25.2,KGZ,Osh (city),KG21,,,,,
+2021.0,,21.7,KGZ,Osh (city),KG21,,,,,
+,,,UZB,,,01_101_,Total,True,2000.0,33.1
+,,,UZB,,,01_101_,Total,True,2001.0,34.1
+,,,UZB,,,01_101_,Total,True,2002.0,32.0
+,,,UZB,,,01_101_,Total,True,2003.0,32.2
+,,,UZB,,,01_101_,Total,True,2004.0,30.2
+,,,UZB,,,01_101_,Total,True,2005.0,29.2
+,,,UZB,,,01_101_,Total,True,2006.0,24.8
+,,,UZB,,,01_101_,Total,True,2007.0,23.5
+,,,UZB,,,01_101_,Total,True,2008.0,22.4
+,,,UZB,,,01_101_,Total,True,2009.0,30.4
+,,,UZB,,,01_101_,Total,True,2010.0,21.0
+,,,UZB,,,01_101_,Total,True,2011.0,23.1
+,,,UZB,,,01_101_,Total,True,2012.0,20.2
+,,,UZB,,,01_101_,Total,True,2013.0,20.0
+,,,UZB,,,01_101_,Total,True,2014.0,19.1
+,,,UZB,,,01_101_,Total,True,2015.0,18.9
+,,,UZB,,,01_101_,Total,True,2016.0,17.4
+,,,UZB,,,01_101_,Total,True,2017.0,21.0
+,,,UZB,,,01_101_,Total,True,2018.0,20.2
+,,,UZB,,,01_101_,Total,True,2019.0,19.6
+,,,UZB,,,01_101_,Total,True,2020.0,18.5
+,,,UZB,,,01_101_,Total,True,2021.0,14.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2000.0,38.8
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2001.0,41.9
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2002.0,26.6
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2003.0,25.0
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2004.0,22.9
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2005.0,15.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2006.0,28.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2007.0,10.9
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2008.0,28.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2009.0,29.9
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2010.0,26.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2011.0,27.9
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2012.0,23.6
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2013.0,25.6
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2014.0,22.0
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2015.0,29.0
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2016.0,25.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2017.0,13.2
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2018.0,27.4
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2019.0,36.5
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2020.0,30.5
+,,,UZB,,,10_104_,Republic of Karakalpakstan,True,2021.0,24.8
+,,,UZB,,,10_105_,Andizhan Region,True,2000.0,20.2
+,,,UZB,,,10_105_,Andizhan Region,True,2001.0,20.5
+,,,UZB,,,10_105_,Andizhan Region,True,2002.0,17.3
+,,,UZB,,,10_105_,Andizhan Region,True,2003.0,23.2
+,,,UZB,,,10_105_,Andizhan Region,True,2004.0,25.7
+,,,UZB,,,10_105_,Andizhan Region,True,2005.0,21.0
+,,,UZB,,,10_105_,Andizhan Region,True,2006.0,24.8
+,,,UZB,,,10_105_,Andizhan Region,True,2007.0,21.8
+,,,UZB,,,10_105_,Andizhan Region,True,2008.0,19.3
+,,,UZB,,,10_105_,Andizhan Region,True,2009.0,21.0
+,,,UZB,,,10_105_,Andizhan Region,True,2010.0,18.3
+,,,UZB,,,10_105_,Andizhan Region,True,2011.0,21.2
+,,,UZB,,,10_105_,Andizhan Region,True,2012.0,18.9
+,,,UZB,,,10_105_,Andizhan Region,True,2013.0,17.1
+,,,UZB,,,10_105_,Andizhan Region,True,2014.0,17.7
+,,,UZB,,,10_105_,Andizhan Region,True,2015.0,12.9
+,,,UZB,,,10_105_,Andizhan Region,True,2016.0,10.2
+,,,UZB,,,10_105_,Andizhan Region,True,2017.0,11.9
+,,,UZB,,,10_105_,Andizhan Region,True,2018.0,13.8
+,,,UZB,,,10_105_,Andizhan Region,True,2019.0,18.0
+,,,UZB,,,10_105_,Andizhan Region,True,2020.0,14.7
+,,,UZB,,,10_105_,Andizhan Region,True,2021.0,10.6
+,,,UZB,,,10_106_,Bukhara Region,True,2000.0,49.0
+,,,UZB,,,10_106_,Bukhara Region,True,2001.0,54.4
+,,,UZB,,,10_106_,Bukhara Region,True,2002.0,37.3
+,,,UZB,,,10_106_,Bukhara Region,True,2003.0,42.2
+,,,UZB,,,10_106_,Bukhara Region,True,2004.0,23.4
+,,,UZB,,,10_106_,Bukhara Region,True,2005.0,29.9
+,,,UZB,,,10_106_,Bukhara Region,True,2006.0,19.6
+,,,UZB,,,10_106_,Bukhara Region,True,2007.0,18.4
+,,,UZB,,,10_106_,Bukhara Region,True,2008.0,38.5
+,,,UZB,,,10_106_,Bukhara Region,True,2009.0,28.7
+,,,UZB,,,10_106_,Bukhara Region,True,2010.0,23.1
+,,,UZB,,,10_106_,Bukhara Region,True,2011.0,30.4
+,,,UZB,,,10_106_,Bukhara Region,True,2012.0,20.4
+,,,UZB,,,10_106_,Bukhara Region,True,2013.0,29.9
+,,,UZB,,,10_106_,Bukhara Region,True,2014.0,10.4
+,,,UZB,,,10_106_,Bukhara Region,True,2015.0,7.6
+,,,UZB,,,10_106_,Bukhara Region,True,2016.0,7.8
+,,,UZB,,,10_106_,Bukhara Region,True,2017.0,8.1
+,,,UZB,,,10_106_,Bukhara Region,True,2018.0,19.8
+,,,UZB,,,10_106_,Bukhara Region,True,2019.0,19.4
+,,,UZB,,,10_106_,Bukhara Region,True,2020.0,9.6
+,,,UZB,,,10_106_,Bukhara Region,True,2021.0,20.8
+,,,UZB,,,10_107_,Dzhizak Region,True,2000.0,29.4
+,,,UZB,,,10_107_,Dzhizak Region,True,2001.0,42.5
+,,,UZB,,,10_107_,Dzhizak Region,True,2002.0,29.7
+,,,UZB,,,10_107_,Dzhizak Region,True,2003.0,35.2
+,,,UZB,,,10_107_,Dzhizak Region,True,2004.0,24.5
+,,,UZB,,,10_107_,Dzhizak Region,True,2005.0,24.8
+,,,UZB,,,10_107_,Dzhizak Region,True,2006.0,21.1
+,,,UZB,,,10_107_,Dzhizak Region,True,2007.0,15.7
+,,,UZB,,,10_107_,Dzhizak Region,True,2008.0,10.9
+,,,UZB,,,10_107_,Dzhizak Region,True,2009.0,18.6
+,,,UZB,,,10_107_,Dzhizak Region,True,2010.0,27.0
+,,,UZB,,,10_107_,Dzhizak Region,True,2011.0,27.8
+,,,UZB,,,10_107_,Dzhizak Region,True,2012.0,19.7
+,,,UZB,,,10_107_,Dzhizak Region,True,2013.0,14.6
+,,,UZB,,,10_107_,Dzhizak Region,True,2014.0,16.7
+,,,UZB,,,10_107_,Dzhizak Region,True,2015.0,25.1
+,,,UZB,,,10_107_,Dzhizak Region,True,2016.0,28.5
+,,,UZB,,,10_107_,Dzhizak Region,True,2017.0,42.0
+,,,UZB,,,10_107_,Dzhizak Region,True,2018.0,26.6
+,,,UZB,,,10_107_,Dzhizak Region,True,2019.0,30.2
+,,,UZB,,,10_107_,Dzhizak Region,True,2020.0,13.1
+,,,UZB,,,10_107_,Dzhizak Region,True,2021.0,12.1
+,,,UZB,,,10_108_,Kashkadarya Region,True,2000.0,39.9
+,,,UZB,,,10_108_,Kashkadarya Region,True,2001.0,40.6
+,,,UZB,,,10_108_,Kashkadarya Region,True,2002.0,37.1
+,,,UZB,,,10_108_,Kashkadarya Region,True,2003.0,31.5
+,,,UZB,,,10_108_,Kashkadarya Region,True,2004.0,24.4
+,,,UZB,,,10_108_,Kashkadarya Region,True,2005.0,24.4
+,,,UZB,,,10_108_,Kashkadarya Region,True,2006.0,22.2
+,,,UZB,,,10_108_,Kashkadarya Region,True,2007.0,23.5
+,,,UZB,,,10_108_,Kashkadarya Region,True,2008.0,28.1
+,,,UZB,,,10_108_,Kashkadarya Region,True,2009.0,20.5
+,,,UZB,,,10_108_,Kashkadarya Region,True,2010.0,14.1
+,,,UZB,,,10_108_,Kashkadarya Region,True,2011.0,15.6
+,,,UZB,,,10_108_,Kashkadarya Region,True,2012.0,15.3
+,,,UZB,,,10_108_,Kashkadarya Region,True,2013.0,15.3
+,,,UZB,,,10_108_,Kashkadarya Region,True,2014.0,15.9
+,,,UZB,,,10_108_,Kashkadarya Region,True,2015.0,15.3
+,,,UZB,,,10_108_,Kashkadarya Region,True,2016.0,10.3
+,,,UZB,,,10_108_,Kashkadarya Region,True,2017.0,26.1
+,,,UZB,,,10_108_,Kashkadarya Region,True,2018.0,17.1
+,,,UZB,,,10_108_,Kashkadarya Region,True,2019.0,15.0
+,,,UZB,,,10_108_,Kashkadarya Region,True,2020.0,10.0
+,,,UZB,,,10_108_,Kashkadarya Region,True,2021.0,11.3
+,,,UZB,,,10_109_,Navoi Region,True,2000.0,91.6
+,,,UZB,,,10_109_,Navoi Region,True,2001.0,91.5
+,,,UZB,,,10_109_,Navoi Region,True,2002.0,51.5
+,,,UZB,,,10_109_,Navoi Region,True,2003.0,71.9
+,,,UZB,,,10_109_,Navoi Region,True,2004.0,55.8
+,,,UZB,,,10_109_,Navoi Region,True,2005.0,49.3
+,,,UZB,,,10_109_,Navoi Region,True,2006.0,42.9
+,,,UZB,,,10_109_,Navoi Region,True,2007.0,39.7
+,,,UZB,,,10_109_,Navoi Region,True,2008.0,27.7
+,,,UZB,,,10_109_,Navoi Region,True,2009.0,49.2
+,,,UZB,,,10_109_,Navoi Region,True,2010.0,27.2
+,,,UZB,,,10_109_,Navoi Region,True,2011.0,38.8
+,,,UZB,,,10_109_,Navoi Region,True,2012.0,16.6
+,,,UZB,,,10_109_,Navoi Region,True,2013.0,41.5
+,,,UZB,,,10_109_,Navoi Region,True,2014.0,19.9
+,,,UZB,,,10_109_,Navoi Region,True,2015.0,24.7
+,,,UZB,,,10_109_,Navoi Region,True,2016.0,24.0
+,,,UZB,,,10_109_,Navoi Region,True,2017.0,29.2
+,,,UZB,,,10_109_,Navoi Region,True,2018.0,27.8
+,,,UZB,,,10_109_,Navoi Region,True,2019.0,17.6
+,,,UZB,,,10_109_,Navoi Region,True,2020.0,33.5
+,,,UZB,,,10_109_,Navoi Region,True,2021.0,15.1
+,,,UZB,,,10_110_,Namangan Region,True,2000.0,27.0
+,,,UZB,,,10_110_,Namangan Region,True,2001.0,29.3
+,,,UZB,,,10_110_,Namangan Region,True,2002.0,18.4
+,,,UZB,,,10_110_,Namangan Region,True,2003.0,31.8
+,,,UZB,,,10_110_,Namangan Region,True,2004.0,21.0
+,,,UZB,,,10_110_,Namangan Region,True,2005.0,30.7
+,,,UZB,,,10_110_,Namangan Region,True,2006.0,35.2
+,,,UZB,,,10_110_,Namangan Region,True,2007.0,23.2
+,,,UZB,,,10_110_,Namangan Region,True,2008.0,18.6
+,,,UZB,,,10_110_,Namangan Region,True,2009.0,31.1
+,,,UZB,,,10_110_,Namangan Region,True,2010.0,21.7
+,,,UZB,,,10_110_,Namangan Region,True,2011.0,21.1
+,,,UZB,,,10_110_,Namangan Region,True,2012.0,15.8
+,,,UZB,,,10_110_,Namangan Region,True,2013.0,10.6
+,,,UZB,,,10_110_,Namangan Region,True,2014.0,11.2
+,,,UZB,,,10_110_,Namangan Region,True,2015.0,8.1
+,,,UZB,,,10_110_,Namangan Region,True,2016.0,9.7
+,,,UZB,,,10_110_,Namangan Region,True,2017.0,21.2
+,,,UZB,,,10_110_,Namangan Region,True,2018.0,12.0
+,,,UZB,,,10_110_,Namangan Region,True,2019.0,11.1
+,,,UZB,,,10_110_,Namangan Region,True,2020.0,5.4
+,,,UZB,,,10_110_,Namangan Region,True,2021.0,5.0
+,,,UZB,,,10_111_,Samarkand Region,True,2000.0,26.4
+,,,UZB,,,10_111_,Samarkand Region,True,2001.0,17.9
+,,,UZB,,,10_111_,Samarkand Region,True,2002.0,21.9
+,,,UZB,,,10_111_,Samarkand Region,True,2003.0,18.0
+,,,UZB,,,10_111_,Samarkand Region,True,2004.0,20.9
+,,,UZB,,,10_111_,Samarkand Region,True,2005.0,17.4
+,,,UZB,,,10_111_,Samarkand Region,True,2006.0,14.5
+,,,UZB,,,10_111_,Samarkand Region,True,2007.0,17.4
+,,,UZB,,,10_111_,Samarkand Region,True,2008.0,12.8
+,,,UZB,,,10_111_,Samarkand Region,True,2009.0,20.0
+,,,UZB,,,10_111_,Samarkand Region,True,2010.0,16.0
+,,,UZB,,,10_111_,Samarkand Region,True,2011.0,16.2
+,,,UZB,,,10_111_,Samarkand Region,True,2012.0,17.5
+,,,UZB,,,10_111_,Samarkand Region,True,2013.0,18.2
+,,,UZB,,,10_111_,Samarkand Region,True,2014.0,19.4
+,,,UZB,,,10_111_,Samarkand Region,True,2015.0,21.4
+,,,UZB,,,10_111_,Samarkand Region,True,2016.0,18.1
+,,,UZB,,,10_111_,Samarkand Region,True,2017.0,22.2
+,,,UZB,,,10_111_,Samarkand Region,True,2018.0,19.2
+,,,UZB,,,10_111_,Samarkand Region,True,2019.0,21.9
+,,,UZB,,,10_111_,Samarkand Region,True,2020.0,9.9
+,,,UZB,,,10_111_,Samarkand Region,True,2021.0,4.5
+,,,UZB,,,10_112_,Surkhandarya Region,True,2000.0,24.6
+,,,UZB,,,10_112_,Surkhandarya Region,True,2001.0,19.3
+,,,UZB,,,10_112_,Surkhandarya Region,True,2002.0,20.4
+,,,UZB,,,10_112_,Surkhandarya Region,True,2003.0,24.1
+,,,UZB,,,10_112_,Surkhandarya Region,True,2004.0,19.5
+,,,UZB,,,10_112_,Surkhandarya Region,True,2005.0,23.9
+,,,UZB,,,10_112_,Surkhandarya Region,True,2006.0,18.2
+,,,UZB,,,10_112_,Surkhandarya Region,True,2007.0,24.0
+,,,UZB,,,10_112_,Surkhandarya Region,True,2008.0,15.3
+,,,UZB,,,10_112_,Surkhandarya Region,True,2009.0,23.5
+,,,UZB,,,10_112_,Surkhandarya Region,True,2010.0,13.7
+,,,UZB,,,10_112_,Surkhandarya Region,True,2011.0,16.6
+,,,UZB,,,10_112_,Surkhandarya Region,True,2012.0,13.3
+,,,UZB,,,10_112_,Surkhandarya Region,True,2013.0,15.9
+,,,UZB,,,10_112_,Surkhandarya Region,True,2014.0,19.8
+,,,UZB,,,10_112_,Surkhandarya Region,True,2015.0,18.6
+,,,UZB,,,10_112_,Surkhandarya Region,True,2016.0,22.4
+,,,UZB,,,10_112_,Surkhandarya Region,True,2017.0,20.0
+,,,UZB,,,10_112_,Surkhandarya Region,True,2018.0,27.8
+,,,UZB,,,10_112_,Surkhandarya Region,True,2019.0,23.4
+,,,UZB,,,10_112_,Surkhandarya Region,True,2020.0,36.2
+,,,UZB,,,10_112_,Surkhandarya Region,True,2021.0,23.5
+,,,UZB,,,10_113_,Syrdarya Region,True,2000.0,21.0
+,,,UZB,,,10_113_,Syrdarya Region,True,2001.0,35.7
+,,,UZB,,,10_113_,Syrdarya Region,True,2002.0,26.4
+,,,UZB,,,10_113_,Syrdarya Region,True,2003.0,14.5
+,,,UZB,,,10_113_,Syrdarya Region,True,2004.0,21.5
+,,,UZB,,,10_113_,Syrdarya Region,True,2005.0,34.8
+,,,UZB,,,10_113_,Syrdarya Region,True,2006.0,19.6
+,,,UZB,,,10_113_,Syrdarya Region,True,2007.0,24.5
+,,,UZB,,,10_113_,Syrdarya Region,True,2008.0,17.6
+,,,UZB,,,10_113_,Syrdarya Region,True,2009.0,35.6
+,,,UZB,,,10_113_,Syrdarya Region,True,2010.0,12.3
+,,,UZB,,,10_113_,Syrdarya Region,True,2011.0,12.9
+,,,UZB,,,10_113_,Syrdarya Region,True,2012.0,12.7
+,,,UZB,,,10_113_,Syrdarya Region,True,2013.0,18.0
+,,,UZB,,,10_113_,Syrdarya Region,True,2014.0,17.2
+,,,UZB,,,10_113_,Syrdarya Region,True,2015.0,5.6
+,,,UZB,,,10_113_,Syrdarya Region,True,2016.0,11.3
+,,,UZB,,,10_113_,Syrdarya Region,True,2017.0,17.0
+,,,UZB,,,10_113_,Syrdarya Region,True,2018.0,27.2
+,,,UZB,,,10_113_,Syrdarya Region,True,2019.0,14.5
+,,,UZB,,,10_113_,Syrdarya Region,True,2020.0,38.0
+,,,UZB,,,10_113_,Syrdarya Region,True,2021.0,21.5
+,,,UZB,,,10_114_,Tashkent Region,True,2000.0,27.5
+,,,UZB,,,10_114_,Tashkent Region,True,2001.0,44.2
+,,,UZB,,,10_114_,Tashkent Region,True,2002.0,59.8
+,,,UZB,,,10_114_,Tashkent Region,True,2003.0,52.7
+,,,UZB,,,10_114_,Tashkent Region,True,2004.0,43.6
+,,,UZB,,,10_114_,Tashkent Region,True,2005.0,43.2
+,,,UZB,,,10_114_,Tashkent Region,True,2006.0,31.1
+,,,UZB,,,10_114_,Tashkent Region,True,2007.0,29.8
+,,,UZB,,,10_114_,Tashkent Region,True,2008.0,30.5
+,,,UZB,,,10_114_,Tashkent Region,True,2009.0,47.8
+,,,UZB,,,10_114_,Tashkent Region,True,2010.0,32.8
+,,,UZB,,,10_114_,Tashkent Region,True,2011.0,31.7
+,,,UZB,,,10_114_,Tashkent Region,True,2012.0,28.4
+,,,UZB,,,10_114_,Tashkent Region,True,2013.0,21.8
+,,,UZB,,,10_114_,Tashkent Region,True,2014.0,27.7
+,,,UZB,,,10_114_,Tashkent Region,True,2015.0,44.3
+,,,UZB,,,10_114_,Tashkent Region,True,2016.0,35.0
+,,,UZB,,,10_114_,Tashkent Region,True,2017.0,32.9
+,,,UZB,,,10_114_,Tashkent Region,True,2018.0,27.0
+,,,UZB,,,10_114_,Tashkent Region,True,2019.0,21.8
+,,,UZB,,,10_114_,Tashkent Region,True,2020.0,28.8
+,,,UZB,,,10_114_,Tashkent Region,True,2021.0,20.6
+,,,UZB,,,10_115_,Fergana Region,True,2000.0,22.5
+,,,UZB,,,10_115_,Fergana Region,True,2001.0,25.3
+,,,UZB,,,10_115_,Fergana Region,True,2002.0,25.8
+,,,UZB,,,10_115_,Fergana Region,True,2003.0,28.4
+,,,UZB,,,10_115_,Fergana Region,True,2004.0,31.6
+,,,UZB,,,10_115_,Fergana Region,True,2005.0,31.7
+,,,UZB,,,10_115_,Fergana Region,True,2006.0,27.0
+,,,UZB,,,10_115_,Fergana Region,True,2007.0,25.8
+,,,UZB,,,10_115_,Fergana Region,True,2008.0,19.3
+,,,UZB,,,10_115_,Fergana Region,True,2009.0,30.4
+,,,UZB,,,10_115_,Fergana Region,True,2010.0,17.0
+,,,UZB,,,10_115_,Fergana Region,True,2011.0,25.1
+,,,UZB,,,10_115_,Fergana Region,True,2012.0,20.9
+,,,UZB,,,10_115_,Fergana Region,True,2013.0,21.7
+,,,UZB,,,10_115_,Fergana Region,True,2014.0,18.3
+,,,UZB,,,10_115_,Fergana Region,True,2015.0,12.6
+,,,UZB,,,10_115_,Fergana Region,True,2016.0,14.0
+,,,UZB,,,10_115_,Fergana Region,True,2017.0,21.2
+,,,UZB,,,10_115_,Fergana Region,True,2018.0,13.5
+,,,UZB,,,10_115_,Fergana Region,True,2019.0,19.4
+,,,UZB,,,10_115_,Fergana Region,True,2020.0,23.6
+,,,UZB,,,10_115_,Fergana Region,True,2021.0,17.1
+,,,UZB,,,10_116_,Khorezm Region,True,2000.0,24.9
+,,,UZB,,,10_116_,Khorezm Region,True,2001.0,36.2
+,,,UZB,,,10_116_,Khorezm Region,True,2002.0,32.3
+,,,UZB,,,10_116_,Khorezm Region,True,2003.0,27.1
+,,,UZB,,,10_116_,Khorezm Region,True,2004.0,54.5
+,,,UZB,,,10_116_,Khorezm Region,True,2005.0,41.5
+,,,UZB,,,10_116_,Khorezm Region,True,2006.0,33.2
+,,,UZB,,,10_116_,Khorezm Region,True,2007.0,22.0
+,,,UZB,,,10_116_,Khorezm Region,True,2008.0,33.9
+,,,UZB,,,10_116_,Khorezm Region,True,2009.0,43.2
+,,,UZB,,,10_116_,Khorezm Region,True,2010.0,30.6
+,,,UZB,,,10_116_,Khorezm Region,True,2011.0,28.5
+,,,UZB,,,10_116_,Khorezm Region,True,2012.0,37.4
+,,,UZB,,,10_116_,Khorezm Region,True,2013.0,29.1
+,,,UZB,,,10_116_,Khorezm Region,True,2014.0,27.3
+,,,UZB,,,10_116_,Khorezm Region,True,2015.0,15.2
+,,,UZB,,,10_116_,Khorezm Region,True,2016.0,17.9
+,,,UZB,,,10_116_,Khorezm Region,True,2017.0,10.6
+,,,UZB,,,10_116_,Khorezm Region,True,2018.0,15.0
+,,,UZB,,,10_116_,Khorezm Region,True,2019.0,14.6
+,,,UZB,,,10_116_,Khorezm Region,True,2020.0,11.9
+,,,UZB,,,10_116_,Khorezm Region,True,2021.0,18.8
+,,,UZB,,,10_117_,Tashkent City,True,2000.0,63.9
+,,,UZB,,,10_117_,Tashkent City,True,2001.0,36.4
+,,,UZB,,,10_117_,Tashkent City,True,2002.0,59.9
+,,,UZB,,,10_117_,Tashkent City,True,2003.0,51.4
+,,,UZB,,,10_117_,Tashkent City,True,2004.0,52.3
+,,,UZB,,,10_117_,Tashkent City,True,2005.0,44.6
+,,,UZB,,,10_117_,Tashkent City,True,2006.0,22.0
+,,,UZB,,,10_117_,Tashkent City,True,2007.0,38.2
+,,,UZB,,,10_117_,Tashkent City,True,2008.0,23.5
+,,,UZB,,,10_117_,Tashkent City,True,2009.0,47.4
+,,,UZB,,,10_117_,Tashkent City,True,2010.0,25.4
+,,,UZB,,,10_117_,Tashkent City,True,2011.0,26.4
+,,,UZB,,,10_117_,Tashkent City,True,2012.0,23.6
+,,,UZB,,,10_117_,Tashkent City,True,2013.0,21.6
+,,,UZB,,,10_117_,Tashkent City,True,2014.0,26.1
+,,,UZB,,,10_117_,Tashkent City,True,2015.0,25.7
+,,,UZB,,,10_117_,Tashkent City,True,2016.0,18.2
+,,,UZB,,,10_117_,Tashkent City,True,2017.0,18.5
+,,,UZB,,,10_117_,Tashkent City,True,2018.0,28.5
+,,,UZB,,,10_117_,Tashkent City,True,2019.0,15.9
+,,,UZB,,,10_117_,Tashkent City,True,2020.0,20.2
+,,,UZB,,,10_117_,Tashkent City,True,2021.0,14.3

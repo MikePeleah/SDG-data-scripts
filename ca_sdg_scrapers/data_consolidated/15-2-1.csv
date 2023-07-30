@@ -1,0 +1,831 @@
+Year,UNIT_MEASURE,SERIES,Regions,Value,M49_country_code
+2010,thousands hectares,_L_KZ_150201_1A,,12317.8,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Akmola,373.7,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Aktobe,47.3,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Almaty,1797.6,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Atyrau,15.8,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,103.3,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Zhambyl,2213.6,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Karagandy,155.4,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Kostanay,222.4,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3094.7,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Mangistau,122.7,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Pavlodar,247.0,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,530.2,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Turkistan,1603.4,KAZ
+2010,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,1800.8,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,380.7,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,42.7,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.0,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,38.7,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.0,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,16.5,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,6.0,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,26.6,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,54.4,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,175.1,KAZ
+2010,Percent,_L_KZ_150201_1B,,24.0,KAZ
+2010,Percent,_L_KZ_150201_1B,Akmola,-6.4,KAZ
+2010,Percent,_L_KZ_150201_1B,Aktobe,-0.2,KAZ
+2010,Percent,_L_KZ_150201_1B,Almaty,-0.6,KAZ
+2010,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2010,Percent,_L_KZ_150201_1B,Batys Kazakhstan,1.6,KAZ
+2010,Percent,_L_KZ_150201_1B,Zhambyl,2.9,KAZ
+2010,Percent,_L_KZ_150201_1B,Karagandy,10.4,KAZ
+2010,Percent,_L_KZ_150201_1B,Kostanay,7.2,KAZ
+2010,Percent,_L_KZ_150201_1B,Kyzylorda,3.8,KAZ
+2010,Percent,_L_KZ_150201_1B,Mangistau,0.0,KAZ
+2010,Percent,_L_KZ_150201_1B,Pavlodar,1.1,KAZ
+2010,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,-0.2,KAZ
+2010,Percent,_L_KZ_150201_1B,Turkistan,4.2,KAZ
+2010,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,0.3,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,7.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,13.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,12.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,8.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,4.0,KAZ
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,49.0,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12317.8,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,373.7,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,47.3,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1797.6,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,15.8,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,103.3,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2213.6,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,155.4,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,222.4,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3094.7,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.7,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,247.0,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,530.2,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1603.4,KAZ
+2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,1800.8,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,,12452.0,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Akmola,378.6,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Aktobe,47.2,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Almaty,1850.9,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Atyrau,15.8,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,104.6,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Zhambyl,2219.6,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Karagandy,155.4,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Kostanay,223.7,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3088.2,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Mangistau,122.8,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Pavlodar,249.9,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,529.4,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Turkistan,1603.4,KAZ
+2011,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,1862.5,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,380.7,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,42.7,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.0,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,38.7,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.0,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,16.5,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,6.0,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,26.6,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,54.4,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,175.1,KAZ
+2011,Percent,_L_KZ_150201_1B,,134.20000000000073,KAZ
+2011,Percent,_L_KZ_150201_1B,Akmola,4.900000000000034,KAZ
+2011,Percent,_L_KZ_150201_1B,Aktobe,-0.0999999999999943,KAZ
+2011,Percent,_L_KZ_150201_1B,Almaty,53.30000000000018,KAZ
+2011,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2011,Percent,_L_KZ_150201_1B,Batys Kazakhstan,1.2999999999999972,KAZ
+2011,Percent,_L_KZ_150201_1B,Zhambyl,6.0,KAZ
+2011,Percent,_L_KZ_150201_1B,Karagandy,0.0,KAZ
+2011,Percent,_L_KZ_150201_1B,Kostanay,1.299999999999983,KAZ
+2011,Percent,_L_KZ_150201_1B,Kyzylorda,-6.5,KAZ
+2011,Percent,_L_KZ_150201_1B,Mangistau,0.0999999999999943,KAZ
+2011,Percent,_L_KZ_150201_1B,Pavlodar,2.9000000000000057,KAZ
+2011,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,-0.8,KAZ
+2011,Percent,_L_KZ_150201_1B,Turkistan,0.0,KAZ
+2011,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,61.700000000000045,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,9.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,13.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,12.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,7.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,4.0,KAZ
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,48.0,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12452.0,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,378.6,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,47.2,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1850.9,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,15.8,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,104.6,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2219.6,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,155.4,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,223.7,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3088.2,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.8,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,249.9,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,529.4,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1603.4,KAZ
+2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,1862.5,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,,12548.6,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Akmola,378.0,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Aktobe,47.9,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Almaty,1851.7,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Atyrau,15.8,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,106.1,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Zhambyl,2222.3,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Karagandy,156.0,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Kostanay,224.1,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3056.8,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Mangistau,122.8,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Pavlodar,249.3,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,529.7,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Turkistan,1614.1,KAZ
+2012,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,1974.1,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,40.7,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.3,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,15.5,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,5.9,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,27.0,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,52.0,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,204.6,KAZ
+2012,Percent,_L_KZ_150201_1B,,96.60000000000036,KAZ
+2012,Percent,_L_KZ_150201_1B,Akmola,-0.6000000000000227,KAZ
+2012,Percent,_L_KZ_150201_1B,Aktobe,0.6999999999999957,KAZ
+2012,Percent,_L_KZ_150201_1B,Almaty,0.7999999999999545,KAZ
+2012,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2012,Percent,_L_KZ_150201_1B,Batys Kazakhstan,1.5,KAZ
+2012,Percent,_L_KZ_150201_1B,Zhambyl,2.700000000000273,KAZ
+2012,Percent,_L_KZ_150201_1B,Karagandy,0.5999999999999943,KAZ
+2012,Percent,_L_KZ_150201_1B,Kostanay,0.4000000000000057,KAZ
+2012,Percent,_L_KZ_150201_1B,Kyzylorda,-31.39999999999964,KAZ
+2012,Percent,_L_KZ_150201_1B,Mangistau,0.0,KAZ
+2012,Percent,_L_KZ_150201_1B,Pavlodar,-0.5999999999999943,KAZ
+2012,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,0.3,KAZ
+2012,Percent,_L_KZ_150201_1B,Turkistan,10.699999999999818,KAZ
+2012,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,111.59999999999992,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,9.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,13.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,11.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,7.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,3.0,KAZ
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,50.0,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12548.6,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,378.0,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,47.9,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1851.7,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,15.8,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,106.1,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2222.3,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,156.0,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,224.1,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3056.8,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.8,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,249.3,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,529.7,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1614.1,KAZ
+2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,1974.1,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,,12593.9,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Akmola,379.3,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Aktobe,49.8,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Almaty,1854.4,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Atyrau,16.4,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,106.1,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Zhambyl,2231.0,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Karagandy,155.6,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Kostanay,229.0,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3055.0,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Mangistau,122.4,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Pavlodar,250.5,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,529.3,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Turkistan,1614.2,KAZ
+2013,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2000.8,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,40.7,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.3,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,15.5,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,5.9,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,27.0,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,52.0,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,204.6,KAZ
+2013,Percent,_L_KZ_150201_1B,,45.29999999999927,KAZ
+2013,Percent,_L_KZ_150201_1B,Akmola,1.3000000000000114,KAZ
+2013,Percent,_L_KZ_150201_1B,Aktobe,1.8999999999999984,KAZ
+2013,Percent,_L_KZ_150201_1B,Almaty,2.700000000000045,KAZ
+2013,Percent,_L_KZ_150201_1B,Atyrau,0.5999999999999979,KAZ
+2013,Percent,_L_KZ_150201_1B,Batys Kazakhstan,0.0,KAZ
+2013,Percent,_L_KZ_150201_1B,Zhambyl,8.699999999999818,KAZ
+2013,Percent,_L_KZ_150201_1B,Karagandy,-0.4000000000000057,KAZ
+2013,Percent,_L_KZ_150201_1B,Kostanay,4.900000000000006,KAZ
+2013,Percent,_L_KZ_150201_1B,Kyzylorda,-1.800000000000182,KAZ
+2013,Percent,_L_KZ_150201_1B,Mangistau,-0.3999999999999915,KAZ
+2013,Percent,_L_KZ_150201_1B,Pavlodar,1.2,KAZ
+2013,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,-0.4000000000000909,KAZ
+2013,Percent,_L_KZ_150201_1B,Turkistan,0.1000000000001364,KAZ
+2013,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,26.700000000000045,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,9.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,13.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,11.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,7.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,3.0,KAZ
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,50.0,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12593.9,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,379.3,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,49.8,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1854.4,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,16.4,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,106.1,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2231.0,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,155.6,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,229.0,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3055.0,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.4,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,250.5,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,529.3,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1614.2,KAZ
+2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2000.8,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,,12627.0,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Akmola,379.4,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Aktobe,50.3,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Almaty,1856.2,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Atyrau,16.4,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,106.0,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Zhambyl,2236.1,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Karagandy,155.8,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Kostanay,234.9,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3063.0,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Mangistau,122.4,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Pavlodar,253.1,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,531.9,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Turkistan,1616.8,KAZ
+2014,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2004.7,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,40.7,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.3,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,15.5,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,5.9,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,27.0,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,52.0,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,204.6,KAZ
+2014,Percent,_L_KZ_150201_1B,,33.100000000000364,KAZ
+2014,Percent,_L_KZ_150201_1B,Akmola,0.0999999999999659,KAZ
+2014,Percent,_L_KZ_150201_1B,Aktobe,0.5,KAZ
+2014,Percent,_L_KZ_150201_1B,Almaty,1.7999999999999543,KAZ
+2014,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2014,Percent,_L_KZ_150201_1B,Batys Kazakhstan,-0.0999999999999943,KAZ
+2014,Percent,_L_KZ_150201_1B,Zhambyl,5.099999999999909,KAZ
+2014,Percent,_L_KZ_150201_1B,Karagandy,0.200000000000017,KAZ
+2014,Percent,_L_KZ_150201_1B,Kostanay,5.900000000000006,KAZ
+2014,Percent,_L_KZ_150201_1B,Kyzylorda,8.0,KAZ
+2014,Percent,_L_KZ_150201_1B,Mangistau,0.0,KAZ
+2014,Percent,_L_KZ_150201_1B,Pavlodar,2.6,KAZ
+2014,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,2.6000000000000227,KAZ
+2014,Percent,_L_KZ_150201_1B,Turkistan,2.599999999999909,KAZ
+2014,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,3.900000000000091,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,8.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,12.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,11.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,7.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,7.0,KAZ
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,48.0,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12627.0,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,379.4,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,50.3,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1856.2,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,16.4,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,106.0,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2236.1,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,155.8,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,234.9,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3063.0,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.4,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,253.1,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,531.9,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1616.8,KAZ
+2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2004.7,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,,12652.4,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Akmola,380.3,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Aktobe,51.6,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Almaty,1870.6,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Atyrau,16.5,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,103.9,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Zhambyl,2240.6,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Karagandy,153.3,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Kostanay,236.4,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3059.1,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Mangistau,122.4,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Pavlodar,254.5,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,534.0,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Turkistan,1623.7,KAZ
+2015,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2005.3,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,40.7,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.3,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,15.5,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,5.9,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,27.0,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,52.0,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,204.6,KAZ
+2015,Percent,_L_KZ_150201_1B,,25.39999999999964,KAZ
+2015,Percent,_L_KZ_150201_1B,Akmola,0.9000000000000341,KAZ
+2015,Percent,_L_KZ_150201_1B,Aktobe,1.3000000000000045,KAZ
+2015,Percent,_L_KZ_150201_1B,Almaty,14.399999999999864,KAZ
+2015,Percent,_L_KZ_150201_1B,Atyrau,0.1000000000000014,KAZ
+2015,Percent,_L_KZ_150201_1B,Batys Kazakhstan,-2.0999999999999943,KAZ
+2015,Percent,_L_KZ_150201_1B,Zhambyl,4.5,KAZ
+2015,Percent,_L_KZ_150201_1B,Karagandy,-2.5,KAZ
+2015,Percent,_L_KZ_150201_1B,Kostanay,1.5,KAZ
+2015,Percent,_L_KZ_150201_1B,Kyzylorda,-3.900000000000091,KAZ
+2015,Percent,_L_KZ_150201_1B,Mangistau,0.0,KAZ
+2015,Percent,_L_KZ_150201_1B,Pavlodar,1.4000000000000057,KAZ
+2015,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,2.1000000000000227,KAZ
+2015,Percent,_L_KZ_150201_1B,Turkistan,6.900000000000091,KAZ
+2015,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,0.599999999999909,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,8.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,13.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,11.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,6.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,7.0,KAZ
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,48.0,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12652.4,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,380.3,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,51.6,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1870.6,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,16.5,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,103.9,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2240.6,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,153.3,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,236.4,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3059.1,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.4,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,254.5,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,534.0,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1623.7,KAZ
+2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2005.3,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,,12706.8,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Akmola,382.1,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Aktobe,51.7,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Almaty,1882.3,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Atyrau,16.5,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,106.0,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Zhambyl,2240.7,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Karagandy,153.3,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Kostanay,238.2,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3080.3,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Mangistau,122.4,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Pavlodar,257.1,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,535.6,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Turkistan,1630.1,KAZ
+2016,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2010.3,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,40.7,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.3,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,4.6,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,15.5,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,5.9,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,27.0,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,52.0,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.1,KAZ
+2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,204.6,KAZ
+2016,Percent,_L_KZ_150201_1B,,54.39999999999964,KAZ
+2016,Percent,_L_KZ_150201_1B,Akmola,1.8000000000000114,KAZ
+2016,Percent,_L_KZ_150201_1B,Aktobe,0.1000000000000014,KAZ
+2016,Percent,_L_KZ_150201_1B,Almaty,11.700000000000044,KAZ
+2016,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2016,Percent,_L_KZ_150201_1B,Batys Kazakhstan,2.0999999999999943,KAZ
+2016,Percent,_L_KZ_150201_1B,Zhambyl,0.099999999999909,KAZ
+2016,Percent,_L_KZ_150201_1B,Karagandy,0.0,KAZ
+2016,Percent,_L_KZ_150201_1B,Kostanay,1.8,KAZ
+2016,Percent,_L_KZ_150201_1B,Kyzylorda,21.20000000000028,KAZ
+2016,Percent,_L_KZ_150201_1B,Mangistau,0.0,KAZ
+2016,Percent,_L_KZ_150201_1B,Pavlodar,2.6000000000000227,KAZ
+2016,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,1.6000000000000227,KAZ
+2016,Percent,_L_KZ_150201_1B,Turkistan,6.399999999999864,KAZ
+2016,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,5.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,8.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,13.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,0.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,11.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,6.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,7.0,KAZ
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,48.0,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12706.8,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,382.1,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,51.7,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1882.3,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,16.5,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,106.0,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2240.7,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,153.3,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,238.2,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3080.3,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,122.4,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,257.1,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,535.6,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1630.1,KAZ
+2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2010.3,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,,12903.5,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Akmola,382.1,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Aktobe,51.9,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Almaty,1928.7,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Atyrau,16.6,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,91.2,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Zhambyl,2361.3,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Karagandy,153.5,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Kostanay,240.0,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3103.2,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Mangistau,125.1,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Pavlodar,258.4,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,537.2,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Turkistan,1639.2,KAZ
+2017,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2015.3,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,421.8,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,44.7,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,49.4,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.5,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,7.7,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.4,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,5.5,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,17.3,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,5.9,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,26.9,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,49.6,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.2,KAZ
+2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,206.5,KAZ
+2017,Percent,_L_KZ_150201_1B,,196.7000000000008,KAZ
+2017,Percent,_L_KZ_150201_1B,Akmola,0.0,KAZ
+2017,Percent,_L_KZ_150201_1B,Aktobe,0.1999999999999957,KAZ
+2017,Percent,_L_KZ_150201_1B,Almaty,46.40000000000009,KAZ
+2017,Percent,_L_KZ_150201_1B,Atyrau,0.1000000000000014,KAZ
+2017,Percent,_L_KZ_150201_1B,Batys Kazakhstan,-14.799999999999995,KAZ
+2017,Percent,_L_KZ_150201_1B,Zhambyl,120.60000000000036,KAZ
+2017,Percent,_L_KZ_150201_1B,Karagandy,0.1999999999999886,KAZ
+2017,Percent,_L_KZ_150201_1B,Kostanay,1.8000000000000114,KAZ
+2017,Percent,_L_KZ_150201_1B,Kyzylorda,22.89999999999964,KAZ
+2017,Percent,_L_KZ_150201_1B,Mangistau,2.6999999999999886,KAZ
+2017,Percent,_L_KZ_150201_1B,Pavlodar,1.2999999999999543,KAZ
+2017,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,1.6000000000000227,KAZ
+2017,Percent,_L_KZ_150201_1B,Turkistan,9.100000000000136,KAZ
+2017,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,5.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,7.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,10.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,20.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,4.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,2.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,7.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,6.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,6.0,KAZ
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,38.0,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12903.5,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,382.1,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,51.9,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1928.7,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,16.6,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,91.2,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2361.3,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,153.5,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,240.0,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3103.2,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,125.1,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,258.4,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,537.2,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1639.2,KAZ
+2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2015.3,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,,12933.1,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Akmola,383.8,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Aktobe,52.5,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Almaty,1949.5,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Atyrau,18.7,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,91.1,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Zhambyl,2323.1,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Karagandy,153.6,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Kostanay,241.3,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3118.9,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Mangistau,125.2,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Pavlodar,261.6,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,538.5,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Turkistan,1654.4,KAZ
+2018,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2020.9,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,428.6,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.5,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.2,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,50.6,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.4,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,7.9,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.6,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,5.6,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,17.5,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,6.2,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,27.4,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,50.2,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.3,KAZ
+2018,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,209.3,KAZ
+2018,Percent,_L_KZ_150201_1B,,29.600000000000364,KAZ
+2018,Percent,_L_KZ_150201_1B,Akmola,1.6999999999999886,KAZ
+2018,Percent,_L_KZ_150201_1B,Aktobe,0.6000000000000014,KAZ
+2018,Percent,_L_KZ_150201_1B,Almaty,20.799999999999955,KAZ
+2018,Percent,_L_KZ_150201_1B,Atyrau,2.099999999999998,KAZ
+2018,Percent,_L_KZ_150201_1B,Batys Kazakhstan,-0.1000000000000085,KAZ
+2018,Percent,_L_KZ_150201_1B,Zhambyl,-38.20000000000027,KAZ
+2018,Percent,_L_KZ_150201_1B,Karagandy,0.0999999999999943,KAZ
+2018,Percent,_L_KZ_150201_1B,Kostanay,1.3000000000000114,KAZ
+2018,Percent,_L_KZ_150201_1B,Kyzylorda,15.700000000000273,KAZ
+2018,Percent,_L_KZ_150201_1B,Mangistau,0.1000000000000085,KAZ
+2018,Percent,_L_KZ_150201_1B,Pavlodar,3.200000000000045,KAZ
+2018,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,1.2999999999999543,KAZ
+2018,Percent,_L_KZ_150201_1B,Turkistan,15.200000000000044,KAZ
+2018,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,5.600000000000136,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,6.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,15.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,19.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,3.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,2.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,8.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,5.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,6.0,KAZ
+2018,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,36.0,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12933.1,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,383.8,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,52.5,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,1949.5,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,18.7,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,91.1,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2323.1,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,153.6,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,241.3,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3118.9,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,125.2,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,261.6,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,538.5,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1654.4,KAZ
+2018,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2020.9,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,,13121.8,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Akmola,384.2,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Aktobe,56.3,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Almaty,2104.2,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Atyrau,18.7,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,91.2,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Zhambyl,2297.9,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Karagandy,152.3,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Kostanay,242.2,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3146.7,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Mangistau,125.4,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Pavlodar,267.5,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,540.4,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Turkistan,1665.6,KAZ
+2019,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2029.1,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,435.8,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,46.0,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.2,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,51.9,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.4,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,7.9,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.7,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,5.7,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,17.7,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,6.5,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,28.0,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,51.0,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,3.4,KAZ
+2019,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,212.3,KAZ
+2019,Percent,_L_KZ_150201_1B,,188.6999999999989,KAZ
+2019,Percent,_L_KZ_150201_1B,Akmola,0.4,KAZ
+2019,Percent,_L_KZ_150201_1B,Aktobe,3.8,KAZ
+2019,Percent,_L_KZ_150201_1B,Almaty,154.7,KAZ
+2019,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2019,Percent,_L_KZ_150201_1B,Batys Kazakhstan,0.1,KAZ
+2019,Percent,_L_KZ_150201_1B,Zhambyl,-25.2,KAZ
+2019,Percent,_L_KZ_150201_1B,Karagandy,-1.3,KAZ
+2019,Percent,_L_KZ_150201_1B,Kostanay,0.9,KAZ
+2019,Percent,_L_KZ_150201_1B,Kyzylorda,27.8,KAZ
+2019,Percent,_L_KZ_150201_1B,Mangistau,0.2,KAZ
+2019,Percent,_L_KZ_150201_1B,Pavlodar,5.9,KAZ
+2019,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,1.9,KAZ
+2019,Percent,_L_KZ_150201_1B,Turkistan,11.2,KAZ
+2019,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,8.2,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,6.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,22.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,17.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,3.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,2.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,8.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,4.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,5.0,KAZ
+2019,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,33.0,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,13121.8,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,384.2,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,56.3,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Almaty,2104.2,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Atyrau,18.7,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Batys Kazakhstan,91.2,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Zhambyl,2297.9,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Karagandy,152.3,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kostanay,242.2,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Kyzylorda,3146.7,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Mangistau,125.4,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Pavlodar,267.5,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,540.4,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1665.6,KAZ
+2019,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2029.1,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,,13316.9,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Akmola,384.8,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Aktobe,57.3,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Almaty,2005.9,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Atyrau,18.7,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,89.7,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Zhambyl,2282.4,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Karagandy,152.6,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Kostanay,272.3,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3540.5,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Mangistau,125.5,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Pavlodar,270.6,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,542.7,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Turkistan,1540.6,KAZ
+2020,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,2033.4,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,446.3,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,47.1,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.2,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,52.8,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,0.4,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,8.0,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,3.9,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,5.8,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,20.8,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,7.9,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,0.1,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,28.6,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,51.7,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,2.9,KAZ
+2020,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,215.1,KAZ
+2020,Percent,_L_KZ_150201_1B,,195.1,KAZ
+2020,Percent,_L_KZ_150201_1B,Akmola,0.6,KAZ
+2020,Percent,_L_KZ_150201_1B,Aktobe,1.0,KAZ
+2020,Percent,_L_KZ_150201_1B,Almaty,-98.3,KAZ
+2020,Percent,_L_KZ_150201_1B,Atyrau,0.0,KAZ
+2020,Percent,_L_KZ_150201_1B,Batys Kazakhstan,-1.5,KAZ
+2020,Percent,_L_KZ_150201_1B,Zhambyl,-15.5,KAZ
+2020,Percent,_L_KZ_150201_1B,Karagandy,0.3,KAZ
+2020,Percent,_L_KZ_150201_1B,Kostanay,30.1,KAZ
+2020,Percent,_L_KZ_150201_1B,Kyzylorda,393.8,KAZ
+2020,Percent,_L_KZ_150201_1B,Mangistau,0.1,KAZ
+2020,Percent,_L_KZ_150201_1B,Pavlodar,3.1,KAZ
+2020,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,2.3,KAZ
+2020,Percent,_L_KZ_150201_1B,Turkistan,-125.0,KAZ
+2020,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,4.3,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,100.0,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,3.3,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,0.1,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,12.9,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,0.0,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,0.0,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,10.0,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,1.7,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,0.7,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,18.8,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,0.0,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,4.6,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,2.6,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,25.9,KAZ
+2020,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,19.4,KAZ
+2013,,"Rate of net change in forest area per year, ha",,1037.0,KGZ
+2014,,"Rate of net change in forest area per year, ha",,778.0,KGZ
+2015,,"Rate of net change in forest area per year, ha",,507.0,KGZ
+2016,,"Rate of net change in forest area per year, ha",,616.0,KGZ
+2017,,"Rate of net change in forest area per year, ha",,490.0,KGZ
+2018,,"Rate of net change in forest area per year, ha",,400.0,KGZ
+2019,,"Rate of net change in forest area per year, ha",,412.0,KGZ
+2013,,Above-ground biomass in forest per hectare (tonnes per hectare),,26.7,KGZ
+2013,,Proportion of forest area within legally established protected areas,,5.7,KGZ
+2014,,Proportion of forest area within legally established protected areas,,5.7,KGZ
+2015,,Proportion of forest area within legally established protected areas,,5.7,KGZ
+2016,,Proportion of forest area within legally established protected areas,,5.7,KGZ
+2017,,Proportion of forest area within legally established protected areas,,5.7,KGZ
+2018,,Proportion of forest area within legally established protected areas,,5.8,KGZ
+2013,,Proportion of forest area with a long-term management plan,,74.6,KGZ
+2014,,Proportion of forest area with a long-term management plan,,76.4,KGZ
+2015,,Proportion of forest area with a long-term management plan,,78.0,KGZ
+2016,,Proportion of forest area with a long-term management plan,,79.6,KGZ
+2017,,Proportion of forest area with a long-term management plan,,81.3,KGZ
+2018,,Proportion of forest area with a long-term management plan,,82.6,KGZ

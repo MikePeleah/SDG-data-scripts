@@ -1,0 +1,63 @@
+Year,UNIT_MEASURE,Area,Sex,Value,M49_country_code,SERIES,Degree of urbanisation,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2012.0,Percent,,,12.8,KAZ,,,,,,,
+2012.0,Percent,urban,,10.9,KAZ,,,,,,,
+2012.0,Percent,rural,,15.9,KAZ,,,,,,,
+2012.0,Percent,,Male,7.7,KAZ,,,,,,,
+2012.0,Percent,,Female,17.1,KAZ,,,,,,,
+2018.0,Percent,,,12.3,KAZ,,,,,,,
+2018.0,Percent,urban,,11.9,KAZ,,,,,,,
+2018.0,Percent,rural,,12.8,KAZ,,,,,,,
+2018.0,Percent,,Male,5.9,KAZ,,,,,,,
+2018.0,Percent,,Female,17.7,KAZ,,,,,,,
+2015.0,,,,13.2,KGZ,Proportion of time spent on unpaid domestic chores and care work,,,,,,
+2020.0,,,,11.5,KGZ,Proportion of time spent on unpaid domestic chores and care work,,,,,,
+2015.0,,,,12.5,KGZ,Proportion of time spent on unpaid domestic chores and care work,Urban,,,,,
+2020.0,,,,10.7,KGZ,Proportion of time spent on unpaid domestic chores and care work,Urban,,,,,
+2015.0,,,,13.9,KGZ,Proportion of time spent on unpaid domestic chores and care work,Rural,,,,,
+2020.0,,,,11.9,KGZ,Proportion of time spent on unpaid domestic chores and care work,Rural,,,,,
+2015.0,,,Male,6.5,KGZ,Proportion of time spent on unpaid domestic chores and care work,,,,,,
+2020.0,,,Male,3.9,KGZ,Proportion of time spent on unpaid domestic chores and care work,,,,,,
+2015.0,,,Female,18.8,KGZ,Proportion of time spent on unpaid domestic chores and care work,,,,,,
+2020.0,,,Female,18.1,KGZ,Proportion of time spent on unpaid domestic chores and care work,,,,,,
+2015.0,,,,1.7,KGZ,Proportion of time spent on unpaid domestic chores,,,,,,
+2020.0,,,,2.6,KGZ,Proportion of time spent on unpaid domestic chores,,,,,,
+2015.0,,,,0.4,KGZ,Proportion of time spent on unpaid domestic chores,Urban,,,,,
+2020.0,,,,1.0,KGZ,Proportion of time spent on unpaid domestic chores,Urban,,,,,
+2015.0,,,,3.1,KGZ,Proportion of time spent on unpaid domestic chores,Rural,,,,,
+2020.0,,,,3.5,KGZ,Proportion of time spent on unpaid domestic chores,Rural,,,,,
+2015.0,,,Male,2.4,KGZ,Proportion of time spent on unpaid domestic chores,,,,,,
+2020.0,,,Male,3.6,KGZ,Proportion of time spent on unpaid domestic chores,,,,,,
+2015.0,,,Female,1.0,KGZ,Proportion of time spent on unpaid domestic chores,,,,,,
+2020.0,,,Female,1.7,KGZ,Proportion of time spent on unpaid domestic chores,,,,,,
+2015.0,,,,0.9,KGZ,Proportion of time spent on unpaid care work,,,,,,
+2020.0,,,,2.0,KGZ,Proportion of time spent on unpaid care work,,,,,,
+2015.0,,,,0.9,KGZ,Proportion of time spent on unpaid care work,Urban,,,,,
+2020.0,,,,1.7,KGZ,Proportion of time spent on unpaid care work,Urban,,,,,
+2015.0,,,,0.9,KGZ,Proportion of time spent on unpaid care work,Rural,,,,,
+2020.0,,,,2.2,KGZ,Proportion of time spent on unpaid care work,Rural,,,,,
+2015.0,,,Male,0.6,KGZ,Proportion of time spent on unpaid care work,,,,,,
+2020.0,,,Male,1.2,KGZ,Proportion of time spent on unpaid care work,,,,,,
+2015.0,,,Female,1.2,KGZ,Proportion of time spent on unpaid care work,,,,,,
+2020.0,,,Female,2.8,KGZ,Proportion of time spent on unpaid care work,,,,,,
+,,,,,UZB,,,01_101_,Total,True,2000.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2001.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2002.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2003.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2004.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2005.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2006.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2007.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2008.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2009.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2010.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2011.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2012.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2013.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2014.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2015.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2016.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2017.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2018.0,15.5
+,,,,,UZB,,,01_101_,Total,True,2019.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2020.0,0.0
+,,,,,UZB,,,01_101_,Total,True,2021.0,0.0

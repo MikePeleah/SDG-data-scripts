@@ -1,0 +1,111 @@
+unique_id,col_caption_name,col_caption_name1_empty,year,value,M49_country_code
+01_101_,Total,True,2000,368.8,UZB
+01_101_,Total,True,2001,340.0,UZB
+01_101_,Total,True,2002,351.8,UZB
+01_101_,Total,True,2003,347.9,UZB
+01_101_,Total,True,2004,342.5,UZB
+01_101_,Total,True,2005,362.9,UZB
+01_101_,Total,True,2006,350.3,UZB
+01_101_,Total,True,2007,332.7,UZB
+01_101_,Total,True,2008,320.6,UZB
+01_101_,Total,True,2009,309.7,UZB
+01_101_,Total,True,2010,300.7,UZB
+01_101_,Total,True,2011,301.0,UZB
+01_101_,Total,True,2012,297.0,UZB
+01_101_,Total,True,2013,288.1,UZB
+01_101_,Total,True,2014,288.6,UZB
+01_101_,Total,True,2015,279.7,UZB
+01_101_,Total,True,2016,281.2,UZB
+01_101_,Total,True,2017,279.3,UZB
+01_101_,Total,True,2018,264.9,UZB
+01_101_,Total,True,2019,252.6,UZB
+01_101_,Total,True,2020,371.4,UZB
+01_101_,Total,True,2021,372.7,UZB
+15_141_,cardiovascular disease (I00-I99),True,2000,270.4,UZB
+15_141_,cardiovascular disease (I00-I99),True,2001,262.8,UZB
+15_141_,cardiovascular disease (I00-I99),True,2002,274.3,UZB
+15_141_,cardiovascular disease (I00-I99),True,2003,269.3,UZB
+15_141_,cardiovascular disease (I00-I99),True,2004,257.1,UZB
+15_141_,cardiovascular disease (I00-I99),True,2005,274.7,UZB
+15_141_,cardiovascular disease (I00-I99),True,2006,265.6,UZB
+15_141_,cardiovascular disease (I00-I99),True,2007,252.8,UZB
+15_141_,cardiovascular disease (I00-I99),True,2008,245.8,UZB
+15_141_,cardiovascular disease (I00-I99),True,2009,232.4,UZB
+15_141_,cardiovascular disease (I00-I99),True,2010,227.7,UZB
+15_141_,cardiovascular disease (I00-I99),True,2011,226.9,UZB
+15_141_,cardiovascular disease (I00-I99),True,2012,222.2,UZB
+15_141_,cardiovascular disease (I00-I99),True,2013,214.0,UZB
+15_141_,cardiovascular disease (I00-I99),True,2014,213.1,UZB
+15_141_,cardiovascular disease (I00-I99),True,2015,202.1,UZB
+15_141_,cardiovascular disease (I00-I99),True,2016,203.9,UZB
+15_141_,cardiovascular disease (I00-I99),True,2017,201.1,UZB
+15_141_,cardiovascular disease (I00-I99),True,2018,191.2,UZB
+15_141_,cardiovascular disease (I00-I99),True,2019,181.0,UZB
+15_141_,cardiovascular disease (I00-I99),True,2020,200.4,UZB
+15_141_,cardiovascular disease (I00-I99),True,2021,308.5,UZB
+15_142_,malignant neoplasms (C00-C97),True,2000,57.3,UZB
+15_142_,malignant neoplasms (C00-C97),True,2001,54.5,UZB
+15_142_,malignant neoplasms (C00-C97),True,2002,53.1,UZB
+15_142_,malignant neoplasms (C00-C97),True,2003,53.5,UZB
+15_142_,malignant neoplasms (C00-C97),True,2004,52.8,UZB
+15_142_,malignant neoplasms (C00-C97),True,2005,53.7,UZB
+15_142_,malignant neoplasms (C00-C97),True,2006,50.9,UZB
+15_142_,malignant neoplasms (C00-C97),True,2007,49.5,UZB
+15_142_,malignant neoplasms (C00-C97),True,2008,42.2,UZB
+15_142_,malignant neoplasms (C00-C97),True,2009,48.2,UZB
+15_142_,malignant neoplasms (C00-C97),True,2010,45.2,UZB
+15_142_,malignant neoplasms (C00-C97),True,2011,47.1,UZB
+15_142_,malignant neoplasms (C00-C97),True,2012,46.7,UZB
+15_142_,malignant neoplasms (C00-C97),True,2013,46.2,UZB
+15_142_,malignant neoplasms (C00-C97),True,2014,48.1,UZB
+15_142_,malignant neoplasms (C00-C97),True,2015,49.8,UZB
+15_142_,malignant neoplasms (C00-C97),True,2016,50.6,UZB
+15_142_,malignant neoplasms (C00-C97),True,2017,51.3,UZB
+15_142_,malignant neoplasms (C00-C97),True,2018,48.2,UZB
+15_142_,malignant neoplasms (C00-C97),True,2019,48.3,UZB
+15_142_,malignant neoplasms (C00-C97),True,2020,42.1,UZB
+15_142_,malignant neoplasms (C00-C97),True,2021,38.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2000,16.1,UZB
+15_143_,diabetes mellitus (E10-E14),True,2001,21.0,UZB
+15_143_,diabetes mellitus (E10-E14),True,2002,16.7,UZB
+15_143_,diabetes mellitus (E10-E14),True,2003,18.1,UZB
+15_143_,diabetes mellitus (E10-E14),True,2004,19.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2005,20.2,UZB
+15_143_,diabetes mellitus (E10-E14),True,2006,21.6,UZB
+15_143_,diabetes mellitus (E10-E14),True,2007,21.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2008,23.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2009,20.8,UZB
+15_143_,diabetes mellitus (E10-E14),True,2010,20.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2011,19.2,UZB
+15_143_,diabetes mellitus (E10-E14),True,2012,21.7,UZB
+15_143_,diabetes mellitus (E10-E14),True,2013,21.2,UZB
+15_143_,diabetes mellitus (E10-E14),True,2014,21.5,UZB
+15_143_,diabetes mellitus (E10-E14),True,2015,22.3,UZB
+15_143_,diabetes mellitus (E10-E14),True,2016,21.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2017,21.4,UZB
+15_143_,diabetes mellitus (E10-E14),True,2018,19.7,UZB
+15_143_,diabetes mellitus (E10-E14),True,2019,19.5,UZB
+15_143_,diabetes mellitus (E10-E14),True,2020,25.1,UZB
+15_143_,diabetes mellitus (E10-E14),True,2021,18.3,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2000,25.0,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2001,1.7,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2002,7.7,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2003,7.1,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2004,13.2,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2005,14.3,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2006,12.3,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2007,9.0,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2008,9.2,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2009,8.3,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2010,7.4,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2011,7.7,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2012,6.5,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2013,6.7,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2014,5.9,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2015,5.6,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2016,5.2,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2017,5.6,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2018,5.8,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2019,3.8,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2020,6.0,UZB
+15_144_,chronic respiratory disease (J30-J99),True,2021,7.5,UZB

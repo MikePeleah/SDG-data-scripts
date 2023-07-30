@@ -1,0 +1,91 @@
+Year,Sex,Age,Education level,Value,M49_country_code
+2010,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.0,KGZ
+2013,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.4,KGZ
+2014,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.3,KGZ
+2015,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.5,KGZ
+2016,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.4,KGZ
+2017,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.9,KGZ
+2018,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.1,KGZ
+2019,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.5,KGZ
+2020,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.0,KGZ
+2021,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.8,KGZ
+2010,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.4,KGZ
+2013,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.0,KGZ
+2014,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.6,KGZ
+2015,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.8,KGZ
+2016,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.3,KGZ
+2017,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.9,KGZ
+2018,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.2,KGZ
+2019,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.9,KGZ
+2020,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.4,KGZ
+2021,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.2,KGZ
+2010,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.5,KGZ
+2013,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.6,KGZ
+2014,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.9,KGZ
+2015,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),13.1,KGZ
+2016,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),14.3,KGZ
+2017,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),14.7,KGZ
+2018,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),13.9,KGZ
+2019,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),13.1,KGZ
+2020,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),13.5,KGZ
+2021,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),16.2,KGZ
+2010,,17 to 20 years old,Short-cycle tertiary education,13.6,KGZ
+2013,,17 to 20 years old,Short-cycle tertiary education,20.3,KGZ
+2014,,17 to 20 years old,Short-cycle tertiary education,21.8,KGZ
+2015,,17 to 20 years old,Short-cycle tertiary education,21.1,KGZ
+2016,,17 to 20 years old,Short-cycle tertiary education,22.0,KGZ
+2017,,17 to 20 years old,Short-cycle tertiary education,22.8,KGZ
+2018,,17 to 20 years old,Short-cycle tertiary education,23.1,KGZ
+2019,,17 to 20 years old,Short-cycle tertiary education,23.4,KGZ
+2020,,17 to 20 years old,Short-cycle tertiary education,24.3,KGZ
+2021,,17 to 20 years old,Short-cycle tertiary education,24.2,KGZ
+2010,Female,17 to 20 years old,Short-cycle tertiary education,16.0,KGZ
+2013,Female,17 to 20 years old,Short-cycle tertiary education,23.8,KGZ
+2014,Female,17 to 20 years old,Short-cycle tertiary education,24.3,KGZ
+2015,Female,17 to 20 years old,Short-cycle tertiary education,24.2,KGZ
+2016,Female,17 to 20 years old,Short-cycle tertiary education,25.2,KGZ
+2017,Female,17 to 20 years old,Short-cycle tertiary education,26.4,KGZ
+2018,Female,17 to 20 years old,Short-cycle tertiary education,26.4,KGZ
+2019,Female,17 to 20 years old,Short-cycle tertiary education,26.8,KGZ
+2020,Female,17 to 20 years old,Short-cycle tertiary education,27.8,KGZ
+2021,Female,17 to 20 years old,Short-cycle tertiary education,27.6,KGZ
+2010,Male,17 to 20 years old,Short-cycle tertiary education,11.2,KGZ
+2013,Male,17 to 20 years old,Short-cycle tertiary education,16.8,KGZ
+2014,Male,17 to 20 years old,Short-cycle tertiary education,18.0,KGZ
+2015,Male,17 to 20 years old,Short-cycle tertiary education,18.0,KGZ
+2016,Male,17 to 20 years old,Short-cycle tertiary education,18.8,KGZ
+2017,Male,17 to 20 years old,Short-cycle tertiary education,19.3,KGZ
+2018,Male,17 to 20 years old,Short-cycle tertiary education,19.9,KGZ
+2019,Male,17 to 20 years old,Short-cycle tertiary education,20.1,KGZ
+2020,Male,17 to 20 years old,Short-cycle tertiary education,20.9,KGZ
+2021,Male,17 to 20 years old,Short-cycle tertiary education,20.9,KGZ
+2010,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.3,KGZ
+2013,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.3,KGZ
+2014,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),23.8,KGZ
+2015,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),22.6,KGZ
+2016,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),20.2,KGZ
+2017,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),19.1,KGZ
+2018,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),19.8,KGZ
+2019,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),22.6,KGZ
+2020,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.7,KGZ
+2021,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),28.5,KGZ
+2010,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.3,KGZ
+2013,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.7,KGZ
+2014,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.5,KGZ
+2015,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.6,KGZ
+2016,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),22.2,KGZ
+2017,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),20.6,KGZ
+2018,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),21.3,KGZ
+2019,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.0,KGZ
+2020,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),28.4,KGZ
+2021,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),29.7,KGZ
+2010,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),22.4,KGZ
+2013,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),21.8,KGZ
+2014,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),21.2,KGZ
+2015,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),20.6,KGZ
+2016,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),18.3,KGZ
+2017,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),17.4,KGZ
+2018,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),18.3,KGZ
+2019,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),21.2,KGZ
+2020,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),25.0,KGZ
+2021,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),27.5,KGZ

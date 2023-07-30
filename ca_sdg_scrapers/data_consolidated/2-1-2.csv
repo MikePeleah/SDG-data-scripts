@@ -1,0 +1,151 @@
+Year,UNIT_MEASURE,SERIES,Value,M49_country_code,Reference area,Degree of urbanisation,GeoCode,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2015.0,Percent,Food insecurity (moderate and extreme),7.8,KAZ,,,,,,,,
+2015.0,Percent,Extreme food insecurity,1.4,KAZ,,,,,,,,
+2016.0,Percent,Food insecurity (moderate and extreme),7.8,KAZ,,,,,,,,
+2016.0,Percent,Extreme food insecurity,1.4,KAZ,,,,,,,,
+2017.0,Percent,Food insecurity (moderate and extreme),7.8,KAZ,,,,,,,,
+2017.0,Percent,Extreme food insecurity,1.4,KAZ,,,,,,,,
+2018.0,Percent,Food insecurity (moderate and extreme),4.2,KAZ,,,,,,,,
+2018.0,Percent,Extreme food insecurity,1.7,KAZ,,,,,,,,
+2019.0,Percent,Food insecurity (moderate and extreme),5.3,KAZ,,,,,,,,
+2019.0,Percent,Extreme food insecurity,1.9,KAZ,,,,,,,,
+2020.0,Percent,Food insecurity (moderate and extreme),5.1,KAZ,,,,,,,,
+2020.0,Percent,Extreme food insecurity,1.9,KAZ,,,,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,4.5,KGZ,,,,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,5.7,KGZ,,,,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,7.6,KGZ,,,,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,6.9,KGZ,,Urban,,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,9.4,KGZ,,Urban,,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,12.9,KGZ,,Urban,,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,3.1,KGZ,,Rural,,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,3.6,KGZ,,Rural,,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,4.5,KGZ,,Rural,,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,2.7,KGZ,Batken,,KG05,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,2.4,KGZ,Batken,,KG05,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,0.9,KGZ,Batken,,KG05,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,6.6,KGZ,Jalal-Abad,,KG03,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,7.0,KGZ,Jalal-Abad,,KG03,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,9.8,KGZ,Jalal-Abad,,KG03,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,9.3,KGZ,Issyk-Kul,,KG02,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,9.8,KGZ,Issyk-Kul,,KG02,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,4.6,KGZ,Issyk-Kul,,KG02,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,1.8,KGZ,Naryn,,KG04,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,1.3,KGZ,Naryn,,KG04,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,8.3,KGZ,Naryn,,KG04,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,2.2,KGZ,Osh,,KG06,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,2.2,KGZ,Osh,,KG06,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,3.5,KGZ,Osh,,KG06,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,3.3,KGZ,Talas,,KG07,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,7.6,KGZ,Talas,,KG07,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,8.3,KGZ,Talas,,KG07,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,3.0,KGZ,Chui,,KG08,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,4.2,KGZ,Chui,,KG08,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,3.1,KGZ,Chui,,KG08,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,5.4,KGZ,Bishkek (city),,KG11,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,10.3,KGZ,Bishkek (city),,KG11,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,13.6,KGZ,Bishkek (city),,KG11,,,,,
+2019.0,,Prevalence of moderate or severe food insecurity in the population,10.7,KGZ,Osh (city),,KG21,,,,,
+2020.0,,Prevalence of moderate or severe food insecurity in the population,12.2,KGZ,Osh (city),,KG21,,,,,
+2021.0,,Prevalence of moderate or severe food insecurity in the population,24.6,KGZ,Osh (city),,KG21,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.8,KGZ,,,,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,1.3,KGZ,,,,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,1.6,KGZ,,,,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,1.8,KGZ,,Urban,,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,2.9,KGZ,,Urban,,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,3.4,KGZ,,Urban,,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.2,KGZ,,Rural,,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,0.4,KGZ,,Rural,,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.6,KGZ,,Rural,,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.1,KGZ,Batken,,KG05,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,0.0,KGZ,Batken,,KG05,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.1,KGZ,Batken,,KG05,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,2.1,KGZ,Jalal-Abad,,KG03,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,2.4,KGZ,Jalal-Abad,,KG03,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,3.2,KGZ,Jalal-Abad,,KG03,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.7,KGZ,Issyk-Kul,,KG02,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,1.5,KGZ,Issyk-Kul,,KG02,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.2,KGZ,Issyk-Kul,,KG02,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.1,KGZ,Naryn,,KG04,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,0.4,KGZ,Naryn,,KG04,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,1.3,KGZ,Naryn,,KG04,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.1,KGZ,Osh,,KG06,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,0.3,KGZ,Osh,,KG06,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.7,KGZ,Osh,,KG06,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.1,KGZ,Talas,,KG07,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,0.8,KGZ,Talas,,KG07,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.5,KGZ,Talas,,KG07,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.7,KGZ,Chui,,KG08,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,1.4,KGZ,Chui,,KG08,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.5,KGZ,Chui,,KG08,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,0.4,KGZ,Bishkek (city),,KG11,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,1.8,KGZ,Bishkek (city),,KG11,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,0.9,KGZ,Bishkek (city),,KG11,,,,,
+2019.0,,Prevalence of severe food insecurity in the population,2.7,KGZ,Osh (city),,KG21,,,,,
+2020.0,,Prevalence of severe food insecurity in the population,3.7,KGZ,Osh (city),,KG21,,,,,
+2021.0,,Prevalence of severe food insecurity in the population,11.7,KGZ,Osh (city),,KG21,,,,,
+,,,,UZB,,,,11_101_,Total,True,2000.0,5612.3
+,,,,UZB,,,,11_101_,Total,True,2001.0,6705.2
+,,,,UZB,,,,11_101_,Total,True,2002.0,6658.3
+,,,,UZB,,,,11_101_,Total,True,2003.0,7626.2
+,,,,UZB,,,,11_101_,Total,True,2004.0,7637.6
+,,,,UZB,,,,11_101_,Total,True,2005.0,7803.6
+,,,,UZB,,,,11_101_,Total,True,2006.0,8163.3
+,,,,UZB,,,,11_101_,Total,True,2007.0,8364.0
+,,,,UZB,,,,11_101_,Total,True,2008.0,8912.7
+,,,,UZB,,,,11_101_,Total,True,2009.0,8640.9
+,,,,UZB,,,,11_101_,Total,True,2010.0,8532.4
+,,,,UZB,,,,11_101_,Total,True,2011.0,7911.2
+,,,,UZB,,,,11_101_,Total,True,2012.0,7086.3
+,,,,UZB,,,,11_101_,Total,True,2013.0,6592.2
+,,,,UZB,,,,11_101_,Total,True,2014.0,5584.2
+,,,,UZB,,,,11_101_,Total,True,2015.0,6098.3
+,,,,UZB,,,,11_101_,Total,True,2016.0,5862.1
+,,,,UZB,,,,11_101_,Total,True,2017.0,5125.7
+,,,,UZB,,,,11_101_,Total,True,2018.0,5248.9
+,,,,UZB,,,,11_101_,Total,True,2019.0,5332.8
+,,,,UZB,,,,11_101_,Total,True,2020.0,0.0
+,,,,UZB,,,,11_101_,Total,True,2021.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2000.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2001.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2002.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2003.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2004.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2005.0,0.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2006.0,17966.2
+,,,,UZB,,,,11_122_,children under the age of 5,True,2007.0,18296.7
+,,,,UZB,,,,11_122_,children under the age of 5,True,2008.0,17070.1
+,,,,UZB,,,,11_122_,children under the age of 5,True,2009.0,16355.1
+,,,,UZB,,,,11_122_,children under the age of 5,True,2010.0,15662.9
+,,,,UZB,,,,11_122_,children under the age of 5,True,2011.0,13198.3
+,,,,UZB,,,,11_122_,children under the age of 5,True,2012.0,12295.4
+,,,,UZB,,,,11_122_,children under the age of 5,True,2013.0,11872.9
+,,,,UZB,,,,11_122_,children under the age of 5,True,2014.0,11284.2
+,,,,UZB,,,,11_122_,children under the age of 5,True,2015.0,11187.0
+,,,,UZB,,,,11_122_,children under the age of 5,True,2016.0,11164.3
+,,,,UZB,,,,11_122_,children under the age of 5,True,2017.0,10770.9
+,,,,UZB,,,,11_122_,children under the age of 5,True,2018.0,11099.4
+,,,,UZB,,,,11_122_,children under the age of 5,True,2019.0,10775.5
+,,,,UZB,,,,11_122_,children under the age of 5,True,2020.0,10397.4
+,,,,UZB,,,,11_122_,children under the age of 5,True,2021.0,0.0
+,,,,UZB,,,,11_123_,pregnant women,True,2000.0,4885.3
+,,,,UZB,,,,11_123_,pregnant women,True,2001.0,4830.3
+,,,,UZB,,,,11_123_,pregnant women,True,2002.0,5203.9
+,,,,UZB,,,,11_123_,pregnant women,True,2003.0,4683.0
+,,,,UZB,,,,11_123_,pregnant women,True,2004.0,4519.6
+,,,,UZB,,,,11_123_,pregnant women,True,2005.0,4133.5
+,,,,UZB,,,,11_123_,pregnant women,True,2006.0,4385.1
+,,,,UZB,,,,11_123_,pregnant women,True,2007.0,4507.7
+,,,,UZB,,,,11_123_,pregnant women,True,2008.0,4468.0
+,,,,UZB,,,,11_123_,pregnant women,True,2009.0,4643.9
+,,,,UZB,,,,11_123_,pregnant women,True,2010.0,3909.9
+,,,,UZB,,,,11_123_,pregnant women,True,2011.0,3604.6
+,,,,UZB,,,,11_123_,pregnant women,True,2012.0,3561.6
+,,,,UZB,,,,11_123_,pregnant women,True,2013.0,3496.9
+,,,,UZB,,,,11_123_,pregnant women,True,2014.0,3408.0
+,,,,UZB,,,,11_123_,pregnant women,True,2015.0,3322.4
+,,,,UZB,,,,11_123_,pregnant women,True,2016.0,2985.3
+,,,,UZB,,,,11_123_,pregnant women,True,2017.0,2758.1
+,,,,UZB,,,,11_123_,pregnant women,True,2018.0,2761.8
+,,,,UZB,,,,11_123_,pregnant women,True,2019.0,3011.7
+,,,,UZB,,,,11_123_,pregnant women,True,2020.0,0.0
+,,,,UZB,,,,11_123_,pregnant women,True,2021.0,0.0

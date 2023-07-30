@@ -1,0 +1,109 @@
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,GeoCode,Value,M49_country_code
+2018,,,,,,,,57.9,KGZ
+2019,,,,,,,,64.352075,KGZ
+2020,,,,,,,,66.8,KGZ
+2021,,,,,,,,67.138142,KGZ
+2018,,,,Urban,,,,50.7,KGZ
+2019,,,,Urban,,,,59.596564,KGZ
+2020,,,,Urban,,,,61.4,KGZ
+2021,,,,Urban,,,,59.586135,KGZ
+2018,,,,Rural,,,,62.8,KGZ
+2019,,,,Rural,,,,67.506663,KGZ
+2020,,,,Rural,,,,70.3,KGZ
+2021,,,,Rural,,,,72.469607,KGZ
+2018,,Male,,,,,,67.4,KGZ
+2019,,Male,,,,,,72.727756,KGZ
+2020,,Male,,,,,,76.1,KGZ
+2021,,Male,,,,,,76.571506,KGZ
+2018,,Female,,,,,,44.7,KGZ
+2019,,Female,,,,,,52.478851,KGZ
+2020,,Female,,,,,,54.0,KGZ
+2021,,Female,,,,,,53.94632,KGZ
+2018,Batken,,,,,,KG05,63.7,KGZ
+2019,Batken,,,,,,KG05,71.63582,KGZ
+2020,Batken,,,,,,KG05,65.3,KGZ
+2021,Batken,,,,,,KG05,60.920964,KGZ
+2018,Jalal-Abad,,,,,,KG03,46.2,KGZ
+2019,Jalal-Abad,,,,,,KG03,54.214346,KGZ
+2020,Jalal-Abad,,,,,,KG03,48.1,KGZ
+2021,Jalal-Abad,,,,,,KG03,53.116412,KGZ
+2018,Issyk-Kul,,,,,,KG02,69.3,KGZ
+2019,Issyk-Kul,,,,,,KG02,72.71323,KGZ
+2020,Issyk-Kul,,,,,,KG02,70.7,KGZ
+2021,Issyk-Kul,,,,,,KG02,71.759952,KGZ
+2018,Naryn,,,,,,KG04,71.9,KGZ
+2019,Naryn,,,,,,KG04,78.330797,KGZ
+2020,Naryn,,,,,,KG04,78.3,KGZ
+2021,Naryn,,,,,,KG04,73.18,KGZ
+2018,Osh,,,,,,KG06,70.4,KGZ
+2019,Osh,,,,,,KG06,73.833054,KGZ
+2020,Osh,,,,,,KG06,88.8,KGZ
+2021,Osh,,,,,,KG06,97.39384,KGZ
+2018,Talas,,,,,,KG07,73.3,KGZ
+2019,Talas,,,,,,KG07,88.247575,KGZ
+2020,Talas,,,,,,KG07,92.9,KGZ
+2021,Talas,,,,,,KG07,91.523816,KGZ
+2018,Chui,,,,,,KG08,69.3,KGZ
+2019,Chui,,,,,,KG08,65.741182,KGZ
+2020,Chui,,,,,,KG08,71.4,KGZ
+2021,Chui,,,,,,KG08,62.978228,KGZ
+2018,Bishkek (city),,,,,,KG11,31.2,KGZ
+2019,Bishkek (city),,,,,,KG11,45.046976,KGZ
+2020,Bishkek (city),,,,,,KG11,47.4,KGZ
+2021,Bishkek (city),,,,,,KG11,45.051243,KGZ
+2018,Osh (city),,,,,,KG21,86.7,KGZ
+2019,Osh (city),,,,,,KG21,98.677796,KGZ
+2020,Osh (city),,,,,,KG21,99.4,KGZ
+2021,Osh (city),,,,,,KG21,100.0,KGZ
+2018,,,15 to 28 years old,,,,,56.6,KGZ
+2019,,,15 to 28 years old,,,,,61.760682,KGZ
+2020,,,15 to 28 years old,,,,,64.1,KGZ
+2021,,,15 to 28 years old,,,,,66.405328,KGZ
+2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,59.4,KGZ
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,66.203849,KGZ
+2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,68.7,KGZ
+2021,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,68.279053,KGZ
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,54.1,KGZ
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,61.942673,KGZ
+2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,64.5,KGZ
+2021,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,64.347718,KGZ
+2018,,,,,,Primary education,,58.8,KGZ
+2019,,,,,,Primary education,,63.721132,KGZ
+2020,,,,,,Primary education,,69.8,KGZ
+2021,,,,,,Primary education,,68.757203,KGZ
+2018,,,,,,Lower secondary education,,63.3,KGZ
+2019,,,,,,Lower secondary education,,65.183411,KGZ
+2020,,,,,,Lower secondary education,,67.5,KGZ
+2021,,,,,,Lower secondary education,,69.036541,KGZ
+2018,,,,,,Upper secondary education,,57.7,KGZ
+2019,,,,,,Upper secondary education,,62.824591,KGZ
+2020,,,,,,Upper secondary education,,64.1,KGZ
+2021,,,,,,Upper secondary education,,66.56856,KGZ
+2018,,,,,,Post-secondary non-tertiary education,,59.7,KGZ
+2019,,,,,,Post-secondary non-tertiary education,,68.13387,KGZ
+2020,,,,,,Post-secondary non-tertiary education,,70.8,KGZ
+2021,,,,,,Post-secondary non-tertiary education,,68.036801,KGZ
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,53.7,KGZ
+2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,64.482244,KGZ
+2020,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,69.3,KGZ
+2021,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,66.45361,KGZ
+2018,,,,,Quintile 1 (poorest),,,52.386927,KGZ
+2019,,,,,Quintile 1 (poorest),,,55.414275,KGZ
+2020,,,,,Quintile 1 (poorest),,,58.2,KGZ
+2021,,,,,Quintile 1 (poorest),,,56.365186,KGZ
+2018,,,,,Quintile 2,,,58.140586,KGZ
+2019,,,,,Quintile 2,,,63.171549,KGZ
+2020,,,,,Quintile 2,,,69.7,KGZ
+2021,,,,,Quintile 2,,,67.44355,KGZ
+2018,,,,,Quintile 3,,,57.911249,KGZ
+2019,,,,,Quintile 3,,,65.795777,KGZ
+2020,,,,,Quintile 3,,,71.5,KGZ
+2021,,,,,Quintile 3,,,70.313406,KGZ
+2018,,,,,Quintile 4,,,60.870536,KGZ
+2019,,,,,Quintile 4,,,69.928679,KGZ
+2020,,,,,Quintile 4,,,68.3,KGZ
+2021,,,,,Quintile 4,,,71.713307,KGZ
+2018,,,,,Quintile 5 (richest),,,59.232205,KGZ
+2019,,,,,Quintile 5 (richest),,,65.727946,KGZ
+2020,,,,,Quintile 5 (richest),,,67.8,KGZ
+2021,,,,,Quintile 5 (richest),,,71.8874,KGZ

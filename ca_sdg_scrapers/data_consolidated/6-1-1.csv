@@ -1,0 +1,151 @@
+Year,UNIT_MEASURE,Area,Regions,Value,M49_country_code,Reference area,Degree of urbanisation,GeoCode
+2010,Percent,urban,,82.0,KAZ,,,
+2010,Percent,rural,,60.0,KAZ,,,
+2011,Percent,urban,,82.0,KAZ,,,
+2011,Percent,rural,,42.5,KAZ,,,
+2012,Percent,urban,,84.0,KAZ,,,
+2012,Percent,rural,,43.0,KAZ,,,
+2013,Percent,urban,,85.0,KAZ,,,
+2013,Percent,rural,,47.7,KAZ,,,
+2014,Percent,urban,,86.0,KAZ,,,
+2014,Percent,rural,,50.3,KAZ,,,
+2015,Percent,urban,,87.0,KAZ,,,
+2015,Percent,rural,,51.5,KAZ,,,
+2016,Percent,urban,,88.0,KAZ,,,
+2016,Percent,rural,,52.3,KAZ,,,
+2017,Percent,urban,,90.0,KAZ,,,
+2017,Percent,rural,,55.0,KAZ,,,
+2018,Percent,urban,,94.5,KAZ,,,
+2018,Percent,rural,,59.9,KAZ,,,
+2019,Percent,urban,,97.2,KAZ,,,
+2019,Percent,rural,,64.3,KAZ,,,
+2011,,,,92.4,KGZ,,,
+2012,,,,93.2,KGZ,,,
+2013,,,,89.6,KGZ,,,
+2014,,,,88.9,KGZ,,,
+2015,,,,89.1,KGZ,,,
+2016,,,,89.9,KGZ,,,
+2017,,,,91.1,KGZ,,,
+2018,,,,91.8,KGZ,,,
+2019,,,,94.060699,KGZ,,,
+2020,,,,94.1,KGZ,,,
+2021,,,,95.134712,KGZ,,,
+2011,,,,99.7,KGZ,,Urban,
+2012,,,,99.8,KGZ,,Urban,
+2013,,,,99.5,KGZ,,Urban,
+2014,,,,99.1,KGZ,,Urban,
+2015,,,,99.1,KGZ,,Urban,
+2016,,,,99.3,KGZ,,Urban,
+2017,,,,93.9,KGZ,,Urban,
+2018,,,,99.3,KGZ,,Urban,
+2019,,,,99.422592,KGZ,,Urban,
+2020,,,,99.6,KGZ,,Urban,
+2021,,,,99.705542,KGZ,,Urban,
+2011,,,,88.0,KGZ,,Rural,
+2012,,,,89.4,KGZ,,Rural,
+2013,,,,84.4,KGZ,,Rural,
+2014,,,,83.3,KGZ,,Rural,
+2015,,,,83.7,KGZ,,Rural,
+2016,,,,84.9,KGZ,,Rural,
+2017,,,,86.7,KGZ,,Rural,
+2018,,,,87.8,KGZ,,Rural,
+2019,,,,91.081092,KGZ,,Rural,
+2020,,,,91.0,KGZ,,Rural,
+2021,,,,92.425193,KGZ,,Rural,
+2011,,,,69.7,KGZ,Batken,,KG05
+2012,,,,70.0,KGZ,Batken,,KG05
+2013,,,,73.1,KGZ,Batken,,KG05
+2014,,,,74.3,KGZ,Batken,,KG05
+2015,,,,73.3,KGZ,Batken,,KG05
+2016,,,,74.1,KGZ,Batken,,KG05
+2017,,,,79.0,KGZ,Batken,,KG05
+2018,,,,83.6,KGZ,Batken,,KG05
+2019,,,,81.026395,KGZ,Batken,,KG05
+2020,,,,86.886173,KGZ,Batken,,KG05
+2021,,,,88.209991,KGZ,Batken,,KG05
+2011,,,,95.4,KGZ,Jalal-Abad,,KG03
+2012,,,,96.0,KGZ,Jalal-Abad,,KG03
+2013,,,,91.6,KGZ,Jalal-Abad,,KG03
+2014,,,,89.5,KGZ,Jalal-Abad,,KG03
+2015,,,,87.7,KGZ,Jalal-Abad,,KG03
+2016,,,,87.3,KGZ,Jalal-Abad,,KG03
+2017,,,,91.2,KGZ,Jalal-Abad,,KG03
+2018,,,,86.4,KGZ,Jalal-Abad,,KG03
+2019,,,,88.71095,KGZ,Jalal-Abad,,KG03
+2020,,,,86.95579,KGZ,Jalal-Abad,,KG03
+2021,,,,92.225039,KGZ,Jalal-Abad,,KG03
+2011,,,,99.0,KGZ,Issyk-Kul,,KG02
+2012,,,,99.0,KGZ,Issyk-Kul,,KG02
+2013,,,,93.7,KGZ,Issyk-Kul,,KG02
+2014,,,,96.8,KGZ,Issyk-Kul,,KG02
+2015,,,,96.4,KGZ,Issyk-Kul,,KG02
+2016,,,,97.3,KGZ,Issyk-Kul,,KG02
+2017,,,,97.0,KGZ,Issyk-Kul,,KG02
+2018,,,,96.0,KGZ,Issyk-Kul,,KG02
+2019,,,,96.284686,KGZ,Issyk-Kul,,KG02
+2020,,,,96.291951,KGZ,Issyk-Kul,,KG02
+2021,,,,96.801032,KGZ,Issyk-Kul,,KG02
+2011,,,,89.2,KGZ,Naryn,,KG04
+2012,,,,89.1,KGZ,Naryn,,KG04
+2013,,,,86.8,KGZ,Naryn,,KG04
+2014,,,,84.4,KGZ,Naryn,,KG04
+2015,,,,90.3,KGZ,Naryn,,KG04
+2016,,,,95.9,KGZ,Naryn,,KG04
+2017,,,,95.8,KGZ,Naryn,,KG04
+2018,,,,96.3,KGZ,Naryn,,KG04
+2019,,,,96.816529,KGZ,Naryn,,KG04
+2020,,,,97.84978,KGZ,Naryn,,KG04
+2021,,,,97.660491,KGZ,Naryn,,KG04
+2011,,,,86.4,KGZ,Osh,,KG06
+2012,,,,88.7,KGZ,Osh,,KG06
+2013,,,,73.7,KGZ,Osh,,KG06
+2014,,,,72.9,KGZ,Osh,,KG06
+2015,,,,74.5,KGZ,Osh,,KG06
+2016,,,,76.4,KGZ,Osh,,KG06
+2017,,,,77.3,KGZ,Osh,,KG06
+2018,,,,83.2,KGZ,Osh,,KG06
+2019,,,,92.436112,KGZ,Osh,,KG06
+2020,,,,90.676703,KGZ,Osh,,KG06
+2021,,,,90.232629,KGZ,Osh,,KG06
+2011,,,,96.5,KGZ,Talas,,KG07
+2012,,,,97.6,KGZ,Talas,,KG07
+2013,,,,99.7,KGZ,Talas,,KG07
+2014,,,,99.7,KGZ,Talas,,KG07
+2015,,,,99.2,KGZ,Talas,,KG07
+2016,,,,100.0,KGZ,Talas,,KG07
+2017,,,,99.4,KGZ,Talas,,KG07
+2018,,,,99.4,KGZ,Talas,,KG07
+2019,,,,99.291966,KGZ,Talas,,KG07
+2020,,,,99.675929,KGZ,Talas,,KG07
+2021,,,,99.653994,KGZ,Talas,,KG07
+2011,,,,99.6,KGZ,Chui,,KG08
+2012,,,,99.8,KGZ,Chui,,KG08
+2013,,,,100.0,KGZ,Chui,,KG08
+2014,,,,100.0,KGZ,Chui,,KG08
+2015,,,,100.0,KGZ,Chui,,KG08
+2016,,,,100.0,KGZ,Chui,,KG08
+2017,,,,100.0,KGZ,Chui,,KG08
+2018,,,,100.0,KGZ,Chui,,KG08
+2019,,,,100.0,KGZ,Chui,,KG08
+2020,,,,100.0,KGZ,Chui,,KG08
+2021,,,,100.0,KGZ,Chui,,KG08
+2011,,,,100.0,KGZ,Bishkek (city),,KG11
+2012,,,,100.0,KGZ,Bishkek (city),,KG11
+2013,,,,99.8,KGZ,Bishkek (city),,KG11
+2014,,,,99.8,KGZ,Bishkek (city),,KG11
+2015,,,,100.0,KGZ,Bishkek (city),,KG11
+2016,,,,100.0,KGZ,Bishkek (city),,KG11
+2017,,,,100.0,KGZ,Bishkek (city),,KG11
+2018,,,,100.0,KGZ,Bishkek (city),,KG11
+2019,,,,100.0,KGZ,Bishkek (city),,KG11
+2020,,,,100.0,KGZ,Bishkek (city),,KG11
+2021,,,,100.0,KGZ,Bishkek (city),,KG11
+2013,,,,99.7,KGZ,Osh (city),,KG21
+2014,,,,96.5,KGZ,Osh (city),,KG21
+2015,,,,96.7,KGZ,Osh (city),,KG21
+2016,,,,100.0,KGZ,Osh (city),,KG21
+2017,,,,95.7,KGZ,Osh (city),,KG21
+2018,,,,96.5,KGZ,Osh (city),,KG21
+2019,,,,97.757015,KGZ,Osh (city),,KG21
+2020,,,,100.0,KGZ,Osh (city),,KG21
+2021,,,,100.0,KGZ,Osh (city),,KG21

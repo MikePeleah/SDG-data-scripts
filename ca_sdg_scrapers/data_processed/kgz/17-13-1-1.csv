@@ -1,0 +1,89 @@
+Year,Unit multiplier,SERIES,UNIT_MEASURE,Value,M49_country_code
+2010,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,99.5,KGZ
+2011,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,106.0,KGZ
+2012,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,99.9,KGZ
+2013,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,110.9,KGZ
+2014,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.0,KGZ
+2015,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.9,KGZ
+2016,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.3,KGZ
+2017,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.7,KGZ
+2018,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.8,KGZ
+2019,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.6,KGZ
+2020,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,91.6,KGZ
+2010,Units,"The consumer price index, as a percentage of the previous year",Index,108.0,KGZ
+2011,Units,"The consumer price index, as a percentage of the previous year",Index,116.6,KGZ
+2012,Units,"The consumer price index, as a percentage of the previous year",Index,102.8,KGZ
+2013,Units,"The consumer price index, as a percentage of the previous year",Index,106.6,KGZ
+2014,Units,"The consumer price index, as a percentage of the previous year",Index,107.5,KGZ
+2015,Units,"The consumer price index, as a percentage of the previous year",Index,106.5,KGZ
+2016,Units,"The consumer price index, as a percentage of the previous year",Index,100.4,KGZ
+2017,Units,"The consumer price index, as a percentage of the previous year",Index,103.2,KGZ
+2018,Units,"The consumer price index, as a percentage of the previous year",Index,101.5,KGZ
+2019,Units,"The consumer price index, as a percentage of the previous year",Index,101.1,KGZ
+2020,Units,"The consumer price index, as a percentage of the previous year",Index,106.3,KGZ
+2010,Units,"Producer Price Indices, as a percentage of the previous year",Index,122.79,KGZ
+2011,Units,"Producer Price Indices, as a percentage of the previous year",Index,122.02,KGZ
+2012,Units,"Producer Price Indices, as a percentage of the previous year",Index,105.3,KGZ
+2013,Units,"Producer Price Indices, as a percentage of the previous year",Index,97.92,KGZ
+2014,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.45,KGZ
+2015,Units,"Producer Price Indices, as a percentage of the previous year",Index,108.75,KGZ
+2016,Units,"Producer Price Indices, as a percentage of the previous year",Index,106.41,KGZ
+2017,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.66,KGZ
+2018,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.49,KGZ
+2019,Units,"Producer Price Indices, as a percentage of the previous year",Index,104.26,KGZ
+2020,Units,"Producer Price Indices, as a percentage of the previous year",Index,121.27,KGZ
+2010,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-10767.9787,KGZ
+2011,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-13663.7111,KGZ
+2012,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-20232.3134,KGZ
+2013,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-2330.4823,KGZ
+2014,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-1875.5431,KGZ
+2015,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-6149.3213,KGZ
+2016,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-20888.9124,KGZ
+2017,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-16476.1602,KGZ
+2018,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-6188.9008,KGZ
+2019,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-431.7092,KGZ
+2020,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-19734.0366,KGZ
+2010,Millions,"Volume of public debt, million soms",Local currency,131557.5,KGZ
+2011,Millions,"Volume of public debt, million soms",Local currency,143154.1,KGZ
+2012,Millions,"Volume of public debt, million soms",Local currency,156719.4,KGZ
+2013,Millions,"Volume of public debt, million soms",Local currency,167431.8,KGZ
+2014,Millions,"Volume of public debt, million soms",Local currency,214759.1,KGZ
+2015,Millions,"Volume of public debt, million soms",Local currency,289195.5,KGZ
+2016,Millions,"Volume of public debt, million soms",Local currency,281450.9,KGZ
+2017,Millions,"Volume of public debt, million soms",Local currency,311846.2,KGZ
+2018,Millions,"Volume of public debt, million soms",Local currency,311834.6,KGZ
+2019,Millions,"Volume of public debt, million soms",Local currency,319474.6,KGZ
+2020,Millions,"Volume of public debt, million soms",Local currency,407116.85,KGZ
+2010,Units,"Foreign trade, as a percentage of the previous year",Percent,105.6,KGZ
+2011,Units,"Foreign trade, as a percentage of the previous year",Percent,130.62446,KGZ
+2012,Units,"Foreign trade, as a percentage of the previous year",Percent,115.384261,KGZ
+2013,Units,"Foreign trade, as a percentage of the previous year",Percent,106.528605,KGZ
+2014,Units,"Foreign trade, as a percentage of the previous year",Percent,95.30386,KGZ
+2015,Units,"Foreign trade, as a percentage of the previous year",Percent,73.989322,KGZ
+2016,Units,"Foreign trade, as a percentage of the previous year",Percent,98.878752,KGZ
+2017,Units,"Foreign trade, as a percentage of the previous year",Percent,112.297259,KGZ
+2018,Units,"Foreign trade, as a percentage of the previous year",Percent,113.896789,KGZ
+2019,Units,"Foreign trade, as a percentage of the previous year",Percent,97.8,KGZ
+2020,Units,"Foreign trade, as a percentage of the previous year",Percent,81.6,KGZ
+2010,Millions,"Export, million USD",USD,1755.9245,KGZ
+2011,Millions,"Export, million USD",USD,2242.1664,KGZ
+2012,Millions,"Export, million USD",USD,1927.6232,KGZ
+2013,Millions,"Export, million USD",USD,2006.8497,KGZ
+2014,Millions,"Export, million USD",USD,1883.733456,KGZ
+2015,Millions,"Export, million USD",USD,1482.942034,KGZ
+2016,Millions,"Export, million USD",USD,1573.21493,KGZ
+2017,Millions,"Export, million USD",USD,1764.254644,KGZ
+2018,Millions,"Export, million USD",USD,1836.838696,KGZ
+2019,Millions,"Export, million USD",USD,1986.11,KGZ
+2020,Millions,"Export, million USD",USD,1973.2,KGZ
+2010,Millions,"Import, million USD",USD,3222.772182,KGZ
+2011,Millions,"Import, million USD",USD,4261.226418,KGZ
+2012,Millions,"Import, million USD",USD,5576.264131,KGZ
+2013,Millions,"Import, million USD",USD,5986.983003,KGZ
+2014,Millions,"Import, million USD",USD,5734.703808,KGZ
+2015,Millions,"Import, million USD",USD,4153.86051,KGZ
+2016,Millions,"Import, million USD",USD,4000.442107,KGZ
+2017,Millions,"Import, million USD",USD,4494.728178,KGZ
+2018,Millions,"Import, million USD",USD,5291.945776,KGZ
+2019,Millions,"Import, million USD",USD,4989.01,KGZ
+2020,Millions,"Import, million USD",USD,3718.8,KGZ

@@ -1,0 +1,103 @@
+Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value,M49_country_code
+2016,,,,,,50.2,KGZ
+2017,,,,,,50.5,KGZ
+2018,,,,,,45.8,KGZ
+2019,,,,,,42.3,KGZ
+2020,,,,,,42.2,KGZ
+2021,,,,,,48.5,KGZ
+2016,,Male,,,,50.3,KGZ
+2017,,Male,,,,50.3,KGZ
+2018,,Male,,,,45.8,KGZ
+2019,,Male,,,,42.7,KGZ
+2020,,Male,,,,42.5,KGZ
+2021,,Male,,,,48.8,KGZ
+2016,,Female,,,,50.1,KGZ
+2017,,Female,,,,50.6,KGZ
+2018,,Female,,,,45.9,KGZ
+2019,,Female,,,,41.9,KGZ
+2020,,Female,,,,42.0,KGZ
+2021,,Female,,,,48.2,KGZ
+2016,,,under 18 years old,,,59.7,KGZ
+2017,,,under 18 years old,,,60.0,KGZ
+2018,,,under 18 years old,,,56.0,KGZ
+2019,,,under 18 years old,,,52.0,KGZ
+2020,,,under 18 years old,,,50.9,KGZ
+2021,,,under 18 years old,,,58.2,KGZ
+2016,,,18 to 64 years old,,,43.7,KGZ
+2017,,,18 to 64 years old,,,44.1,KGZ
+2018,,,18 to 64 years old,,,39.3,KGZ
+2019,,,18 to 64 years old,,,35.9,KGZ
+2020,,,18 to 64 years old,,,36.9,KGZ
+2021,,,18 to 64 years old,,,42.4,KGZ
+2016,,,65 years old and over,,,49.2,KGZ
+2017,,,65 years old and over,,,46.4,KGZ
+2018,,,65 years old and over,,,38.6,KGZ
+2019,,,65 years old and over,,,37.0,KGZ
+2020,,,65 years old and over,,,34.8,KGZ
+2021,,,65 years old and over,,,40.7,KGZ
+2016,,,,Urban,,36.9,KGZ
+2017,,,,Urban,,38.7,KGZ
+2018,,,,Urban,,33.8,KGZ
+2019,,,,Urban,,31.1,KGZ
+2020,,,,Urban,,30.7,KGZ
+2021,,,,Urban,,41.5,KGZ
+2016,,,,Rural,,57.4,KGZ
+2017,,,,Rural,,56.8,KGZ
+2018,,,,Rural,,52.4,KGZ
+2019,,,,Rural,,48.5,KGZ
+2020,,,,Rural,,48.8,KGZ
+2021,,,,Rural,,52.6,KGZ
+2016,Batken,,,,KG05,64.9,KGZ
+2017,Batken,,,,KG05,66.0,KGZ
+2018,Batken,,,,KG05,64.8,KGZ
+2019,Batken,,,,KG05,63.5,KGZ
+2020,Batken,,,,KG05,61.1,KGZ
+2021,Batken,,,,KG05,67.1,KGZ
+2016,Jalal-Abad,,,,KG03,59.6,KGZ
+2017,Jalal-Abad,,,,KG03,61.5,KGZ
+2018,Jalal-Abad,,,,KG03,53.8,KGZ
+2019,Jalal-Abad,,,,KG03,50.4,KGZ
+2020,Jalal-Abad,,,,KG03,56.7,KGZ
+2021,Jalal-Abad,,,,KG03,62.0,KGZ
+2016,Issyk-Kul,,,,KG02,45.2,KGZ
+2017,Issyk-Kul,,,,KG02,47.0,KGZ
+2018,Issyk-Kul,,,,KG02,42.7,KGZ
+2019,Issyk-Kul,,,,KG02,46.3,KGZ
+2020,Issyk-Kul,,,,KG02,41.6,KGZ
+2021,Issyk-Kul,,,,KG02,46.9,KGZ
+2016,Naryn,,,,KG04,58.3,KGZ
+2017,Naryn,,,,KG04,50.0,KGZ
+2018,Naryn,,,,KG04,48.5,KGZ
+2019,Naryn,,,,KG04,47.8,KGZ
+2020,Naryn,,,,KG04,49.0,KGZ
+2021,Naryn,,,,KG04,55.8,KGZ
+2016,Osh,,,,KG06,57.5,KGZ
+2017,Osh,,,,KG06,52.1,KGZ
+2018,Osh,,,,KG06,58.5,KGZ
+2019,Osh,,,,KG06,45.8,KGZ
+2020,Osh,,,,KG06,43.5,KGZ
+2021,Osh,,,,KG06,42.7,KGZ
+2016,Talas,,,,KG07,49.8,KGZ
+2017,Talas,,,,KG07,39.8,KGZ
+2018,Talas,,,,KG07,43.0,KGZ
+2019,Talas,,,,KG07,40.2,KGZ
+2020,Talas,,,,KG07,33.9,KGZ
+2021,Talas,,,,KG07,48.3,KGZ
+2016,Chui,,,,KG08,45.4,KGZ
+2017,Chui,,,,KG08,48.7,KGZ
+2018,Chui,,,,KG08,28.0,KGZ
+2019,Chui,,,,KG08,31.7,KGZ
+2020,Chui,,,,KG08,34.6,KGZ
+2021,Chui,,,,KG08,39.7,KGZ
+2016,Bishkek (city),,,,KG11,26.8,KGZ
+2017,Bishkek (city),,,,KG11,29.9,KGZ
+2018,Bishkek (city),,,,KG11,25.4,KGZ
+2019,Bishkek (city),,,,KG11,22.2,KGZ
+2020,Bishkek (city),,,,KG11,23.6,KGZ
+2021,Bishkek (city),,,,KG11,38.1,KGZ
+2016,Osh (city),,,,KG21,47.3,KGZ
+2017,Osh (city),,,,KG21,58.6,KGZ
+2018,Osh (city),,,,KG21,51.3,KGZ
+2019,Osh (city),,,,KG21,45.9,KGZ
+2020,Osh (city),,,,KG21,35.9,KGZ
+2021,Osh (city),,,,KG21,44.7,KGZ

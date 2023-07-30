@@ -1,0 +1,91 @@
+Year,UNIT_MEASURE,SERIES,Value,M49_country_code,Income or wealth quantile,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2014.0,as a percentage to the previous year,Household expenditure per capita,106.7,KAZ,,,,,,
+2014.0,as a percentage to the previous year,Household income per capita among population in general,108.1,KAZ,,,,,,
+2014.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,106.7,KAZ,,,,,,
+2014.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,108.3,KAZ,,,,,,
+2015.0,as a percentage to the previous year,Household expenditure per capita,103.7,KAZ,,,,,,
+2015.0,as a percentage to the previous year,Household income per capita among population in general,105.5,KAZ,,,,,,
+2015.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,103.1,KAZ,,,,,,
+2015.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,103.6,KAZ,,,,,,
+2016.0,as a percentage to the previous year,Household expenditure per capita,108.7,KAZ,,,,,,
+2016.0,as a percentage to the previous year,Household income per capita among population in general,108.2,KAZ,,,,,,
+2016.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,109.3,KAZ,,,,,,
+2016.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,109.5,KAZ,,,,,,
+2017.0,as a percentage to the previous year,Household expenditure per capita,110.7,KAZ,,,,,,
+2017.0,as a percentage to the previous year,Household income per capita among population in general,107.0,KAZ,,,,,,
+2017.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,109.2,KAZ,,,,,,
+2017.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,106.0,KAZ,,,,,,
+2018.0,as a percentage to the previous year,Household expenditure per capita,110.5,KAZ,,,,,,
+2018.0,as a percentage to the previous year,Household income per capita among population in general,110.2,KAZ,,,,,,
+2018.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,111.1,KAZ,,,,,,
+2018.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,111.8,KAZ,,,,,,
+2019.0,as a percentage to the previous year,Household expenditure per capita,109.0,KAZ,,,,,,
+2019.0,as a percentage to the previous year,Household income per capita among population in general,110.1,KAZ,,,,,,
+2019.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,108.9,KAZ,,,,,,
+2019.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,109.7,KAZ,,,,,,
+2020.0,as a percentage to the previous year,Household expenditure per capita,107.0,KAZ,,,,,,
+2020.0,as a percentage to the previous year,Household income per capita among population in general,107.5,KAZ,,,,,,
+2020.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,107.9,KAZ,,,,,,
+2020.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,111.4,KAZ,,,,,,
+2021.0,as a percentage to the previous year,Household expenditure per capita,113.0,KAZ,,,,,,
+2021.0,as a percentage to the previous year,Household income per capita among population in general,111.4,KAZ,,,,,,
+2021.0,as a percentage to the previous year,Household expenditure per capita among the poorest 40 percent of the population,109.4,KAZ,,,,,,
+2021.0,as a percentage to the previous year,Household income per capita among the poorest 40 percent of the population,109.8,KAZ,,,,,,
+2015.0,,,2.219719,KGZ,Bottom 40%,,,,,
+2016.0,,,2.123527,KGZ,Bottom 40%,,,,,
+2017.0,,,2.781854,KGZ,Bottom 40%,,,,,
+2018.0,,,6.727296,KGZ,Bottom 40%,,,,,
+2019.0,,,5.152583,KGZ,Bottom 40%,,,,,
+2020.0,,,4.477454,KGZ,Bottom 40%,,,,,
+2021.0,,,4.602467,KGZ,Bottom 40%,,,,,
+2015.0,,,2.232286,KGZ,,,,,,
+2016.0,,,2.860355,KGZ,,,,,,
+2017.0,,,3.113207,KGZ,,,,,,
+2018.0,,,6.297059,KGZ,,,,,,
+2019.0,,,4.861775,KGZ,,,,,,
+2020.0,,,2.671509,KGZ,,,,,,
+2021.0,,,4.369451,KGZ,,,,,,
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2000.0,0.0
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2001.0,0.0
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2002.0,0.0
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2003.0,0.0
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2004.0,0.0
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2005.0,136.8
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2006.0,131.6
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2007.0,136.6
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2008.0,142.7
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2009.0,146.2
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2010.0,148.2
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2011.0,148.1
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2012.0,140.7
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2013.0,136.9
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2014.0,138.3
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2015.0,135.6
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2016.0,125.6
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2017.0,119.0
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2018.0,118.5
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2019.0,116.9
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2020.0,114.9
+,,,,UZB,,11_184_,"the growth rate of household income per capita among the least affluent 40 per cent of the population, %",True,2021.0,122.4
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2000.0,155.8
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2001.0,149.8
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2002.0,142.4
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2003.0,123.4
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2004.0,117.3
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2005.0,124.8
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2006.0,131.5
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2007.0,128.4
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2008.0,133.5
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2009.0,132.5
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2010.0,129.2
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2011.0,128.7
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2012.0,121.4
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2013.0,121.8
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2014.0,114.0
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2015.0,110.1
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2016.0,114.6
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2017.0,117.3
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2018.0,125.9
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2019.0,120.2
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2020.0,113.7
+,,,,UZB,,11_185_,"growth rate of household income per capita among the entire population, %",True,2021.0,121.8

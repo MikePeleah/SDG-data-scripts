@@ -9,16 +9,11 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from utils import download_file
 import sys
-from config import Config
+from config import Config, Configurable
 
-class Scraper(ABC):
+class Scraper(Configurable):
     def __init__(self, country_id: str, path_to_config: Union[str, Path, None] = None):
-        self.config = Config(path_to_config, country_id=country_id)
-        self.country_id = country_id
-        self.common_params: dict = self.config.get_common_params()
-        self.create_folders = self.common_params['create_folders']
-        self.country_params: dict = self.config.get_country_params(country_id)
-        self.country_code = self.country_params['M49_country_code']
+        super().__init__(country_id, path_to_config)
 
     @classmethod
     def get_scraper(cls, country_id: str, path_to_config: Union[str, Path, None] = None, *args, **kwargs) -> Self:

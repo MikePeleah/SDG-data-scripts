@@ -1,0 +1,101 @@
+Year,UNIT_MEASURE,Area,Sex,Age,Regions,Value,M49_country_code,Observation-level footnotes,Reference area,Degree of urbanisation,Income or wealth quantile,Disability status,GeoCode
+2010,Percent,,,,,49.4,KAZ,,,,,,
+2010,Percent,urban,,,,48.9,KAZ,,,,,,
+2010,Percent,rural,,,,49.9,KAZ,,,,,,
+2010,Percent,,Male,,,53.7,KAZ,,,,,,
+2010,Percent,,Female,,,45.1,KAZ,,,,,,
+2010,Percent,,,Y2T4,,47.6,KAZ,,,,,,
+2010,Percent,,,5 to 9 years old,,52.7,KAZ,,,,,,
+2010,Percent,,,age: 10-14 years old,,47.4,KAZ,,,,,,
+2010,Percent,,,,Akmola,59.7,KAZ,,,,,,
+2010,Percent,,,,Aktobe,58.3,KAZ,,,,,,
+2010,Percent,,,,Almaty,49.8,KAZ,,,,,,
+2010,Percent,,,,Atyrau,44.7,KAZ,,,,,,
+2010,Percent,,,,Batys Kazakhstan,54.7,KAZ,,,,,,
+2010,Percent,,,,Zhambyl,56.1,KAZ,,,,,,
+2010,Percent,,,,Karagandy,51.8,KAZ,,,,,,
+2010,Percent,,,,Kostanay,72.6,KAZ,,,,,,
+2010,Percent,,,,Kyzylorda,56.4,KAZ,,,,,,
+2010,Percent,,,,Mangistau,65.3,KAZ,,,,,,
+2010,Percent,,,,Ontustik Kazakhstan,38.9,KAZ,,,,,,
+2010,Percent,,,,Pavlodar,54.3,KAZ,,,,,,
+2010,Percent,,,,Soltustik Kazakhstan,59.9,KAZ,,,,,,
+2010,Percent,,,,Shygys Kazakhstan,42.7,KAZ,,,,,,
+2010,Percent,,,,Nur-Sultan city,38.6,KAZ,,,,,,
+2010,Percent,,,,Almaty city,27.3,KAZ,,,,,,
+2015,Percent,,,,,52.7,KAZ,,,,,,
+2015,Percent,urban,,,,51.7,KAZ,,,,,,
+2015,Percent,rural,,,,53.5,KAZ,,,,,,
+2015,Percent,,Male,,,55.2,KAZ,,,,,,
+2015,Percent,,Female,,,49.9,KAZ,,,,,,
+2015,Percent,,,Y1T2,,38.3,KAZ,,,,,,
+2015,Percent,,,Y3T4,,53.2,KAZ,,,,,,
+2015,Percent,,,5 to 9 years old,,57.8,KAZ,,,,,,
+2015,Percent,,,age: 10-14 years old,,53.9,KAZ,,,,,,
+2015,Percent,,,,Akmola,38.6,KAZ,,,,,,
+2015,Percent,,,,Aktobe,30.2,KAZ,,,,,,
+2015,Percent,,,,Almaty,65.0,KAZ,,,,,,
+2015,Percent,,,,Atyrau,59.9,KAZ,,,,,,
+2015,Percent,,,,Batys Kazakhstan,42.7,KAZ,,,,,,
+2015,Percent,,,,Zhambyl,67.0,KAZ,,,,,,
+2015,Percent,,,,Karagandy,47.1,KAZ,,,,,,
+2015,Percent,,,,Kostanay,65.4,KAZ,,,,,,
+2015,Percent,,,,Kyzylorda,41.9,KAZ,,,,,,
+2015,Percent,,,,Mangistau,65.1,KAZ,,,,,,
+2015,Percent,,,,Ontustik Kazakhstan,53.6,KAZ,,,,,,
+2015,Percent,,,,Pavlodar,60.1,KAZ,,,,,,
+2015,Percent,,,,Soltustik Kazakhstan,41.1,KAZ,,,,,,
+2015,Percent,,,,Shygys Kazakhstan,47.1,KAZ,,,,,,
+2015,Percent,,,,Nur-Sultan city,64.2,KAZ,,,,,,
+2015,Percent,,,,Almaty city,38.4,KAZ,,,,,,
+2014,,,,,,57.1,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,,,,74.3,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2014,,,Male,,,59.9,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,Male,,,75.5,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2014,,,Female,,,54.4,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,Female,,,73.0,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2014,,,,,,60.0,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,Urban,,,
+2018,,,,,,76.9,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,Urban,,,
+2014,,,,,,56.0,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,Rural,,,
+2018,,,,,,73.1,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,Rural,,,
+2014,,,,,,49.4,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Batken,,,,KG05
+2018,,,,,,46.8,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Batken,,,,KG05
+2014,,,,,,42.9,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Jalal-Abad,,,,KG03
+2018,,,,,,65.5,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Jalal-Abad,,,,KG03
+2014,,,,,,48.2,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Issyk-Kul,,,,KG02
+2018,,,,,,80.9,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Issyk-Kul,,,,KG02
+2014,,,,,,58.0,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Naryn,,,,KG04
+2018,,,,,,74.0,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Naryn,,,,KG04
+2014,,,,,,57.8,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Osh,,,,KG06
+2018,,,,,,74.4,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Osh,,,,KG06
+2014,,,,,,71.1,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Talas,,,,KG07
+2018,,,,,,79.9,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Talas,,,,KG07
+2014,,,,,,66.8,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Chui,,,,KG08
+2018,,,,,,83.5,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Chui,,,,KG08
+2014,,,,,,70.3,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Bishkek (city),,,,KG11
+2018,,,,,,80.5,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Bishkek (city),,,,KG11
+2014,,,,,,71.1,KGZ,"According to Multiple Indicator Cluster Survey, 2014",Osh (city),,,,KG21
+2018,,,,,,85.6,KGZ,"According to Multiple Indicator Cluster Survey, 2018",Osh (city),,,,KG21
+2014,,,,1 to 2 years old,,45.5,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,,1 to 2 years old,,55.3,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2014,,,,3 to 4 years old,,67.1,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,,3 to 4 years old,,71.2,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2014,,,,5 to 9 years old,,61.9,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,,5 to 9 years old,,79.4,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2014,,,,10 to 14 years old,,52.7,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,,,
+2018,,,,10 to 14 years old,,78.8,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,,
+2018,,,,,,83.7,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,Child with disability,
+2018,,,,,,75.6,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,Child without disability,
+2018,,,,,,92.4,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,Mother with disability,
+2018,,,,,,74.4,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,Mother without disability,
+2018,,,,,,69.8,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,,No information,
+2014,,,,,,55.1,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 1 (poorest),,
+2018,,,,,,70.9,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,Quintile 1 (poorest),,
+2014,,,,,,58.1,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 2,,
+2018,,,,,,70.6,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,Quintile 2,,
+2014,,,,,,54.7,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 3,,
+2018,,,,,,73.1,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,Quintile 3,,
+2014,,,,,,56.5,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 4,,
+2018,,,,,,81.4,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,Quintile 4,,
+2014,,,,,,62.5,KGZ,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 5 (richest),,
+2018,,,,,,77.4,KGZ,"According to Multiple Indicator Cluster Survey, 2018",,,Quintile 5 (richest),,

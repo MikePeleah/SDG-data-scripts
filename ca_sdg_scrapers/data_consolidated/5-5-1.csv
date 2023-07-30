@@ -1,0 +1,81 @@
+Year,UNIT_MEASURE,SERIES,Value,M49_country_code,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2010.0,Percent,Local Representative Bodies (Maslikhats),17.8,KAZ,,,,,
+2011.0,Percent,Local Representative Bodies (Maslikhats),17.8,KAZ,,,,,
+2011.0,Percent,National Parliament (Mazhilis),16.9,KAZ,,,,,
+2012.0,Percent,Local Representative Bodies (Maslikhats),23.8,KAZ,,,,,
+2012.0,Percent,National Parliament (Mazhilis),17.0,KAZ,,,,,
+2013.0,Percent,Local Representative Bodies (Maslikhats),26.2,KAZ,,,,,
+2013.0,Percent,National Parliament (Mazhilis),18.2,KAZ,,,,,
+2014.0,Percent,Local Representative Bodies (Maslikhats),26.2,KAZ,,,,,
+2014.0,Percent,National Parliament (Mazhilis),18.4,KAZ,,,,,
+2015.0,Percent,Local Representative Bodies (Maslikhats),26.7,KAZ,,,,,
+2015.0,Percent,National Parliament (Mazhilis),18.8,KAZ,,,,,
+2016.0,Percent,Local Representative Bodies (Maslikhats),27.6,KAZ,,,,,
+2016.0,Percent,National Parliament (Mazhilis),22.2,KAZ,,,,,
+2017.0,Percent,Local Representative Bodies (Maslikhats),27.4,KAZ,,,,,
+2017.0,Percent,National Parliament (Mazhilis),22.1,KAZ,,,,,
+2018.0,Percent,Local Representative Bodies (Maslikhats),27.4,KAZ,,,,,
+2018.0,Percent,National Parliament (Mazhilis),22.2,KAZ,,,,,
+2019.0,Percent,Local Representative Bodies (Maslikhats),27.4,KAZ,,,,,
+2019.0,Percent,National Parliament (Mazhilis),22.2,KAZ,,,,,
+2020.0,Percent,Local Representative Bodies (Maslikhats),26.5,KAZ,,,,,
+2020.0,Percent,National Parliament (Mazhilis),30.5,KAZ,,,,,
+2007.0,,,25.6,KGZ,,,,,
+2008.0,,,25.6,KGZ,,,,,
+2009.0,,,25.6,KGZ,,,,,
+2010.0,,,23.5,KGZ,,,,,
+2011.0,,,20.8,KGZ,,,,,
+2012.0,,,20.8,KGZ,,,,,
+2013.0,,,22.5,KGZ,,,,,
+2014.0,,,21.7,KGZ,,,,,
+2015.0,,,21.7,KGZ,,,,,
+2016.0,,,15.8,KGZ,,,,,
+2017.0,,,16.7,KGZ,,,,,
+2018.0,,,15.8,KGZ,,,,,
+2019.0,,,16.7,KGZ,,,,,
+2020.0,,,16.7,KGZ,,,,,
+2021.0,,,20.5,KGZ,,,,,
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2000.0,0.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2001.0,0.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2002.0,0.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2003.0,0.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2004.0,0.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2005.0,18.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2006.0,18.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2007.0,18.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2008.0,18.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2009.0,22.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2010.0,22.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2011.0,22.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2012.0,22.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2013.0,22.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2014.0,16.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2015.0,16.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2016.0,16.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2017.0,16.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2018.0,16.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2019.0,32.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2020.0,32.0
+,,,,UZB,16_175_,"in the Legislative Chamber of the Oliy Majlis, %;",True,2021.0,32.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2000.0,0.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2001.0,0.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2002.0,0.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2003.0,0.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2004.0,0.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2005.0,14.1
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2006.0,14.1
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2007.0,14.1
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2008.0,14.1
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2009.0,16.6
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2010.0,16.6
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2011.0,16.6
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2012.0,16.6
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2013.0,16.6
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2014.0,23.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2015.0,23.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2016.0,23.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2017.0,23.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2018.0,23.0
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2019.0,24.9
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2020.0,24.9
+,,,,UZB,16_176_,"in Kengashes of people's deputies of regions, cities and districts",True,2021.0,0.0

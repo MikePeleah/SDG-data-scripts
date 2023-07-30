@@ -1,0 +1,175 @@
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,GeoCode,Value,M49_country_code
+2016,,,,,,,,76.65949,KGZ
+2017,,,,,,,,79.591408,KGZ
+2018,,,,,,,,75.693466,KGZ
+2019,,,,,,,,76.1,KGZ
+2020,,,,,,,,72.8,KGZ
+2021,,,,,,,,70.820997,KGZ
+2016,,,,Urban,,,,86.923359,KGZ
+2017,,,,Urban,,,,88.370239,KGZ
+2018,,,,Urban,,,,88.614312,KGZ
+2019,,,,Urban,,,,90.5,KGZ
+2020,,,,Urban,,,,88.5,KGZ
+2021,,,,Urban,,,,85.966681,KGZ
+2016,,,,Rural,,,,71.082283,KGZ
+2017,,,,Rural,,,,74.829362,KGZ
+2018,,,,Rural,,,,68.679954,KGZ
+2019,,,,Rural,,,,68.0,KGZ
+2020,,,,Rural,,,,64.0,KGZ
+2021,,,,Rural,,,,61.842863,KGZ
+2016,,Male,,,,,,76.070682,KGZ
+2017,,Male,,,,,,79.163385,KGZ
+2018,,Male,,,,,,74.691389,KGZ
+2019,,Male,,,,,,75.1,KGZ
+2020,,Male,,,,,,71.8,KGZ
+2021,,Male,,,,,,69.966769,KGZ
+2016,,Female,,,,,,77.193586,KGZ
+2017,,Female,,,,,,79.979372,KGZ
+2018,,Female,,,,,,76.58919,KGZ
+2019,,Female,,,,,,76.9,KGZ
+2020,,Female,,,,,,73.7,KGZ
+2021,,Female,,,,,,71.587519,KGZ
+2016,Batken,,,,,,KG05,75.839901,KGZ
+2017,Batken,,,,,,KG05,70.826955,KGZ
+2018,Batken,,,,,,KG05,71.771366,KGZ
+2019,Batken,,,,,,KG05,71.6,KGZ
+2020,Batken,,,,,,KG05,71.0,KGZ
+2021,Batken,,,,,,KG05,53.549862,KGZ
+2016,Jalal-Abad,,,,,,KG03,76.702406,KGZ
+2017,Jalal-Abad,,,,,,KG03,74.372043,KGZ
+2018,Jalal-Abad,,,,,,KG03,64.443145,KGZ
+2019,Jalal-Abad,,,,,,KG03,66.6,KGZ
+2020,Jalal-Abad,,,,,,KG03,52.6,KGZ
+2021,Jalal-Abad,,,,,,KG03,54.307261,KGZ
+2016,Issyk-Kul,,,,,,KG02,47.347626,KGZ
+2017,Issyk-Kul,,,,,,KG02,57.4837,KGZ
+2018,Issyk-Kul,,,,,,KG02,67.008718,KGZ
+2019,Issyk-Kul,,,,,,KG02,66.5,KGZ
+2020,Issyk-Kul,,,,,,KG02,48.6,KGZ
+2021,Issyk-Kul,,,,,,KG02,53.808777,KGZ
+2016,Naryn,,,,,,KG04,77.440012,KGZ
+2017,Naryn,,,,,,KG04,79.315292,KGZ
+2018,Naryn,,,,,,KG04,79.01207,KGZ
+2019,Naryn,,,,,,KG04,67.0,KGZ
+2020,Naryn,,,,,,KG04,77.4,KGZ
+2021,Naryn,,,,,,KG04,77.926565,KGZ
+2016,Osh,,,,,,KG06,74.642534,KGZ
+2017,Osh,,,,,,KG06,79.01967,KGZ
+2018,Osh,,,,,,KG06,66.576206,KGZ
+2019,Osh,,,,,,KG06,68.3,KGZ
+2020,Osh,,,,,,KG06,66.9,KGZ
+2021,Osh,,,,,,KG06,63.504823,KGZ
+2016,Talas,,,,,,KG07,73.7187,KGZ
+2017,Talas,,,,,,KG07,74.070232,KGZ
+2018,Talas,,,,,,KG07,53.969782,KGZ
+2019,Talas,,,,,,KG07,52.5,KGZ
+2020,Talas,,,,,,KG07,53.6,KGZ
+2021,Talas,,,,,,KG07,54.390585,KGZ
+2016,Chui,,,,,,KG08,72.259617,KGZ
+2017,Chui,,,,,,KG08,82.936082,KGZ
+2018,Chui,,,,,,KG08,88.432638,KGZ
+2019,Chui,,,,,,KG08,84.9,KGZ
+2020,Chui,,,,,,KG08,87.3,KGZ
+2021,Chui,,,,,,KG08,82.345362,KGZ
+2016,Bishkek (city),,,,,,KG11,91.985988,KGZ
+2017,Bishkek (city),,,,,,KG11,95.050715,KGZ
+2018,Bishkek (city),,,,,,KG11,93.868046,KGZ
+2019,Bishkek (city),,,,,,KG11,98.2,KGZ
+2020,Bishkek (city),,,,,,KG11,99.6,KGZ
+2021,Bishkek (city),,,,,,KG11,99.353343,KGZ
+2016,Osh (city),,,,,,KG21,100.0,KGZ
+2017,Osh (city),,,,,,KG21,99.418328,KGZ
+2018,Osh (city),,,,,,KG21,100.0,KGZ
+2019,Osh (city),,,,,,KG21,99.8,KGZ
+2020,Osh (city),,,,,,KG21,100.0,KGZ
+2021,Osh (city),,,,,,KG21,100.0,KGZ
+2016,,,under 6 years old,,,,,75.934458,KGZ
+2017,,,under 6 years old,,,,,77.895976,KGZ
+2018,,,under 6 years old,,,,,75.284861,KGZ
+2019,,,under 6 years old,,,,,75.1,KGZ
+2020,,,under 6 years old,,,,,71.8,KGZ
+2021,,,under 6 years old,,,,,69.019712,KGZ
+2016,,,7 to 14 years old,,,,,76.34227,KGZ
+2017,,,7 to 14 years old,,,,,78.403908,KGZ
+2018,,,7 to 14 years old,,,,,75.798122,KGZ
+2019,,,7 to 14 years old,,,,,75.1,KGZ
+2020,,,7 to 14 years old,,,,,71.2,KGZ
+2021,,,7 to 14 years old,,,,,70.100725,KGZ
+2016,,,15 to 28 years old,,,,,77.131081,KGZ
+2017,,,15 to 28 years old,,,,,81.295318,KGZ
+2018,,,15 to 28 years old,,,,,74.302741,KGZ
+2019,,,15 to 28 years old,,,,,75.9,KGZ
+2020,,,15 to 28 years old,,,,,73.0,KGZ
+2021,,,15 to 28 years old,,,,,71.228883,KGZ
+2016,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,76.831249,KGZ
+2017,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,79.634405,KGZ
+2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,76.521211,KGZ
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,77.4,KGZ
+2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,74.2,KGZ
+2021,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,71.560363,KGZ
+2016,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,76.794901,KGZ
+2017,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,80.93039,KGZ
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,75.760086,KGZ
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,74.9,KGZ
+2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,72.1,KGZ
+2021,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,71.2198,KGZ
+2016,,,,,,Primary education,,75.216542,KGZ
+2017,,,,,,Primary education,,78.30484,KGZ
+2018,,,,,,Primary education,,75.141999,KGZ
+2019,,,,,,Primary education,,75.1,KGZ
+2020,,,,,,Primary education,,71.7,KGZ
+2021,,,,,,Primary education,,70.310206,KGZ
+2016,,,,,,Lower secondary education,,80.225607,KGZ
+2017,,,,,,Lower secondary education,,79.020964,KGZ
+2018,,,,,,Lower secondary education,,76.53136,KGZ
+2019,,,,,,Lower secondary education,,77.3,KGZ
+2020,,,,,,Lower secondary education,,73.8,KGZ
+2021,,,,,,Lower secondary education,,70.746152,KGZ
+2016,,,,,,Upper secondary education,,75.037157,KGZ
+2017,,,,,,Upper secondary education,,78.352825,KGZ
+2018,,,,,,Upper secondary education,,72.09416,KGZ
+2019,,,,,,Upper secondary education,,74.1,KGZ
+2020,,,,,,Upper secondary education,,69.5,KGZ
+2021,,,,,,Upper secondary education,,67.352567,KGZ
+2016,,,,,,Post-secondary non-tertiary education,,78.366259,KGZ
+2017,,,,,,Post-secondary non-tertiary education,,83.853085,KGZ
+2018,,,,,,Post-secondary non-tertiary education,,80.180024,KGZ
+2019,,,,,,Post-secondary non-tertiary education,,79.0,KGZ
+2020,,,,,,Post-secondary non-tertiary education,,77.1,KGZ
+2021,,,,,,Post-secondary non-tertiary education,,74.17407,KGZ
+2016,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,79.940306,KGZ
+2017,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,83.947666,KGZ
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,82.067382,KGZ
+2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,81.4,KGZ
+2020,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,80.4,KGZ
+2021,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,78.97639,KGZ
+2016,,,,,Quintile 1 (poorest),,,72.459521,KGZ
+2017,,,,,Quintile 1 (poorest),,,79.324082,KGZ
+2018,,,,,Quintile 1 (poorest),,,74.701544,KGZ
+2019,,,,,Quintile 1 (poorest),,,71.6,KGZ
+2020,,,,,Quintile 1 (poorest),,,66.873388,KGZ
+2021,,,,,Quintile 1 (poorest),,,64.367694,KGZ
+2016,,,,,Quintile 2,,,77.314517,KGZ
+2017,,,,,Quintile 2,,,81.925162,KGZ
+2018,,,,,Quintile 2,,,74.760832,KGZ
+2019,,,,,Quintile 2,,,73.0,KGZ
+2020,,,,,Quintile 2,,,76.162079,KGZ
+2021,,,,,Quintile 2,,,71.466218,KGZ
+2016,,,,,Quintile 3,,,77.695134,KGZ
+2017,,,,,Quintile 3,,,79.355343,KGZ
+2018,,,,,Quintile 3,,,75.445514,KGZ
+2019,,,,,Quintile 3,,,79.8,KGZ
+2020,,,,,Quintile 3,,,73.787028,KGZ
+2021,,,,,Quintile 3,,,74.357597,KGZ
+2016,,,,,Quintile 4,,,78.152318,KGZ
+2017,,,,,Quintile 4,,,78.68821,KGZ
+2018,,,,,Quintile 4,,,75.522557,KGZ
+2019,,,,,Quintile 4,,,78.6,KGZ
+2020,,,,,Quintile 4,,,76.372727,KGZ
+2021,,,,,Quintile 4,,,73.016879,KGZ
+2016,,,,,Quintile 5 (richest),,,77.652465,KGZ
+2017,,,,,Quintile 5 (richest),,,78.64359,KGZ
+2018,,,,,Quintile 5 (richest),,,78.047036,KGZ
+2019,,,,,Quintile 5 (richest),,,77.2,KGZ
+2020,,,,,Quintile 5 (richest),,,73.088156,KGZ
+2021,,,,,Quintile 5 (richest),,,73.786667,KGZ

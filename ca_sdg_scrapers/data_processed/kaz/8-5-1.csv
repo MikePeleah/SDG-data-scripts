@@ -1,0 +1,730 @@
+Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,Value,M49_country_code
+2014,Percent,,,,,837.0,KAZ
+2015,Percent,,,,,880.0,KAZ
+2016,Percent,,,,,950.0,KAZ
+2017,Percent,,,,,927.0,KAZ
+2018,Percent,,,,,959.0,KAZ
+2018,Percent,,Akmola,,,706.0,KAZ
+2018,Percent,,Aktobe,,,750.0,KAZ
+2018,Percent,,Almaty,,,713.0,KAZ
+2018,Percent,,Atyrau,,,1718.0,KAZ
+2018,Percent,,Batys Kazakhstan,,,1202.0,KAZ
+2018,Percent,,Zhambyl,,,613.0,KAZ
+2018,Percent,,Karagandy,,,808.0,KAZ
+2018,Percent,,Kostanay,,,685.0,KAZ
+2018,Percent,,Kyzylorda,,,720.0,KAZ
+2018,Percent,,Mangistau,,,1411.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,,630.0,KAZ
+2018,Percent,,Pavlodar,,,774.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,,636.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,,741.0,KAZ
+2018,Percent,,Nur-Sultan city,,,1422.0,KAZ
+2018,Percent,,Almaty city,,,1335.0,KAZ
+2018,Percent,,,Male,,1122.0,KAZ
+2018,Percent,,Akmola,Male,,792.0,KAZ
+2018,Percent,,Aktobe,Male,,850.0,KAZ
+2018,Percent,,Almaty,Male,,813.0,KAZ
+2018,Percent,,Atyrau,Male,,2105.0,KAZ
+2018,Percent,,Batys Kazakhstan,Male,,1588.0,KAZ
+2018,Percent,,Zhambyl,Male,,690.0,KAZ
+2018,Percent,,Karagandy,Male,,913.0,KAZ
+2018,Percent,,Kostanay,Male,,752.0,KAZ
+2018,Percent,,Kyzylorda,Male,,811.0,KAZ
+2018,Percent,,Mangistau,Male,,1827.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,Male,,686.0,KAZ
+2018,Percent,,Pavlodar,Male,,873.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,Male,,682.0,KAZ
+2018,Percent,,Shygys Kazakhstan,Male,,828.0,KAZ
+2018,Percent,,Nur-Sultan city,Male,,1637.0,KAZ
+2018,Percent,,Almaty city,Male,,1438.0,KAZ
+2018,Percent,,,Female,,785.0,KAZ
+2018,Percent,,Akmola,Female,,602.0,KAZ
+2018,Percent,,Aktobe,Female,,639.0,KAZ
+2018,Percent,,Almaty,Female,,630.0,KAZ
+2018,Percent,,Atyrau,Female,,1146.0,KAZ
+2018,Percent,,Batys Kazakhstan,Female,,743.0,KAZ
+2018,Percent,,Zhambyl,Female,,543.0,KAZ
+2018,Percent,,Karagandy,Female,,682.0,KAZ
+2018,Percent,,Kostanay,Female,,604.0,KAZ
+2018,Percent,,Kyzylorda,Female,,609.0,KAZ
+2018,Percent,,Mangistau,Female,,899.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,Female,,588.0,KAZ
+2018,Percent,,Pavlodar,Female,,667.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,Female,,590.0,KAZ
+2018,Percent,,Shygys Kazakhstan,Female,,644.0,KAZ
+2018,Percent,,Nur-Sultan city,Female,,1179.0,KAZ
+2018,Percent,,Almaty city,Female,,1217.0,KAZ
+2018,Percent,,,,16-24,577.0,KAZ
+2018,Percent,,,,25-28,764.0,KAZ
+2018,Percent,,,,29-34,961.0,KAZ
+2018,Percent,,,,35-44,1102.0,KAZ
+2018,Percent,,,,45-54,977.0,KAZ
+2018,Percent,,,,55-64,951.0,KAZ
+2018,Percent,,,,65 and older,1159.0,KAZ
+2018,Percent,,Akmola,,16-24,485.0,KAZ
+2018,Percent,,Akmola,,25-28,598.0,KAZ
+2018,Percent,,Akmola,,29-34,739.0,KAZ
+2018,Percent,,Akmola,,35-44,792.0,KAZ
+2018,Percent,,Akmola,,45-54,716.0,KAZ
+2018,Percent,,Akmola,,55-64,670.0,KAZ
+2018,Percent,,Akmola,,65 and older,674.0,KAZ
+2018,Percent,,Aktobe,,16-24,478.0,KAZ
+2018,Percent,,Aktobe,,25-28,622.0,KAZ
+2018,Percent,,Aktobe,,29-34,747.0,KAZ
+2018,Percent,,Aktobe,,35-44,819.0,KAZ
+2018,Percent,,Aktobe,,45-54,773.0,KAZ
+2018,Percent,,Aktobe,,55-64,796.0,KAZ
+2018,Percent,,Aktobe,,65 and older,798.0,KAZ
+2018,Percent,,Almaty,,16-24,497.0,KAZ
+2018,Percent,,Almaty,,25-28,608.0,KAZ
+2018,Percent,,Almaty,,29-34,711.0,KAZ
+2018,Percent,,Almaty,,35-44,791.0,KAZ
+2018,Percent,,Almaty,,45-54,708.0,KAZ
+2018,Percent,,Almaty,,55-64,732.0,KAZ
+2018,Percent,,Almaty,,65 and older,810.0,KAZ
+2018,Percent,,Atyrau,,16-24,768.0,KAZ
+2018,Percent,,Atyrau,,25-28,1231.0,KAZ
+2018,Percent,,Atyrau,,29-34,1571.0,KAZ
+2018,Percent,,Atyrau,,35-44,1917.0,KAZ
+2018,Percent,,Atyrau,,45-54,1855.0,KAZ
+2018,Percent,,Atyrau,,55-64,2077.0,KAZ
+2018,Percent,,Atyrau,,65 and older,6563.0,KAZ
+2018,Percent,,Batys Kazakhstan,,16-24,490.0,KAZ
+2018,Percent,,Batys Kazakhstan,,25-28,621.0,KAZ
+2018,Percent,,Batys Kazakhstan,,29-34,894.0,KAZ
+2018,Percent,,Batys Kazakhstan,,35-44,1586.0,KAZ
+2018,Percent,,Batys Kazakhstan,,45-54,1341.0,KAZ
+2018,Percent,,Batys Kazakhstan,,55-64,1276.0,KAZ
+2018,Percent,,Batys Kazakhstan,,65 and older,1028.0,KAZ
+2018,Percent,,Zhambyl,,16-24,443.0,KAZ
+2018,Percent,,Zhambyl,,25-28,532.0,KAZ
+2018,Percent,,Zhambyl,,29-34,619.0,KAZ
+2018,Percent,,Zhambyl,,35-44,649.0,KAZ
+2018,Percent,,Zhambyl,,45-54,630.0,KAZ
+2018,Percent,,Zhambyl,,55-64,636.0,KAZ
+2018,Percent,,Zhambyl,,65 and older,661.0,KAZ
+2018,Percent,,Karagandy,,16-24,521.0,KAZ
+2018,Percent,,Karagandy,,25-28,708.0,KAZ
+2018,Percent,,Karagandy,,29-34,830.0,KAZ
+2018,Percent,,Karagandy,,35-44,890.0,KAZ
+2018,Percent,,Karagandy,,45-54,807.0,KAZ
+2018,Percent,,Karagandy,,55-64,817.0,KAZ
+2018,Percent,,Karagandy,,65 and older,837.0,KAZ
+2018,Percent,,Kostanay,,16-24,472.0,KAZ
+2018,Percent,,Kostanay,,25-28,622.0,KAZ
+2018,Percent,,Kostanay,,29-34,728.0,KAZ
+2018,Percent,,Kostanay,,35-44,761.0,KAZ
+2018,Percent,,Kostanay,,45-54,679.0,KAZ
+2018,Percent,,Kostanay,,55-64,653.0,KAZ
+2018,Percent,,Kostanay,,65 and older,789.0,KAZ
+2018,Percent,,Kyzylorda,,16-24,460.0,KAZ
+2018,Percent,,Kyzylorda,,25-28,594.0,KAZ
+2018,Percent,,Kyzylorda,,29-34,696.0,KAZ
+2018,Percent,,Kyzylorda,,35-44,784.0,KAZ
+2018,Percent,,Kyzylorda,,45-54,726.0,KAZ
+2018,Percent,,Kyzylorda,,55-64,810.0,KAZ
+2018,Percent,,Kyzylorda,,65 and older,941.0,KAZ
+2018,Percent,,Mangistau,,16-24,538.0,KAZ
+2018,Percent,,Mangistau,,25-28,867.0,KAZ
+2018,Percent,,Mangistau,,29-34,1351.0,KAZ
+2018,Percent,,Mangistau,,35-44,1585.0,KAZ
+2018,Percent,,Mangistau,,45-54,1641.0,KAZ
+2018,Percent,,Mangistau,,55-64,1662.0,KAZ
+2018,Percent,,Mangistau,,65 and older,1421.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,16-24,436.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,25-28,514.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,29-34,608.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,35-44,651.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,45-54,666.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,55-64,672.0,KAZ
+2018,Percent,,Ontustik Kazakhstan,,65 and older,864.0,KAZ
+2018,Percent,,Pavlodar,,16-24,515.0,KAZ
+2018,Percent,,Pavlodar,,25-28,638.0,KAZ
+2018,Percent,,Pavlodar,,29-34,765.0,KAZ
+2018,Percent,,Pavlodar,,35-44,828.0,KAZ
+2018,Percent,,Pavlodar,,45-54,787.0,KAZ
+2018,Percent,,Pavlodar,,55-64,815.0,KAZ
+2018,Percent,,Pavlodar,,65 and older,788.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,16-24,465.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,25-28,566.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,29-34,662.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,35-44,697.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,45-54,629.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,55-64,607.0,KAZ
+2018,Percent,,Soltustik Kazakhstan,,65 and older,639.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,16-24,531.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,25-28,628.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,29-34,738.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,35-44,827.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,45-54,757.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,55-64,714.0,KAZ
+2018,Percent,,Shygys Kazakhstan,,65 and older,890.0,KAZ
+2018,Percent,,Nur-Sultan city,,16-24,724.0,KAZ
+2018,Percent,,Nur-Sultan city,,25-28,1019.0,KAZ
+2018,Percent,,Nur-Sultan city,,29-34,1403.0,KAZ
+2018,Percent,,Nur-Sultan city,,35-44,1654.0,KAZ
+2018,Percent,,Nur-Sultan city,,45-54,1561.0,KAZ
+2018,Percent,,Nur-Sultan city,,55-64,1461.0,KAZ
+2018,Percent,,Nur-Sultan city,,65 and older,1444.0,KAZ
+2018,Percent,,Almaty city,,16-24,729.0,KAZ
+2018,Percent,,Almaty city,,25-28,1021.0,KAZ
+2018,Percent,,Almaty city,,29-34,1380.0,KAZ
+2018,Percent,,Almaty city,,35-44,1726.0,KAZ
+2018,Percent,,Almaty city,,45-54,1357.0,KAZ
+2018,Percent,,Almaty city,,55-64,1246.0,KAZ
+2018,Percent,,Almaty city,,65 and older,1359.0,KAZ
+2018,Percent,,,Male,16-24,612.0,KAZ
+2018,Percent,,,Male,25-28,827.0,KAZ
+2018,Percent,,,Male,29-34,1100.0,KAZ
+2018,Percent,,,Male,35-44,1347.0,KAZ
+2018,Percent,,,Male,45-54,1205.0,KAZ
+2018,Percent,,,Male,55-64,1107.0,KAZ
+2018,Percent,,,Male,65 and older,1276.0,KAZ
+2018,Percent,,,Female,16-24,532.0,KAZ
+2018,Percent,,,Female,25-28,680.0,KAZ
+2018,Percent,,,Female,29-34,788.0,KAZ
+2018,Percent,,,Female,35-44,868.0,KAZ
+2018,Percent,,,Female,45-54,793.0,KAZ
+2018,Percent,,,Female,55-64,758.0,KAZ
+2018,Percent,,,Female,65 and older,968.0,KAZ
+2018,Percent,No breakdown,,,,959.0,KAZ
+2018,Percent,"agriculture, forestry and fishery",,,,537.0,KAZ
+2018,Percent,Industry,,,,1382.0,KAZ
+2018,Percent,Construction,,,,1337.0,KAZ
+2018,Percent,wholesale and retail trade; car and motorcycle repair,,,,935.0,KAZ
+2018,Percent,transport and storage,,,,1178.0,KAZ
+2018,Percent,services (food and dwelling),,,,1295.0,KAZ
+2018,Percent,information and communication,,,,1371.0,KAZ
+2018,Percent,finance and insurance,,,,2270.0,KAZ
+2018,Percent,real estate transactions,,,,982.0,KAZ
+2018,Percent,"Professional, scientific and technical activities",,,,1548.0,KAZ
+2018,Percent,management and support activities,,,,886.0,KAZ
+2018,Percent,government administration and defence,,,,720.0,KAZ
+2018,Percent,education,,,,599.0,KAZ
+2018,Percent,health care and social care,,,,644.0,KAZ
+2018,Percent,"culture, entertainment and leisure",,,,610.0,KAZ
+2018,Percent,provision of other types of services,,,,1549.0,KAZ
+2018,Percent,No breakdown,,Male,,1122.0,KAZ
+2018,Percent,"agriculture, forestry and fishery",,Male,,549.0,KAZ
+2018,Percent,Industry,,Male,,1490.0,KAZ
+2018,Percent,Construction,,Male,,1346.0,KAZ
+2018,Percent,wholesale and retail trade; car and motorcycle repair,,Male,,972.0,KAZ
+2018,Percent,transport and storage,,Male,,1242.0,KAZ
+2018,Percent,services (food and dwelling),,Male,,1837.0,KAZ
+2018,Percent,information and communication,,Male,,1423.0,KAZ
+2018,Percent,finance and insurance,,Male,,2877.0,KAZ
+2018,Percent,real estate transactions,,Male,,1035.0,KAZ
+2018,Percent,"Professional, scientific and technical activities",,Male,,1697.0,KAZ
+2018,Percent,management and support activities,,Male,,893.0,KAZ
+2018,Percent,government administration and defence,,Male,,775.0,KAZ
+2018,Percent,education,,Male,,640.0,KAZ
+2018,Percent,health care and social care,,Male,,717.0,KAZ
+2018,Percent,"culture, entertainment and leisure",,Male,,717.0,KAZ
+2018,Percent,provision of other types of services,,Male,,1624.0,KAZ
+2018,Percent,No breakdown,,Female,,785.0,KAZ
+2018,Percent,"agriculture, forestry and fishery",,Female,,509.0,KAZ
+2018,Percent,Industry,,Female,,1120.0,KAZ
+2018,Percent,Construction,,Female,,1298.0,KAZ
+2018,Percent,wholesale and retail trade; car and motorcycle repair,,Female,,888.0,KAZ
+2018,Percent,transport and storage,,Female,,1005.0,KAZ
+2018,Percent,services (food and dwelling),,Female,,917.0,KAZ
+2018,Percent,information and communication,,Female,,1285.0,KAZ
+2018,Percent,finance and insurance,,Female,,1888.0,KAZ
+2018,Percent,real estate transactions,,Female,,913.0,KAZ
+2018,Percent,"Professional, scientific and technical activities",,Female,,1328.0,KAZ
+2018,Percent,management and support activities,,Female,,863.0,KAZ
+2018,Percent,government administration and defence,,Female,,622.0,KAZ
+2018,Percent,education,,Female,,585.0,KAZ
+2018,Percent,health care and social care,,Female,,619.0,KAZ
+2018,Percent,"culture, entertainment and leisure",,Female,,522.0,KAZ
+2018,Percent,provision of other types of services,,Female,,1452.0,KAZ
+2019,Percent,,,,,1038.0,KAZ
+2019,Percent,,Akmola,,,752.0,KAZ
+2019,Percent,,Aktobe,,,849.0,KAZ
+2019,Percent,,Almaty,,,755.0,KAZ
+2019,Percent,,Atyrau,,,1811.0,KAZ
+2019,Percent,,Batys Kazakhstan,,,980.0,KAZ
+2019,Percent,,Zhambyl,,,705.0,KAZ
+2019,Percent,,Karagandy,,,999.0,KAZ
+2019,Percent,,Kostanay,,,788.0,KAZ
+2019,Percent,,Kyzylorda,,,825.0,KAZ
+2019,Percent,,Mangistau,,,1603.0,KAZ
+2019,Percent,,Pavlodar,,,907.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,,689.0,KAZ
+2019,Percent,,Turkistan,,,644.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,,872.0,KAZ
+2019,Percent,,Nur-Sultan city,,,1436.0,KAZ
+2019,Percent,,Almaty city,,,1405.0,KAZ
+2019,Percent,,Shymkent city,,,699.0,KAZ
+2019,Percent,,,Male,,1229.0,KAZ
+2019,Percent,,Akmola,Male,,839.0,KAZ
+2019,Percent,,Aktobe,Male,,997.0,KAZ
+2019,Percent,,Almaty,Male,,837.0,KAZ
+2019,Percent,,Atyrau,Male,,2217.0,KAZ
+2019,Percent,,Batys Kazakhstan,Male,,1209.0,KAZ
+2019,Percent,,Zhambyl,Male,,766.0,KAZ
+2019,Percent,,Karagandy,Male,,1224.0,KAZ
+2019,Percent,,Kostanay,Male,,883.0,KAZ
+2019,Percent,,Kyzylorda,Male,,945.0,KAZ
+2019,Percent,,Mangistau,Male,,2015.0,KAZ
+2019,Percent,,Pavlodar,Male,,1039.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,Male,,745.0,KAZ
+2019,Percent,,Turkistan,Male,,726.0,KAZ
+2019,Percent,,Shygys Kazakhstan,Male,,956.0,KAZ
+2019,Percent,,Nur-Sultan city,Male,,1672.0,KAZ
+2019,Percent,,Almaty city,Male,,1588.0,KAZ
+2019,Percent,,Shymkent city,Male,,761.0,KAZ
+2019,Percent,,,Female,,842.0,KAZ
+2019,Percent,,Akmola,Female,,667.0,KAZ
+2019,Percent,,Aktobe,Female,,690.0,KAZ
+2019,Percent,,Almaty,Female,,695.0,KAZ
+2019,Percent,,Atyrau,Female,,1173.0,KAZ
+2019,Percent,,Batys Kazakhstan,Female,,761.0,KAZ
+2019,Percent,,Zhambyl,Female,,657.0,KAZ
+2019,Percent,,Karagandy,Female,,764.0,KAZ
+2019,Percent,,Kostanay,Female,,689.0,KAZ
+2019,Percent,,Kyzylorda,Female,,699.0,KAZ
+2019,Percent,,Mangistau,Female,,1051.0,KAZ
+2019,Percent,,Pavlodar,Female,,756.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,Female,,633.0,KAZ
+2019,Percent,,Turkistan,Female,,585.0,KAZ
+2019,Percent,,Shygys Kazakhstan,Female,,774.0,KAZ
+2019,Percent,,Nur-Sultan city,Female,,1190.0,KAZ
+2019,Percent,,Almaty city,Female,,1222.0,KAZ
+2019,Percent,,Shymkent city,Female,,630.0,KAZ
+2019,Percent,,,,16-24,671.0,KAZ
+2019,Percent,,,,25-28,844.0,KAZ
+2019,Percent,,,,29-34,1042.0,KAZ
+2019,Percent,,,,35-44,1181.0,KAZ
+2019,Percent,,,,45-54,1062.0,KAZ
+2019,Percent,,,,55-64,1015.0,KAZ
+2019,Percent,,,,65 and older,1140.0,KAZ
+2019,Percent,,Akmola,,16-24,574.0,KAZ
+2019,Percent,,Akmola,,25-28,674.0,KAZ
+2019,Percent,,Akmola,,29-34,769.0,KAZ
+2019,Percent,,Akmola,,35-44,827.0,KAZ
+2019,Percent,,Akmola,,45-54,746.0,KAZ
+2019,Percent,,Akmola,,55-64,725.0,KAZ
+2019,Percent,,Akmola,,65 and older,809.0,KAZ
+2019,Percent,,Aktobe,,16-24,587.0,KAZ
+2019,Percent,,Aktobe,,25-28,737.0,KAZ
+2019,Percent,,Aktobe,,29-34,854.0,KAZ
+2019,Percent,,Aktobe,,35-44,894.0,KAZ
+2019,Percent,,Aktobe,,45-54,858.0,KAZ
+2019,Percent,,Aktobe,,55-64,903.0,KAZ
+2019,Percent,,Aktobe,,65 and older,990.0,KAZ
+2019,Percent,,Almaty,,16-24,548.0,KAZ
+2019,Percent,,Almaty,,25-28,636.0,KAZ
+2019,Percent,,Almaty,,29-34,769.0,KAZ
+2019,Percent,,Almaty,,35-44,849.0,KAZ
+2019,Percent,,Almaty,,45-54,737.0,KAZ
+2019,Percent,,Almaty,,55-64,755.0,KAZ
+2019,Percent,,Almaty,,65 and older,792.0,KAZ
+2019,Percent,,Atyrau,,16-24,904.0,KAZ
+2019,Percent,,Atyrau,,25-28,1269.0,KAZ
+2019,Percent,,Atyrau,,29-34,1737.0,KAZ
+2019,Percent,,Atyrau,,35-44,2053.0,KAZ
+2019,Percent,,Atyrau,,45-54,2014.0,KAZ
+2019,Percent,,Atyrau,,55-64,2082.0,KAZ
+2019,Percent,,Atyrau,,65 and older,3328.0,KAZ
+2019,Percent,,Batys Kazakhstan,,16-24,537.0,KAZ
+2019,Percent,,Batys Kazakhstan,,25-28,653.0,KAZ
+2019,Percent,,Batys Kazakhstan,,29-34,830.0,KAZ
+2019,Percent,,Batys Kazakhstan,,35-44,1133.0,KAZ
+2019,Percent,,Batys Kazakhstan,,45-54,1112.0,KAZ
+2019,Percent,,Batys Kazakhstan,,55-64,995.0,KAZ
+2019,Percent,,Batys Kazakhstan,,65 and older,1068.0,KAZ
+2019,Percent,,Zhambyl,,16-24,512.0,KAZ
+2019,Percent,,Zhambyl,,25-28,581.0,KAZ
+2019,Percent,,Zhambyl,,29-34,693.0,KAZ
+2019,Percent,,Zhambyl,,35-44,731.0,KAZ
+2019,Percent,,Zhambyl,,45-54,728.0,KAZ
+2019,Percent,,Zhambyl,,55-64,758.0,KAZ
+2019,Percent,,Zhambyl,,65 and older,793.0,KAZ
+2019,Percent,,Karagandy,,16-24,778.0,KAZ
+2019,Percent,,Karagandy,,25-28,938.0,KAZ
+2019,Percent,,Karagandy,,29-34,1038.0,KAZ
+2019,Percent,,Karagandy,,35-44,1053.0,KAZ
+2019,Percent,,Karagandy,,45-54,1001.0,KAZ
+2019,Percent,,Karagandy,,55-64,996.0,KAZ
+2019,Percent,,Karagandy,,65 and older,810.0,KAZ
+2019,Percent,,Kostanay,,16-24,569.0,KAZ
+2019,Percent,,Kostanay,,25-28,708.0,KAZ
+2019,Percent,,Kostanay,,29-34,838.0,KAZ
+2019,Percent,,Kostanay,,35-44,864.0,KAZ
+2019,Percent,,Kostanay,,45-54,768.0,KAZ
+2019,Percent,,Kostanay,,55-64,765.0,KAZ
+2019,Percent,,Kostanay,,65 and older,845.0,KAZ
+2019,Percent,,Kyzylorda,,16-24,533.0,KAZ
+2019,Percent,,Kyzylorda,,25-28,649.0,KAZ
+2019,Percent,,Kyzylorda,,29-34,793.0,KAZ
+2019,Percent,,Kyzylorda,,35-44,901.0,KAZ
+2019,Percent,,Kyzylorda,,45-54,875.0,KAZ
+2019,Percent,,Kyzylorda,,55-64,896.0,KAZ
+2019,Percent,,Kyzylorda,,65 and older,1001.0,KAZ
+2019,Percent,,Mangistau,,16-24,668.0,KAZ
+2019,Percent,,Mangistau,,25-28,896.0,KAZ
+2019,Percent,,Mangistau,,29-34,1468.0,KAZ
+2019,Percent,,Mangistau,,35-44,1804.0,KAZ
+2019,Percent,,Mangistau,,45-54,1866.0,KAZ
+2019,Percent,,Mangistau,,55-64,1853.0,KAZ
+2019,Percent,,Mangistau,,65 and older,1331.0,KAZ
+2019,Percent,,Pavlodar,,16-24,662.0,KAZ
+2019,Percent,,Pavlodar,,25-28,819.0,KAZ
+2019,Percent,,Pavlodar,,29-34,923.0,KAZ
+2019,Percent,,Pavlodar,,35-44,968.0,KAZ
+2019,Percent,,Pavlodar,,45-54,909.0,KAZ
+2019,Percent,,Pavlodar,,55-64,912.0,KAZ
+2019,Percent,,Pavlodar,,65 and older,921.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,16-24,535.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,25-28,629.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,29-34,714.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,35-44,736.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,45-54,677.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,55-64,673.0,KAZ
+2019,Percent,,Soltustik Kazakhstan,,65 and older,731.0,KAZ
+2019,Percent,,Turkistan,,16-24,455.0,KAZ
+2019,Percent,,Turkistan,,25-28,537.0,KAZ
+2019,Percent,,Turkistan,,29-34,610.0,KAZ
+2019,Percent,,Turkistan,,35-44,675.0,KAZ
+2019,Percent,,Turkistan,,45-54,667.0,KAZ
+2019,Percent,,Turkistan,,55-64,685.0,KAZ
+2019,Percent,,Turkistan,,65 and older,1482.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,16-24,639.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,25-28,762.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,29-34,887.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,35-44,948.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,45-54,905.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,55-64,809.0,KAZ
+2019,Percent,,Shygys Kazakhstan,,65 and older,1014.0,KAZ
+2019,Percent,,Nur-Sultan city,,16-24,764.0,KAZ
+2019,Percent,,Nur-Sultan city,,25-28,1056.0,KAZ
+2019,Percent,,Nur-Sultan city,,29-34,1391.0,KAZ
+2019,Percent,,Nur-Sultan city,,35-44,1738.0,KAZ
+2019,Percent,,Nur-Sultan city,,45-54,1532.0,KAZ
+2019,Percent,,Nur-Sultan city,,55-64,1423.0,KAZ
+2019,Percent,,Nur-Sultan city,,65 and older,1471.0,KAZ
+2019,Percent,,Almaty city,,16-24,778.0,KAZ
+2019,Percent,,Almaty city,,25-28,1076.0,KAZ
+2019,Percent,,Almaty city,,29-34,1411.0,KAZ
+2019,Percent,,Almaty city,,35-44,1807.0,KAZ
+2019,Percent,,Almaty city,,45-54,1454.0,KAZ
+2019,Percent,,Almaty city,,55-64,1271.0,KAZ
+2019,Percent,,Almaty city,,65 and older,1453.0,KAZ
+2019,Percent,,Shymkent city,,16-24,496.0,KAZ
+2019,Percent,,Shymkent city,,25-28,593.0,KAZ
+2019,Percent,,Shymkent city,,29-34,695.0,KAZ
+2019,Percent,,Shymkent city,,35-44,735.0,KAZ
+2019,Percent,,Shymkent city,,45-54,747.0,KAZ
+2019,Percent,,Shymkent city,,55-64,761.0,KAZ
+2019,Percent,,Shymkent city,,65 and older,765.0,KAZ
+2019,Percent,,,Male,16-24,729.0,KAZ
+2019,Percent,,,Male,25-28,927.0,KAZ
+2019,Percent,,,Male,29-34,1211.0,KAZ
+2019,Percent,,,Male,35-44,1449.0,KAZ
+2019,Percent,,,Male,45-54,1326.0,KAZ
+2019,Percent,,,Male,55-64,1185.0,KAZ
+2019,Percent,,,Male,65 and older,1314.0,KAZ
+2019,Percent,,,Female,16-24,603.0,KAZ
+2019,Percent,,,Female,25-28,734.0,KAZ
+2019,Percent,,,Female,29-34,838.0,KAZ
+2019,Percent,,,Female,35-44,923.0,KAZ
+2019,Percent,,,Female,45-54,856.0,KAZ
+2019,Percent,,,Female,55-64,824.0,KAZ
+2019,Percent,,,Female,65 and older,886.0,KAZ
+2019,Percent,No breakdown,,,,1038.0,KAZ
+2019,Percent,"agriculture, forestry and fishery",,,,599.0,KAZ
+2019,Percent,Industry,,,,1445.0,KAZ
+2019,Percent,Construction,,,,1692.0,KAZ
+2019,Percent,wholesale and retail trade; car and motorcycle repair,,,,1106.0,KAZ
+2019,Percent,transport and storage,,,,1226.0,KAZ
+2019,Percent,services (food and dwelling),,,,970.0,KAZ
+2019,Percent,information and communication,,,,1580.0,KAZ
+2019,Percent,finance and insurance,,,,2338.0,KAZ
+2019,Percent,real estate transactions,,,,1128.0,KAZ
+2019,Percent,"Professional, scientific and technical activities",,,,1867.0,KAZ
+2019,Percent,management and support activities,,,,1054.0,KAZ
+2019,Percent,government administration and defence,,,,768.0,KAZ
+2019,Percent,education,,,,675.0,KAZ
+2019,Percent,health care and social care,,,,693.0,KAZ
+2019,Percent,"culture, entertainment and leisure",,,,712.0,KAZ
+2019,Percent,provision of other types of services,,,,1822.0,KAZ
+2019,Percent,No breakdown,,Male,,1229.0,KAZ
+2019,Percent,"agriculture, forestry and fishery",,Male,,610.0,KAZ
+2019,Percent,Industry,,Male,,1543.0,KAZ
+2019,Percent,Construction,,Male,,1735.0,KAZ
+2019,Percent,wholesale and retail trade; car and motorcycle repair,,Male,,1172.0,KAZ
+2019,Percent,transport and storage,,Male,,1296.0,KAZ
+2019,Percent,services (food and dwelling),,Male,,1134.0,KAZ
+2019,Percent,information and communication,,Male,,1658.0,KAZ
+2019,Percent,finance and insurance,,Male,,3113.0,KAZ
+2019,Percent,real estate transactions,,Male,,1158.0,KAZ
+2019,Percent,"Professional, scientific and technical activities",,Male,,2108.0,KAZ
+2019,Percent,management and support activities,,Male,,1048.0,KAZ
+2019,Percent,government administration and defence,,Male,,814.0,KAZ
+2019,Percent,education,,Male,,687.0,KAZ
+2019,Percent,health care and social care,,Male,,784.0,KAZ
+2019,Percent,"culture, entertainment and leisure",,Male,,865.0,KAZ
+2019,Percent,provision of other types of services,,Male,,2135.0,KAZ
+2019,Percent,No breakdown,,Female,,842.0,KAZ
+2019,Percent,"agriculture, forestry and fishery",,Female,,571.0,KAZ
+2019,Percent,Industry,,Female,,1194.0,KAZ
+2019,Percent,Construction,,Female,,1453.0,KAZ
+2019,Percent,wholesale and retail trade; car and motorcycle repair,,Female,,1030.0,KAZ
+2019,Percent,transport and storage,,Female,,1051.0,KAZ
+2019,Percent,services (food and dwelling),,Female,,859.0,KAZ
+2019,Percent,information and communication,,Female,,1459.0,KAZ
+2019,Percent,finance and insurance,,Female,,1854.0,KAZ
+2019,Percent,real estate transactions,,Female,,1085.0,KAZ
+2019,Percent,"Professional, scientific and technical activities",,Female,,1514.0,KAZ
+2019,Percent,management and support activities,,Female,,1077.0,KAZ
+2019,Percent,government administration and defence,,Female,,685.0,KAZ
+2019,Percent,education,,Female,,670.0,KAZ
+2019,Percent,health care and social care,,Female,,663.0,KAZ
+2019,Percent,"culture, entertainment and leisure",,Female,,573.0,KAZ
+2019,Percent,provision of other types of services,,Female,,1520.0,KAZ
+2020,Percent,,,,,1187.0,KAZ
+2020,Percent,,Akmola,,,939.0,KAZ
+2020,Percent,,Aktobe,,,999.0,KAZ
+2020,Percent,,Almaty,,,948.0,KAZ
+2020,Percent,,Atyrau,,,1967.0,KAZ
+2020,Percent,,Batys Kazakhstan,,,1110.0,KAZ
+2020,Percent,,Zhambyl,,,829.0,KAZ
+2020,Percent,,Karagandy,,,1140.0,KAZ
+2020,Percent,,Kostanay,,,924.0,KAZ
+2020,Percent,,Kyzylorda,,,976.0,KAZ
+2020,Percent,,Mangistau,,,1697.0,KAZ
+2020,Percent,,Pavlodar,,,1038.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,,851.0,KAZ
+2020,Percent,,Turkistan,,,858.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,,1082.0,KAZ
+2020,Percent,,Nur-Sultan city,,,1633.0,KAZ
+2020,Percent,,Almaty city,,,1461.0,KAZ
+2020,Percent,,Shymkent city,,,970.0,KAZ
+2020,Percent,,,Male,,1339.0,KAZ
+2020,Percent,,Akmola,Male,,998.0,KAZ
+2020,Percent,,Aktobe,Male,,1146.0,KAZ
+2020,Percent,,Almaty,Male,,974.0,KAZ
+2020,Percent,,Atyrau,Male,,2373.0,KAZ
+2020,Percent,,Batys Kazakhstan,Male,,1289.0,KAZ
+2020,Percent,,Zhambyl,Male,,865.0,KAZ
+2020,Percent,,Karagandy,Male,,1311.0,KAZ
+2020,Percent,,Kostanay,Male,,1008.0,KAZ
+2020,Percent,,Kyzylorda,Male,,978.0,KAZ
+2020,Percent,,Mangistau,Male,,2113.0,KAZ
+2020,Percent,,Pavlodar,Male,,1137.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,Male,,896.0,KAZ
+2020,Percent,,Turkistan,Male,,913.0,KAZ
+2020,Percent,,Shygys Kazakhstan,Male,,1171.0,KAZ
+2020,Percent,,Nur-Sultan city,Male,,1817.0,KAZ
+2020,Percent,,Almaty city,Male,,1577.0,KAZ
+2020,Percent,,Shymkent city,Male,,1012.0,KAZ
+2020,Percent,,,Female,,1037.0,KAZ
+2020,Percent,,Akmola,Female,,881.0,KAZ
+2020,Percent,,Aktobe,Female,,844.0,KAZ
+2020,Percent,,Almaty,Female,,930.0,KAZ
+2020,Percent,,Atyrau,Female,,1394.0,KAZ
+2020,Percent,,Batys Kazakhstan,Female,,923.0,KAZ
+2020,Percent,,Zhambyl,Female,,799.0,KAZ
+2020,Percent,,Karagandy,Female,,947.0,KAZ
+2020,Percent,,Kostanay,Female,,837.0,KAZ
+2020,Percent,,Kyzylorda,Female,,974.0,KAZ
+2020,Percent,,Mangistau,Female,,1184.0,KAZ
+2020,Percent,,Pavlodar,Female,,922.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,Female,,807.0,KAZ
+2020,Percent,,Turkistan,Female,,821.0,KAZ
+2020,Percent,,Shygys Kazakhstan,Female,,981.0,KAZ
+2020,Percent,,Nur-Sultan city,Female,,1454.0,KAZ
+2020,Percent,,Almaty city,Female,,1352.0,KAZ
+2020,Percent,,Shymkent city,Female,,938.0,KAZ
+2020,Percent,,,,16-24,800.0,KAZ
+2020,Percent,,,,25-28,1008.0,KAZ
+2020,Percent,,,,29-34,1198.0,KAZ
+2020,Percent,,,,35-44,1312.0,KAZ
+2020,Percent,,,,45-54,1220.0,KAZ
+2020,Percent,,,,55-64,1137.0,KAZ
+2020,Percent,,,,65 and older,1329.0,KAZ
+2020,Percent,,Akmola,,16-24,709.0,KAZ
+2020,Percent,,Akmola,,25-28,847.0,KAZ
+2020,Percent,,Akmola,,29-34,943.0,KAZ
+2020,Percent,,Akmola,,35-44,1050.0,KAZ
+2020,Percent,,Akmola,,45-54,947.0,KAZ
+2020,Percent,,Akmola,,55-64,869.0,KAZ
+2020,Percent,,Akmola,,65 and older,835.0,KAZ
+2020,Percent,,Aktobe,,16-24,706.0,KAZ
+2020,Percent,,Aktobe,,25-28,886.0,KAZ
+2020,Percent,,Aktobe,,29-34,1009.0,KAZ
+2020,Percent,,Aktobe,,35-44,1058.0,KAZ
+2020,Percent,,Aktobe,,45-54,1004.0,KAZ
+2020,Percent,,Aktobe,,55-64,1036.0,KAZ
+2020,Percent,,Aktobe,,65 and older,1040.0,KAZ
+2020,Percent,,Almaty,,16-24,724.0,KAZ
+2020,Percent,,Almaty,,25-28,829.0,KAZ
+2020,Percent,,Almaty,,29-34,959.0,KAZ
+2020,Percent,,Almaty,,35-44,1031.0,KAZ
+2020,Percent,,Almaty,,45-54,947.0,KAZ
+2020,Percent,,Almaty,,55-64,923.0,KAZ
+2020,Percent,,Almaty,,65 and older,955.0,KAZ
+2020,Percent,,Atyrau,,16-24,1051.0,KAZ
+2020,Percent,,Atyrau,,25-28,1544.0,KAZ
+2020,Percent,,Atyrau,,29-34,1930.0,KAZ
+2020,Percent,,Atyrau,,35-44,2066.0,KAZ
+2020,Percent,,Atyrau,,45-54,2258.0,KAZ
+2020,Percent,,Atyrau,,55-64,2045.0,KAZ
+2020,Percent,,Atyrau,,65 and older,1153.0,KAZ
+2020,Percent,,Batys Kazakhstan,,16-24,672.0,KAZ
+2020,Percent,,Batys Kazakhstan,,25-28,826.0,KAZ
+2020,Percent,,Batys Kazakhstan,,29-34,1035.0,KAZ
+2020,Percent,,Batys Kazakhstan,,35-44,1240.0,KAZ
+2020,Percent,,Batys Kazakhstan,,45-54,1240.0,KAZ
+2020,Percent,,Batys Kazakhstan,,55-64,1040.0,KAZ
+2020,Percent,,Batys Kazakhstan,,65 and older,1174.0,KAZ
+2020,Percent,,Zhambyl,,16-24,628.0,KAZ
+2020,Percent,,Zhambyl,,25-28,730.0,KAZ
+2020,Percent,,Zhambyl,,29-34,822.0,KAZ
+2020,Percent,,Zhambyl,,35-44,851.0,KAZ
+2020,Percent,,Zhambyl,,45-54,848.0,KAZ
+2020,Percent,,Zhambyl,,55-64,869.0,KAZ
+2020,Percent,,Zhambyl,,65 and older,1140.0,KAZ
+2020,Percent,,Karagandy,,16-24,850.0,KAZ
+2020,Percent,,Karagandy,,25-28,1041.0,KAZ
+2020,Percent,,Karagandy,,29-34,1185.0,KAZ
+2020,Percent,,Karagandy,,35-44,1242.0,KAZ
+2020,Percent,,Karagandy,,45-54,1131.0,KAZ
+2020,Percent,,Karagandy,,55-64,1098.0,KAZ
+2020,Percent,,Karagandy,,65 and older,983.0,KAZ
+2020,Percent,,Kostanay,,16-24,719.0,KAZ
+2020,Percent,,Kostanay,,25-28,867.0,KAZ
+2020,Percent,,Kostanay,,29-34,971.0,KAZ
+2020,Percent,,Kostanay,,35-44,976.0,KAZ
+2020,Percent,,Kostanay,,45-54,918.0,KAZ
+2020,Percent,,Kostanay,,55-64,902.0,KAZ
+2020,Percent,,Kostanay,,65 and older,910.0,KAZ
+2020,Percent,,Kyzylorda,,16-24,653.0,KAZ
+2020,Percent,,Kyzylorda,,25-28,807.0,KAZ
+2020,Percent,,Kyzylorda,,29-34,977.0,KAZ
+2020,Percent,,Kyzylorda,,35-44,1035.0,KAZ
+2020,Percent,,Kyzylorda,,45-54,1020.0,KAZ
+2020,Percent,,Kyzylorda,,55-64,990.0,KAZ
+2020,Percent,,Kyzylorda,,65 and older,1696.0,KAZ
+2020,Percent,,Mangistau,,16-24,757.0,KAZ
+2020,Percent,,Mangistau,,25-28,1025.0,KAZ
+2020,Percent,,Mangistau,,29-34,1525.0,KAZ
+2020,Percent,,Mangistau,,35-44,1896.0,KAZ
+2020,Percent,,Mangistau,,45-54,1886.0,KAZ
+2020,Percent,,Mangistau,,55-64,1969.0,KAZ
+2020,Percent,,Mangistau,,65 and older,1391.0,KAZ
+2020,Percent,,Pavlodar,,16-24,795.0,KAZ
+2020,Percent,,Pavlodar,,25-28,960.0,KAZ
+2020,Percent,,Pavlodar,,29-34,1039.0,KAZ
+2020,Percent,,Pavlodar,,35-44,1133.0,KAZ
+2020,Percent,,Pavlodar,,45-54,1038.0,KAZ
+2020,Percent,,Pavlodar,,55-64,987.0,KAZ
+2020,Percent,,Pavlodar,,65 and older,1101.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,16-24,674.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,25-28,786.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,29-34,865.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,35-44,893.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,45-54,862.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,55-64,825.0,KAZ
+2020,Percent,,Soltustik Kazakhstan,,65 and older,951.0,KAZ
+2020,Percent,,Turkistan,,16-24,600.0,KAZ
+2020,Percent,,Turkistan,,25-28,676.0,KAZ
+2020,Percent,,Turkistan,,29-34,814.0,KAZ
+2020,Percent,,Turkistan,,35-44,893.0,KAZ
+2020,Percent,,Turkistan,,45-54,907.0,KAZ
+2020,Percent,,Turkistan,,55-64,919.0,KAZ
+2020,Percent,,Turkistan,,65 and older,1372.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,16-24,805.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,25-28,979.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,29-34,1134.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,35-44,1160.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,45-54,1107.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,55-64,997.0,KAZ
+2020,Percent,,Shygys Kazakhstan,,65 and older,1188.0,KAZ
+2020,Percent,,Nur-Sultan city,,16-24,915.0,KAZ
+2020,Percent,,Nur-Sultan city,,25-28,1290.0,KAZ
+2020,Percent,,Nur-Sultan city,,29-34,1617.0,KAZ
+2020,Percent,,Nur-Sultan city,,35-44,1892.0,KAZ
+2020,Percent,,Nur-Sultan city,,45-54,1741.0,KAZ
+2020,Percent,,Nur-Sultan city,,55-64,1625.0,KAZ
+2020,Percent,,Nur-Sultan city,,65 and older,1646.0,KAZ
+2020,Percent,,Almaty city,,16-24,848.0,KAZ
+2020,Percent,,Almaty city,,25-28,1159.0,KAZ
+2020,Percent,,Almaty city,,29-34,1483.0,KAZ
+2020,Percent,,Almaty city,,35-44,1788.0,KAZ
+2020,Percent,,Almaty city,,45-54,1535.0,KAZ
+2020,Percent,,Almaty city,,55-64,1299.0,KAZ
+2020,Percent,,Almaty city,,65 and older,1524.0,KAZ
+2020,Percent,,Shymkent city,,16-24,743.0,KAZ
+2020,Percent,,Shymkent city,,25-28,873.0,KAZ
+2020,Percent,,Shymkent city,,29-34,928.0,KAZ
+2020,Percent,,Shymkent city,,35-44,1014.0,KAZ
+2020,Percent,,Shymkent city,,45-54,1024.0,KAZ
+2020,Percent,,Shymkent city,,55-64,991.0,KAZ
+2020,Percent,,Shymkent city,,65 and older,996.0,KAZ
+2020,Percent,,,Male,16-24,838.0,KAZ
+2020,Percent,,,Male,25-28,1074.0,KAZ
+2020,Percent,,,Male,29-34,1349.0,KAZ
+2020,Percent,,,Male,35-44,1538.0,KAZ
+2020,Percent,,,Male,45-54,1417.0,KAZ
+2020,Percent,,,Male,55-64,1242.0,KAZ
+2020,Percent,,,Male,65 and older,1468.0,KAZ
+2020,Percent,,,Female,16-24,757.0,KAZ
+2020,Percent,,,Female,25-28,923.0,KAZ
+2020,Percent,,,Female,29-34,1018.0,KAZ
+2020,Percent,,,Female,35-44,1100.0,KAZ
+2020,Percent,,,Female,45-54,1072.0,KAZ
+2020,Percent,,,Female,55-64,1025.0,KAZ
+2020,Percent,,,Female,65 and older,1147.0,KAZ
+2020,Percent,No breakdown,,,,1187.0,KAZ
+2020,Percent,"agriculture, forestry and fishery",,,,769.0,KAZ
+2020,Percent,Industry,,,,1604.0,KAZ
+2020,Percent,Construction,,,,1496.0,KAZ
+2020,Percent,wholesale and retail trade; car and motorcycle repair,,,,1200.0,KAZ
+2020,Percent,transport and storage,,,,1304.0,KAZ
+2020,Percent,services (food and dwelling),,,,1749.0,KAZ
+2020,Percent,information and communication,,,,1681.0,KAZ
+2020,Percent,finance and insurance,,,,1943.0,KAZ
+2020,Percent,real estate transactions,,,,1092.0,KAZ
+2020,Percent,"Professional, scientific and technical activities",,,,1912.0,KAZ
+2020,Percent,management and support activities,,,,1019.0,KAZ
+2020,Percent,government administration and defence,,,,909.0,KAZ
+2020,Percent,education,,,,942.0,KAZ
+2020,Percent,health care and social care,,,,957.0,KAZ
+2020,Percent,"culture, entertainment and leisure",,,,840.0,KAZ
+2020,Percent,provision of other types of services,,,,2061.0,KAZ
+2020,Percent,No breakdown,,Male,,1339.0,KAZ
+2020,Percent,"agriculture, forestry and fishery",,Male,,813.0,KAZ
+2020,Percent,Industry,,Male,,1718.0,KAZ
+2020,Percent,Construction,,Male,,1521.0,KAZ
+2020,Percent,wholesale and retail trade; car and motorcycle repair,,Male,,1289.0,KAZ
+2020,Percent,transport and storage,,Male,,1368.0,KAZ
+2020,Percent,services (food and dwelling),,Male,,2507.0,KAZ
+2020,Percent,information and communication,,Male,,1810.0,KAZ
+2020,Percent,finance and insurance,,Male,,2442.0,KAZ
+2020,Percent,real estate transactions,,Male,,1063.0,KAZ
+2020,Percent,"Professional, scientific and technical activities",,Male,,2159.0,KAZ
+2020,Percent,management and support activities,,Male,,993.0,KAZ
+2020,Percent,government administration and defence,,Male,,958.0,KAZ
+2020,Percent,education,,Male,,932.0,KAZ
+2020,Percent,health care and social care,,Male,,1034.0,KAZ
+2020,Percent,"culture, entertainment and leisure",,Male,,942.0,KAZ
+2020,Percent,provision of other types of services,,Male,,2138.0,KAZ
+2020,Percent,No breakdown,,Female,,1037.0,KAZ
+2020,Percent,"agriculture, forestry and fishery",,Female,,657.0,KAZ
+2020,Percent,Industry,,Female,,1315.0,KAZ
+2020,Percent,Construction,,Female,,1384.0,KAZ
+2020,Percent,wholesale and retail trade; car and motorcycle repair,,Female,,1113.0,KAZ
+2020,Percent,transport and storage,,Female,,1142.0,KAZ
+2020,Percent,services (food and dwelling),,Female,,1192.0,KAZ
+2020,Percent,information and communication,,Female,,1487.0,KAZ
+2020,Percent,finance and insurance,,Female,,1633.0,KAZ
+2020,Percent,real estate transactions,,Female,,1137.0,KAZ
+2020,Percent,"Professional, scientific and technical activities",,Female,,1573.0,KAZ
+2020,Percent,management and support activities,,Female,,1109.0,KAZ
+2020,Percent,government administration and defence,,Female,,824.0,KAZ
+2020,Percent,education,,Female,,946.0,KAZ
+2020,Percent,health care and social care,,Female,,929.0,KAZ
+2020,Percent,"culture, entertainment and leisure",,Female,,749.0,KAZ
+2020,Percent,provision of other types of services,,Female,,1990.0,KAZ

@@ -1,0 +1,27 @@
+Year,UNIT_MEASURE,Area,Regions,Value,M49_country_code,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Observation-level footnotes,GeoCode
+2018,Percent,urban,,68.7,KAZ,,,,,,
+2018,Percent,rural,,8.6,KAZ,,,,,,
+2019,Percent,urban,,70.5,KAZ,,,,,,
+2019,Percent,rural,,8.8,KAZ,,,,,,
+2018,,,,96.3,KGZ,,,,,,
+2018,,,,96.1,KGZ,,Urban,,,,
+2018,,,,96.5,KGZ,,Rural,,,,
+2018,,,,99.6,KGZ,Batken,,,,,KG05
+2018,,,,93.4,KGZ,Jalal-Abad,,,,,KG03
+2018,,,,99.1,KGZ,Issyk-Kul,,,,,KG02
+2018,,,,99.4,KGZ,Naryn,,,,,KG04
+2018,,,,99.1,KGZ,Osh,,,,,KG06
+2018,,,,99.8,KGZ,Talas,,,,,KG07
+2018,,,,91.6,KGZ,Chui,,,,,KG08
+2018,,,,95.7,KGZ,Bishkek (city),,,,,KG11
+2018,,,,96.8,KGZ,Osh (city),,,,,KG21
+2018,,,,92.1,KGZ,,,,Primary education,household head education,
+2018,,,,94.7,KGZ,,,,Lower secondary education,household head education,
+2018,,,,97.4,KGZ,,,,Upper secondary education,household head education,
+2018,,,,96.6,KGZ,,,,Post-secondary non-tertiary education,household head education,
+2018,,,,95.1,KGZ,,,,Short-cycle tertiary education,household head education,
+2018,,,,97.2,KGZ,,,Quintile 1 (poorest),,,
+2018,,,,95.9,KGZ,,,Quintile 2,,,
+2018,,,,96.5,KGZ,,,Quintile 3,,,
+2018,,,,96.4,KGZ,,,Quintile 4,,,
+2018,,,,95.7,KGZ,,,Quintile 5 (richest),,,

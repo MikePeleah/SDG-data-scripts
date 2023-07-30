@@ -1,0 +1,80 @@
+Year,UNIT_MEASURE,Regions,Value,M49_country_code,unique_id,col_caption_name,col_caption_name1_empty,year,value
+2016.0,Percent,,66.4,KAZ,,,,,
+2017.0,Percent,,68.6,KAZ,,,,,
+2018.0,Percent,,80.0,KAZ,,,,,
+2019.0,Percent,,85.1,KAZ,,,,,
+2019.0,Percent,Akmola,97.0,KAZ,,,,,
+2019.0,Percent,Aktobe,90.0,KAZ,,,,,
+2019.0,Percent,Almaty,76.7,KAZ,,,,,
+2019.0,Percent,Atyrau,89.6,KAZ,,,,,
+2019.0,Percent,Batys Kazakhstan,91.4,KAZ,,,,,
+2019.0,Percent,Zhambyl,91.5,KAZ,,,,,
+2019.0,Percent,Karagandy,82.6,KAZ,,,,,
+2019.0,Percent,Kostanay,89.7,KAZ,,,,,
+2019.0,Percent,Kyzylorda,89.2,KAZ,,,,,
+2019.0,Percent,Mangistau,66.2,KAZ,,,,,
+2019.0,Percent,Pavlodar,85.0,KAZ,,,,,
+2019.0,Percent,Soltustik Kazakhstan,89.2,KAZ,,,,,
+2019.0,Percent,Turkistan,89.9,KAZ,,,,,
+2019.0,Percent,Shygys Kazakhstan,96.7,KAZ,,,,,
+2019.0,Percent,Nur-Sultan city,84.1,KAZ,,,,,
+2019.0,Percent,Almaty city,89.0,KAZ,,,,,
+2019.0,Percent,Shymkent city,77.3,KAZ,,,,,
+2020.0,Percent,,81.4,KAZ,,,,,
+2020.0,Percent,Akmola,47.0,KAZ,,,,,
+2020.0,Percent,Aktobe,75.4,KAZ,,,,,
+2020.0,Percent,Almaty,85.7,KAZ,,,,,
+2020.0,Percent,Atyrau,87.0,KAZ,,,,,
+2020.0,Percent,Batys Kazakhstan,90.8,KAZ,,,,,
+2020.0,Percent,Zhambyl,96.6,KAZ,,,,,
+2020.0,Percent,Karagandy,70.9,KAZ,,,,,
+2020.0,Percent,Kostanay,47.0,KAZ,,,,,
+2020.0,Percent,Kyzylorda,70.9,KAZ,,,,,
+2020.0,Percent,Mangistau,88.5,KAZ,,,,,
+2020.0,Percent,Pavlodar,80.0,KAZ,,,,,
+2020.0,Percent,Soltustik Kazakhstan,65.0,KAZ,,,,,
+2020.0,Percent,Turkistan,95.3,KAZ,,,,,
+2020.0,Percent,Shygys Kazakhstan,70.4,KAZ,,,,,
+2020.0,Percent,Nur-Sultan city,100.0,KAZ,,,,,
+2020.0,Percent,Almaty city,100.0,KAZ,,,,,
+2020.0,Percent,Shymkent city,100.0,KAZ,,,,,
+2021.0,Percent,,82.0,KAZ,,,,,
+2021.0,Percent,Akmola,51.0,KAZ,,,,,
+2021.0,Percent,Aktobe,75.0,KAZ,,,,,
+2021.0,Percent,Almaty,87.7,KAZ,,,,,
+2021.0,Percent,Atyrau,98.0,KAZ,,,,,
+2021.0,Percent,Batys Kazakhstan,74.8,KAZ,,,,,
+2021.0,Percent,Zhambyl,97.3,KAZ,,,,,
+2021.0,Percent,Karagandy,82.0,KAZ,,,,,
+2021.0,Percent,Kostanay,70.0,KAZ,,,,,
+2021.0,Percent,Kyzylorda,70.8,KAZ,,,,,
+2021.0,Percent,Mangistau,88.5,KAZ,,,,,
+2021.0,Percent,Pavlodar,80.0,KAZ,,,,,
+2021.0,Percent,Soltustik Kazakhstan,65.0,KAZ,,,,,
+2021.0,Percent,Turkistan,97.0,KAZ,,,,,
+2021.0,Percent,Shygys Kazakhstan,59.0,KAZ,,,,,
+2021.0,Percent,Nur-Sultan city,100.0,KAZ,,,,,
+2021.0,Percent,Almaty city,100.0,KAZ,,,,,
+2021.0,Percent,Shymkent city,99.0,KAZ,,,,,
+,,,,UZB,01_101_,Total,True,2000.0,0.0
+,,,,UZB,01_101_,Total,True,2001.0,0.0
+,,,,UZB,01_101_,Total,True,2002.0,0.0
+,,,,UZB,01_101_,Total,True,2003.0,0.0
+,,,,UZB,01_101_,Total,True,2004.0,0.0
+,,,,UZB,01_101_,Total,True,2005.0,0.0
+,,,,UZB,01_101_,Total,True,2006.0,0.0
+,,,,UZB,01_101_,Total,True,2007.0,0.0
+,,,,UZB,01_101_,Total,True,2008.0,0.0
+,,,,UZB,01_101_,Total,True,2009.0,0.0
+,,,,UZB,01_101_,Total,True,2010.0,0.0
+,,,,UZB,01_101_,Total,True,2011.0,0.0
+,,,,UZB,01_101_,Total,True,2012.0,0.0
+,,,,UZB,01_101_,Total,True,2013.0,0.0
+,,,,UZB,01_101_,Total,True,2014.0,0.0
+,,,,UZB,01_101_,Total,True,2015.0,0.0
+,,,,UZB,01_101_,Total,True,2016.0,0.0
+,,,,UZB,01_101_,Total,True,2017.0,22.8
+,,,,UZB,01_101_,Total,True,2018.0,43.6
+,,,,UZB,01_101_,Total,True,2019.0,45.2
+,,,,UZB,01_101_,Total,True,2020.0,48.7
+,,,,UZB,01_101_,Total,True,2021.0,100.0
