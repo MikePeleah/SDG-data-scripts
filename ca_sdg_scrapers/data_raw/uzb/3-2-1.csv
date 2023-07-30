@@ -1,0 +1,331 @@
+unique_id,col_caption_name,col_caption_name1_empty,year,value
+01_101_,Total,True,2000,28.5
+01_101_,Total,True,2001,26.6
+01_101_,Total,True,2002,24.3
+01_101_,Total,True,2003,23.2
+01_101_,Total,True,2004,21.4
+01_101_,Total,True,2005,20.6
+01_101_,Total,True,2006,20.1
+01_101_,Total,True,2007,18.8
+01_101_,Total,True,2008,17.3
+01_101_,Total,True,2009,15.9
+01_101_,Total,True,2010,14.8
+01_101_,Total,True,2011,14.1
+01_101_,Total,True,2012,13.8
+01_101_,Total,True,2013,13.4
+01_101_,Total,True,2014,13.9
+01_101_,Total,True,2015,15.1
+01_101_,Total,True,2016,14.1
+01_101_,Total,True,2017,15.4
+01_101_,Total,True,2018,13.1
+01_101_,Total,True,2019,12.4
+01_101_,Total,True,2020,12
+01_101_,Total,True,2021,12.3
+10_104_,Republic of Karakalpakstan,True,2000,32.4
+10_104_,Republic of Karakalpakstan,True,2001,32.8
+10_104_,Republic of Karakalpakstan,True,2002,29.7
+10_104_,Republic of Karakalpakstan,True,2003,24.9
+10_104_,Republic of Karakalpakstan,True,2004,25.9
+10_104_,Republic of Karakalpakstan,True,2005,23.7
+10_104_,Republic of Karakalpakstan,True,2006,22.9
+10_104_,Republic of Karakalpakstan,True,2007,19.7
+10_104_,Republic of Karakalpakstan,True,2008,18.7
+10_104_,Republic of Karakalpakstan,True,2009,18.7
+10_104_,Republic of Karakalpakstan,True,2010,16.5
+10_104_,Republic of Karakalpakstan,True,2011,15.2
+10_104_,Republic of Karakalpakstan,True,2012,16.3
+10_104_,Republic of Karakalpakstan,True,2013,15.8
+10_104_,Republic of Karakalpakstan,True,2014,16.1
+10_104_,Republic of Karakalpakstan,True,2015,15.7
+10_104_,Republic of Karakalpakstan,True,2016,17.1
+10_104_,Republic of Karakalpakstan,True,2017,20.9
+10_104_,Republic of Karakalpakstan,True,2018,17.3
+10_104_,Republic of Karakalpakstan,True,2019,14.1
+10_104_,Republic of Karakalpakstan,True,2020,14.4
+10_104_,Republic of Karakalpakstan,True,2021,13.5
+10_105_,Andizhan Region,True,2000,23.7
+10_105_,Andizhan Region,True,2001,23.2
+10_105_,Andizhan Region,True,2002,20.7
+10_105_,Andizhan Region,True,2003,20.1
+10_105_,Andizhan Region,True,2004,19.7
+10_105_,Andizhan Region,True,2005,17.6
+10_105_,Andizhan Region,True,2006,19.3
+10_105_,Andizhan Region,True,2007,20.9
+10_105_,Andizhan Region,True,2008,17.3
+10_105_,Andizhan Region,True,2009,14.8
+10_105_,Andizhan Region,True,2010,12.8
+10_105_,Andizhan Region,True,2011,12.9
+10_105_,Andizhan Region,True,2012,15
+10_105_,Andizhan Region,True,2013,15
+10_105_,Andizhan Region,True,2014,15
+10_105_,Andizhan Region,True,2015,17.6
+10_105_,Andizhan Region,True,2016,17.5
+10_105_,Andizhan Region,True,2017,19.9
+10_105_,Andizhan Region,True,2018,17.4
+10_105_,Andizhan Region,True,2019,15.4
+10_105_,Andizhan Region,True,2020,15.3
+10_105_,Andizhan Region,True,2021,15
+10_106_,Bukhara Region,True,2000,27.8
+10_106_,Bukhara Region,True,2001,24.4
+10_106_,Bukhara Region,True,2002,20.9
+10_106_,Bukhara Region,True,2003,20.3
+10_106_,Bukhara Region,True,2004,19.4
+10_106_,Bukhara Region,True,2005,16.5
+10_106_,Bukhara Region,True,2006,17.5
+10_106_,Bukhara Region,True,2007,17.8
+10_106_,Bukhara Region,True,2008,17.9
+10_106_,Bukhara Region,True,2009,16.8
+10_106_,Bukhara Region,True,2010,15.3
+10_106_,Bukhara Region,True,2011,14.2
+10_106_,Bukhara Region,True,2012,14.3
+10_106_,Bukhara Region,True,2013,12.8
+10_106_,Bukhara Region,True,2014,13.3
+10_106_,Bukhara Region,True,2015,13.3
+10_106_,Bukhara Region,True,2016,12.4
+10_106_,Bukhara Region,True,2017,12.6
+10_106_,Bukhara Region,True,2018,9.6
+10_106_,Bukhara Region,True,2019,10.3
+10_106_,Bukhara Region,True,2020,9.4
+10_106_,Bukhara Region,True,2021,10
+10_107_,Dzhizak Region,True,2000,25.4
+10_107_,Dzhizak Region,True,2001,26.8
+10_107_,Dzhizak Region,True,2002,21.2
+10_107_,Dzhizak Region,True,2003,20.1
+10_107_,Dzhizak Region,True,2004,17
+10_107_,Dzhizak Region,True,2005,17.5
+10_107_,Dzhizak Region,True,2006,15.3
+10_107_,Dzhizak Region,True,2007,15.6
+10_107_,Dzhizak Region,True,2008,15
+10_107_,Dzhizak Region,True,2009,13.8
+10_107_,Dzhizak Region,True,2010,12.2
+10_107_,Dzhizak Region,True,2011,11.2
+10_107_,Dzhizak Region,True,2012,10.8
+10_107_,Dzhizak Region,True,2013,9.6
+10_107_,Dzhizak Region,True,2014,13.3
+10_107_,Dzhizak Region,True,2015,13.5
+10_107_,Dzhizak Region,True,2016,14.2
+10_107_,Dzhizak Region,True,2017,17.7
+10_107_,Dzhizak Region,True,2018,13.8
+10_107_,Dzhizak Region,True,2019,14.8
+10_107_,Dzhizak Region,True,2020,11.7
+10_107_,Dzhizak Region,True,2021,13.2
+10_108_,Kashkadarya Region,True,2000,29.3
+10_108_,Kashkadarya Region,True,2001,28
+10_108_,Kashkadarya Region,True,2002,25.7
+10_108_,Kashkadarya Region,True,2003,22.4
+10_108_,Kashkadarya Region,True,2004,20.7
+10_108_,Kashkadarya Region,True,2005,19.7
+10_108_,Kashkadarya Region,True,2006,18.9
+10_108_,Kashkadarya Region,True,2007,18.2
+10_108_,Kashkadarya Region,True,2008,17
+10_108_,Kashkadarya Region,True,2009,16.2
+10_108_,Kashkadarya Region,True,2010,13.6
+10_108_,Kashkadarya Region,True,2011,13.7
+10_108_,Kashkadarya Region,True,2012,12.9
+10_108_,Kashkadarya Region,True,2013,11.6
+10_108_,Kashkadarya Region,True,2014,11.3
+10_108_,Kashkadarya Region,True,2015,12.5
+10_108_,Kashkadarya Region,True,2016,11.2
+10_108_,Kashkadarya Region,True,2017,13.2
+10_108_,Kashkadarya Region,True,2018,12.9
+10_108_,Kashkadarya Region,True,2019,11.2
+10_108_,Kashkadarya Region,True,2020,11.2
+10_108_,Kashkadarya Region,True,2021,14.4
+10_109_,Navoi Region,True,2000,27.7
+10_109_,Navoi Region,True,2001,25.2
+10_109_,Navoi Region,True,2002,21
+10_109_,Navoi Region,True,2003,22.4
+10_109_,Navoi Region,True,2004,18.1
+10_109_,Navoi Region,True,2005,16.7
+10_109_,Navoi Region,True,2006,15.2
+10_109_,Navoi Region,True,2007,13.7
+10_109_,Navoi Region,True,2008,13.2
+10_109_,Navoi Region,True,2009,12.5
+10_109_,Navoi Region,True,2010,10.1
+10_109_,Navoi Region,True,2011,10.5
+10_109_,Navoi Region,True,2012,11.5
+10_109_,Navoi Region,True,2013,10.5
+10_109_,Navoi Region,True,2014,12
+10_109_,Navoi Region,True,2015,12.4
+10_109_,Navoi Region,True,2016,11.8
+10_109_,Navoi Region,True,2017,12.5
+10_109_,Navoi Region,True,2018,8.9
+10_109_,Navoi Region,True,2019,9.7
+10_109_,Navoi Region,True,2020,9.1
+10_109_,Navoi Region,True,2021,9.9
+10_110_,Namangan Region,True,2000,29.3
+10_110_,Namangan Region,True,2001,25.7
+10_110_,Namangan Region,True,2002,23.3
+10_110_,Namangan Region,True,2003,22.3
+10_110_,Namangan Region,True,2004,19.2
+10_110_,Namangan Region,True,2005,20.6
+10_110_,Namangan Region,True,2006,17.9
+10_110_,Namangan Region,True,2007,19.1
+10_110_,Namangan Region,True,2008,17.7
+10_110_,Namangan Region,True,2009,15.8
+10_110_,Namangan Region,True,2010,15.6
+10_110_,Namangan Region,True,2011,16.2
+10_110_,Namangan Region,True,2012,15.7
+10_110_,Namangan Region,True,2013,14.1
+10_110_,Namangan Region,True,2014,14.5
+10_110_,Namangan Region,True,2015,16
+10_110_,Namangan Region,True,2016,13.7
+10_110_,Namangan Region,True,2017,18.6
+10_110_,Namangan Region,True,2018,15.4
+10_110_,Namangan Region,True,2019,13.7
+10_110_,Namangan Region,True,2020,14.1
+10_110_,Namangan Region,True,2021,13.5
+10_111_,Samarkand Region,True,2000,25.3
+10_111_,Samarkand Region,True,2001,24.7
+10_111_,Samarkand Region,True,2002,23.1
+10_111_,Samarkand Region,True,2003,21.1
+10_111_,Samarkand Region,True,2004,18.7
+10_111_,Samarkand Region,True,2005,19
+10_111_,Samarkand Region,True,2006,17.5
+10_111_,Samarkand Region,True,2007,17.6
+10_111_,Samarkand Region,True,2008,15.3
+10_111_,Samarkand Region,True,2009,13.1
+10_111_,Samarkand Region,True,2010,13.3
+10_111_,Samarkand Region,True,2011,12.1
+10_111_,Samarkand Region,True,2012,11
+10_111_,Samarkand Region,True,2013,11
+10_111_,Samarkand Region,True,2014,11.3
+10_111_,Samarkand Region,True,2015,13.8
+10_111_,Samarkand Region,True,2016,10.7
+10_111_,Samarkand Region,True,2017,10.3
+10_111_,Samarkand Region,True,2018,10.1
+10_111_,Samarkand Region,True,2019,9.7
+10_111_,Samarkand Region,True,2020,8.5
+10_111_,Samarkand Region,True,2021,9.1
+10_112_,Surkhandarya Region,True,2000,34.9
+10_112_,Surkhandarya Region,True,2001,29.7
+10_112_,Surkhandarya Region,True,2002,26.9
+10_112_,Surkhandarya Region,True,2003,24.9
+10_112_,Surkhandarya Region,True,2004,19.8
+10_112_,Surkhandarya Region,True,2005,19.3
+10_112_,Surkhandarya Region,True,2006,17.2
+10_112_,Surkhandarya Region,True,2007,15.7
+10_112_,Surkhandarya Region,True,2008,14.8
+10_112_,Surkhandarya Region,True,2009,13.6
+10_112_,Surkhandarya Region,True,2010,13.6
+10_112_,Surkhandarya Region,True,2011,12.8
+10_112_,Surkhandarya Region,True,2012,13.3
+10_112_,Surkhandarya Region,True,2013,14.2
+10_112_,Surkhandarya Region,True,2014,15.6
+10_112_,Surkhandarya Region,True,2015,15.3
+10_112_,Surkhandarya Region,True,2016,14.8
+10_112_,Surkhandarya Region,True,2017,15.3
+10_112_,Surkhandarya Region,True,2018,14
+10_112_,Surkhandarya Region,True,2019,13.8
+10_112_,Surkhandarya Region,True,2020,12.8
+10_112_,Surkhandarya Region,True,2021,14.4
+10_113_,Syrdarya Region,True,2000,25.3
+10_113_,Syrdarya Region,True,2001,24.9
+10_113_,Syrdarya Region,True,2002,23.6
+10_113_,Syrdarya Region,True,2003,22.3
+10_113_,Syrdarya Region,True,2004,22.1
+10_113_,Syrdarya Region,True,2005,19.7
+10_113_,Syrdarya Region,True,2006,20
+10_113_,Syrdarya Region,True,2007,17.9
+10_113_,Syrdarya Region,True,2008,17.6
+10_113_,Syrdarya Region,True,2009,15.1
+10_113_,Syrdarya Region,True,2010,13.4
+10_113_,Syrdarya Region,True,2011,13.3
+10_113_,Syrdarya Region,True,2012,14.3
+10_113_,Syrdarya Region,True,2013,13.6
+10_113_,Syrdarya Region,True,2014,13.8
+10_113_,Syrdarya Region,True,2015,16.1
+10_113_,Syrdarya Region,True,2016,17.8
+10_113_,Syrdarya Region,True,2017,17.2
+10_113_,Syrdarya Region,True,2018,15.7
+10_113_,Syrdarya Region,True,2019,15
+10_113_,Syrdarya Region,True,2020,13
+10_113_,Syrdarya Region,True,2021,13.2
+10_114_,Tashkent Region,True,2000,26.9
+10_114_,Tashkent Region,True,2001,23.8
+10_114_,Tashkent Region,True,2002,23
+10_114_,Tashkent Region,True,2003,20.8
+10_114_,Tashkent Region,True,2004,21.4
+10_114_,Tashkent Region,True,2005,22
+10_114_,Tashkent Region,True,2006,20
+10_114_,Tashkent Region,True,2007,18
+10_114_,Tashkent Region,True,2008,15.8
+10_114_,Tashkent Region,True,2009,15.3
+10_114_,Tashkent Region,True,2010,14.7
+10_114_,Tashkent Region,True,2011,14
+10_114_,Tashkent Region,True,2012,12.7
+10_114_,Tashkent Region,True,2013,14
+10_114_,Tashkent Region,True,2014,13.5
+10_114_,Tashkent Region,True,2015,14.3
+10_114_,Tashkent Region,True,2016,14.5
+10_114_,Tashkent Region,True,2017,14.3
+10_114_,Tashkent Region,True,2018,12
+10_114_,Tashkent Region,True,2019,12.2
+10_114_,Tashkent Region,True,2020,12.8
+10_114_,Tashkent Region,True,2021,11.2
+10_115_,Fergana Region,True,2000,28.5
+10_115_,Fergana Region,True,2001,27.4
+10_115_,Fergana Region,True,2002,24.9
+10_115_,Fergana Region,True,2003,26.9
+10_115_,Fergana Region,True,2004,26
+10_115_,Fergana Region,True,2005,24.6
+10_115_,Fergana Region,True,2006,26.3
+10_115_,Fergana Region,True,2007,22.3
+10_115_,Fergana Region,True,2008,19.9
+10_115_,Fergana Region,True,2009,19.7
+10_115_,Fergana Region,True,2010,18.3
+10_115_,Fergana Region,True,2011,16.9
+10_115_,Fergana Region,True,2012,15.8
+10_115_,Fergana Region,True,2013,13.7
+10_115_,Fergana Region,True,2014,12.4
+10_115_,Fergana Region,True,2015,13.1
+10_115_,Fergana Region,True,2016,10.9
+10_115_,Fergana Region,True,2017,10.8
+10_115_,Fergana Region,True,2018,9.2
+10_115_,Fergana Region,True,2019,8.7
+10_115_,Fergana Region,True,2020,8.9
+10_115_,Fergana Region,True,2021,8.3
+10_116_,Khorezm Region,True,2000,37.9
+10_116_,Khorezm Region,True,2001,30.1
+10_116_,Khorezm Region,True,2002,28
+10_116_,Khorezm Region,True,2003,26.2
+10_116_,Khorezm Region,True,2004,24.1
+10_116_,Khorezm Region,True,2005,21.8
+10_116_,Khorezm Region,True,2006,22.5
+10_116_,Khorezm Region,True,2007,18.5
+10_116_,Khorezm Region,True,2008,20.2
+10_116_,Khorezm Region,True,2009,15.8
+10_116_,Khorezm Region,True,2010,15.8
+10_116_,Khorezm Region,True,2011,14.6
+10_116_,Khorezm Region,True,2012,14.6
+10_116_,Khorezm Region,True,2013,12.7
+10_116_,Khorezm Region,True,2014,17.2
+10_116_,Khorezm Region,True,2015,17.7
+10_116_,Khorezm Region,True,2016,18.1
+10_116_,Khorezm Region,True,2017,20.2
+10_116_,Khorezm Region,True,2018,15.3
+10_116_,Khorezm Region,True,2019,15.6
+10_116_,Khorezm Region,True,2020,14.6
+10_116_,Khorezm Region,True,2021,15.9
+10_117_,Tashkent City,True,2000,23
+10_117_,Tashkent City,True,2001,25.1
+10_117_,Tashkent City,True,2002,25.3
+10_117_,Tashkent City,True,2003,29.1
+10_117_,Tashkent City,True,2004,25.7
+10_117_,Tashkent City,True,2005,26.5
+10_117_,Tashkent City,True,2006,27.2
+10_117_,Tashkent City,True,2007,22.5
+10_117_,Tashkent City,True,2008,20.6
+10_117_,Tashkent City,True,2009,18.7
+10_117_,Tashkent City,True,2010,19.3
+10_117_,Tashkent City,True,2011,17.6
+10_117_,Tashkent City,True,2012,15.1
+10_117_,Tashkent City,True,2013,17.2
+10_117_,Tashkent City,True,2014,19.2
+10_117_,Tashkent City,True,2015,22
+10_117_,Tashkent City,True,2016,20.1
+10_117_,Tashkent City,True,2017,19.7
+10_117_,Tashkent City,True,2018,14.5
+10_117_,Tashkent City,True,2019,14.4
+10_117_,Tashkent City,True,2020,14
+10_117_,Tashkent City,True,2021,13

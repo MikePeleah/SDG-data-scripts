@@ -1,0 +1,177 @@
+unique_id,col_caption_name,col_caption_name1_empty,year,value
+10_101_,Total,True,2000,0
+10_101_,Total,True,2001,0
+10_101_,Total,True,2002,0
+10_101_,Total,True,2003,0
+10_101_,Total,True,2004,0
+10_101_,Total,True,2005,0
+10_101_,Total,True,2006,0
+10_101_,Total,True,2007,0
+10_101_,Total,True,2008,0
+10_101_,Total,True,2009,0
+10_101_,Total,True,2010,0
+10_101_,Total,True,2011,0
+10_101_,Total,True,2012,0
+10_101_,Total,True,2013,0
+10_101_,Total,True,2014,0
+10_101_,Total,True,2015,0
+10_101_,Total,True,2016,0
+10_101_,Total,True,2017,0.9
+10_101_,Total,True,2018,0.9
+10_101_,Total,True,2019,0.9
+10_101_,Total,True,2020,0.9
+10_101_,Total,True,2021,0.9
+10_102_,city,True,2000,0
+10_102_,city,True,2001,0
+10_102_,city,True,2002,0
+10_102_,city,True,2003,0
+10_102_,city,True,2004,0
+10_102_,city,True,2005,0
+10_102_,city,True,2006,0
+10_102_,city,True,2007,0
+10_102_,city,True,2008,0
+10_102_,city,True,2009,0
+10_102_,city,True,2010,0
+10_102_,city,True,2011,0
+10_102_,city,True,2012,0
+10_102_,city,True,2013,0
+10_102_,city,True,2014,0
+10_102_,city,True,2015,0
+10_102_,city,True,2016,0
+10_102_,city,True,2017,0.9
+10_102_,city,True,2018,0.9
+10_102_,city,True,2019,0.9
+10_102_,city,True,2020,0.9
+10_102_,city,True,2021,0.9
+10_103_,village,True,2000,0
+10_103_,village,True,2001,0
+10_103_,village,True,2002,0
+10_103_,village,True,2003,0
+10_103_,village,True,2004,0
+10_103_,village,True,2005,0
+10_103_,village,True,2006,0
+10_103_,village,True,2007,0
+10_103_,village,True,2008,0
+10_103_,village,True,2009,0
+10_103_,village,True,2010,0
+10_103_,village,True,2011,0
+10_103_,village,True,2012,0
+10_103_,village,True,2013,0
+10_103_,village,True,2014,0
+10_103_,village,True,2015,0
+10_103_,village,True,2016,0
+10_103_,village,True,2017,0.9
+10_103_,village,True,2018,0.9
+10_103_,village,True,2019,0.9
+10_103_,village,True,2020,0.9
+10_103_,village,True,2021,0.9
+10_161_,quintile 1,True,2000,0
+10_161_,quintile 1,True,2001,0
+10_161_,quintile 1,True,2002,0
+10_161_,quintile 1,True,2003,0
+10_161_,quintile 1,True,2004,0
+10_161_,quintile 1,True,2005,0
+10_161_,quintile 1,True,2006,0
+10_161_,quintile 1,True,2007,0
+10_161_,quintile 1,True,2008,0
+10_161_,quintile 1,True,2009,0
+10_161_,quintile 1,True,2010,0
+10_161_,quintile 1,True,2011,0
+10_161_,quintile 1,True,2012,0
+10_161_,quintile 1,True,2013,0
+10_161_,quintile 1,True,2014,0
+10_161_,quintile 1,True,2015,0
+10_161_,quintile 1,True,2016,0
+10_161_,quintile 1,True,2017,0.9
+10_161_,quintile 1,True,2018,0.9
+10_161_,quintile 1,True,2019,0.9
+10_161_,quintile 1,True,2020,1.1
+10_161_,quintile 1,True,2021,1
+10_162_,quintile 2,True,2000,0
+10_162_,quintile 2,True,2001,0
+10_162_,quintile 2,True,2002,0
+10_162_,quintile 2,True,2003,0
+10_162_,quintile 2,True,2004,0
+10_162_,quintile 2,True,2005,0
+10_162_,quintile 2,True,2006,0
+10_162_,quintile 2,True,2007,0
+10_162_,quintile 2,True,2008,0
+10_162_,quintile 2,True,2009,0
+10_162_,quintile 2,True,2010,0
+10_162_,quintile 2,True,2011,0
+10_162_,quintile 2,True,2012,0
+10_162_,quintile 2,True,2013,0
+10_162_,quintile 2,True,2014,0
+10_162_,quintile 2,True,2015,0
+10_162_,quintile 2,True,2016,0
+10_162_,quintile 2,True,2017,1
+10_162_,quintile 2,True,2018,1
+10_162_,quintile 2,True,2019,1
+10_162_,quintile 2,True,2020,0.9
+10_162_,quintile 2,True,2021,1
+10_163_,quintile 3,True,2000,0
+10_163_,quintile 3,True,2001,0
+10_163_,quintile 3,True,2002,0
+10_163_,quintile 3,True,2003,0
+10_163_,quintile 3,True,2004,0
+10_163_,quintile 3,True,2005,0
+10_163_,quintile 3,True,2006,0
+10_163_,quintile 3,True,2007,0
+10_163_,quintile 3,True,2008,0
+10_163_,quintile 3,True,2009,0
+10_163_,quintile 3,True,2010,0
+10_163_,quintile 3,True,2011,0
+10_163_,quintile 3,True,2012,0
+10_163_,quintile 3,True,2013,0
+10_163_,quintile 3,True,2014,0
+10_163_,quintile 3,True,2015,0
+10_163_,quintile 3,True,2016,0
+10_163_,quintile 3,True,2017,0.9
+10_163_,quintile 3,True,2018,0.9
+10_163_,quintile 3,True,2019,0.9
+10_163_,quintile 3,True,2020,0.9
+10_163_,quintile 3,True,2021,0.9
+10_164_,quintile 4,True,2000,0
+10_164_,quintile 4,True,2001,0
+10_164_,quintile 4,True,2002,0
+10_164_,quintile 4,True,2003,0
+10_164_,quintile 4,True,2004,0
+10_164_,quintile 4,True,2005,0
+10_164_,quintile 4,True,2006,0
+10_164_,quintile 4,True,2007,0
+10_164_,quintile 4,True,2008,0
+10_164_,quintile 4,True,2009,0
+10_164_,quintile 4,True,2010,0
+10_164_,quintile 4,True,2011,0
+10_164_,quintile 4,True,2012,0
+10_164_,quintile 4,True,2013,0
+10_164_,quintile 4,True,2014,0
+10_164_,quintile 4,True,2015,0
+10_164_,quintile 4,True,2016,0
+10_164_,quintile 4,True,2017,0.9
+10_164_,quintile 4,True,2018,0.9
+10_164_,quintile 4,True,2019,0.9
+10_164_,quintile 4,True,2020,0.9
+10_164_,quintile 4,True,2021,0.9
+10_165_,quintile 5,True,2000,0
+10_165_,quintile 5,True,2001,0
+10_165_,quintile 5,True,2002,0
+10_165_,quintile 5,True,2003,0
+10_165_,quintile 5,True,2004,0
+10_165_,quintile 5,True,2005,0
+10_165_,quintile 5,True,2006,0
+10_165_,quintile 5,True,2007,0
+10_165_,quintile 5,True,2008,0
+10_165_,quintile 5,True,2009,0
+10_165_,quintile 5,True,2010,0
+10_165_,quintile 5,True,2011,0
+10_165_,quintile 5,True,2012,0
+10_165_,quintile 5,True,2013,0
+10_165_,quintile 5,True,2014,0
+10_165_,quintile 5,True,2015,0
+10_165_,quintile 5,True,2016,0
+10_165_,quintile 5,True,2017,0.8
+10_165_,quintile 5,True,2018,0.8
+10_165_,quintile 5,True,2019,0.8
+10_165_,quintile 5,True,2020,0.8
+10_165_,quintile 5,True,2021,0.8
