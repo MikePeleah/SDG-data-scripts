@@ -18,8 +18,8 @@ class Scraper(Configurable):
     @classmethod
     def get_scraper(cls, country_id: str, path_to_config: Union[str, Path, None] = None, *args, **kwargs) -> Self:
         """Get scraper for a specific country code."""
-        config = Config(path_to_config)
-        country_params = config.get_country_params(country_id)
+        config = Config(path_to_config=path_to_config, country_id=country_id)
+        country_params = config.get_country_params()
 
         scraper = getattr(sys.modules[__name__], country_params['scraper'])
         return scraper(country_id, path_to_config=path_to_config, *args, **kwargs)

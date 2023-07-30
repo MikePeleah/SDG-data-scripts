@@ -13,8 +13,8 @@ class Transformer(Configurable):
     @classmethod
     def get_transformer(cls, country_id: str, path_to_config: Union[str, Path, None] = None, *args, **kwargs) -> Self:
         """Get transformer for a specific country code."""
-        config = Config(path_to_config)
-        country_params = config.get_country_params(country_id)
+        config = Config(path_to_config, country_id=country_id)
+        country_params = config.get_country_params()
 
         transformer = getattr(sys.modules[__name__], country_params['transformer'])
         return transformer(country_id, path_to_config=path_to_config, *args, **kwargs)
